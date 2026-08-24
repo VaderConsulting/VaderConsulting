@@ -21,6 +21,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | Repository | Overview | Last Updated |
 |------------|----------|--------------|
 | [ACControls](https://github.com/VaderConsulting/ACControls) | Legacy C# Windows application. | 2026-08-24 |
+| [active-directory-ldap-tools](https://github.com/VaderConsulting/active-directory-ldap-tools) | C# Visual Studio 2012 LDAP helper and ManageUsers WinForms app for Active Directory user lookup. | — |
 | [ActLog](https://github.com/VaderConsulting/ActLog) | Tracks User Logon and Logoff events | 2026-08-24 |
 | [Adafruit_BusIO](https://github.com/VaderConsulting/Adafruit_BusIO) | Arduino sketch or library from the Arduino archive. | 2026-08-24 |
 | [Adafruit_Circuit_Playground](https://github.com/VaderConsulting/Adafruit_Circuit_Playground) | Arduino sketch or library from the Arduino archive. | 2026-08-24 |
@@ -75,7 +76,6 @@ If you recognise code in any repository as your own work and it is not properly 
 | [I2CScanner](https://github.com/VaderConsulting/I2CScanner) | Arduino sketch or library from the Arduino archive. | 2026-08-24 |
 | [Keyboard](https://github.com/VaderConsulting/Keyboard) | Arduino sketch or library from the Arduino archive. | 2026-08-24 |
 | [LastLogon-VB](https://github.com/VaderConsulting/LastLogon-VB) | — | 2026-07-19 |
-| [LDAP](https://github.com/VaderConsulting/LDAP) | — | 2026-07-19 |
 | [LEDClock](https://github.com/VaderConsulting/LEDClock) | Arduino sketch or library from the Arduino archive. | 2026-08-24 |
 | [Lockouts-VB](https://github.com/VaderConsulting/Lockouts-VB) | — | 2026-07-19 |
 | [LogonStatus-VB](https://github.com/VaderConsulting/LogonStatus-VB) | — | 2026-07-19 |
