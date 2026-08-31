@@ -204,7 +204,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Tagger](https://github.com/VaderConsulting/Tagger) | Tagger is a Visual Studio 2003 VB.NET Pocket PC WinForms app for lasertag match scoring and timing. frmMain hosts a Scores tab with six named teams whose +/- buttons change integer scores, and a Clocks tab with two… | 2004-10-05 |
 | [TaskManagerLibrary](https://github.com/VaderConsulting/TaskManagerLibrary) | TaskManagerLibrary is a C# WinForms UserControl that starts long-running tasks and reports status via a combo box and progress bar. | 2018-02-22 |
 | [Temp](https://github.com/VaderConsulting/Temp) | Temp is unused Visual Studio 2003 scratch with a stock empty VB.NET WinForms Test app and a Setup1 installer project. | 2005-06-15 |
-| [Tesla](https://github.com/VaderConsulting/Tesla) | A .NET 5 Windows Forms application simulating the Tesla Model 3 high-voltage battery pack. | 2022-02-17 |
+| [Tesla-Battery-Sim](https://github.com/VaderConsulting/Tesla-Battery-Sim) | A .NET 5 Windows Forms application simulating the Tesla Model 3 high-voltage battery pack. | 2022-02-17 |
 | [Test](https://github.com/VaderConsulting/Test) | Test is a C# WinForms scratch app that opens extra Form1 windows and starts a five-second BackgroundWorker on Close. | 2013-08-21 |
 | [Test-Application](https://github.com/VaderConsulting/Test-Application) | Test Application is a VB.NET WinForms helper that walks a folder tree and totals the size of JPEG and BMP files. | 2006-10-19 |
 | [Test-Project](https://github.com/VaderConsulting/Test-Project) | Test Project is a VB.NET WinForms experiment that zips every file on D:\ into D:\test.zip using ICSharpCode.SharpZipLib. | 2007-12-06 |
