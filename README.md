@@ -69,7 +69,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Create-Synchronicity](https://github.com/VaderConsulting/Create-Synchronicity) | Create Synchronicity is a portable VB.NET backup and folder-synchronization program (v5.2.1) that runs named profiles, a scheduler, include/exclude patterns, and optional GZip compression. | 2011-05-04 |
 | [CtrlCloneTst](https://github.com/VaderConsulting/CtrlCloneTst) | C# | 2006-02-21 |
 | [CurrencyConvertor](https://github.com/VaderConsulting/CurrencyConvertor) | VB.NET WinForms app that converts amounts via the webservicex.net CurrencyConvertor SOAP ConversionRate API. | 2005-08-10 |
-| [CustomControls](https://github.com/VaderConsulting/CustomControls) | A multi-target Windows Forms class library providing reusable custom UI controls. | - |
+| [CustomControls](https://github.com/VaderConsulting/CustomControls) | A multi-target Windows Forms class library providing reusable custom UI controls. | 2022-04-30 |
 | [CustomRichTextBox](https://github.com/VaderConsulting/CustomRichTextBox) | A Windows Forms RichTextBox control extended with print support and drag-and-drop text, available in both VB.NET (.NET 4.8) and C# (.NET 5) editions. | - |
 | [DavesNotepad](https://github.com/VaderConsulting/DavesNotepad) | VB.NET MDI notepad that opens .txt files into child frmFile windows with a docked multiline editor. | 2008-11-03 |
 | [DevGuidelines](https://github.com/VaderConsulting/DevGuidelines) | VB.NET WinForms sample whose frmMain documents Dave Robinson's coding guidelines: XML comments, regions, a Username property, and correct versus Hungarian-style method names. | 2008-09-24 |
@@ -81,7 +81,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Embedded](https://github.com/VaderConsulting/Embedded) | C# .NET Micro Framework working copies: FEZ Panda II Application1 (Realtag watchdog, SD config, display/keypad), Panda Encoder (GHI FEZ rotary encoder via Toolbox.NETMF.Hardware), and a Netduino Plus LED blinker. | 2012-11-10 |
 | [Encoder](https://github.com/VaderConsulting/Encoder) | Counts quadrature pulses from rotary & linear position encoders. | - |
 | [ESP8266_Microgear](https://github.com/VaderConsulting/ESP8266_Microgear) | A client library for ESP8266 to connect to NETPIE IOT Platform. | 2020-06-30 |
-| [EventReader](https://github.com/VaderConsulting/EventReader) | A lightweight Windows system tray utility that monitors the Windows Event Log in real time and delivers balloon-tip notifications when matching events are written. | - |
+| [EventReader](https://github.com/VaderConsulting/EventReader) | A lightweight Windows system tray utility that monitors the Windows Event Log in real time and delivers balloon-tip notifications when matching events are written. | 2020-01-21 |
 | [EWOW](https://github.com/VaderConsulting/EWOW) | VB.NET WinForms Mission Controller (EWOW) whose startup object is Mission_Controller.frmMain. | 2005-09-11 |
 | [FastColoredTextBox-master](https://github.com/VaderConsulting/FastColoredTextBox-master) | Working copy of Pavel Torgashov's FastColoredTextBox (assembly FastColoredTextBox 2.9.7.0): a C# WinForms UserControl for syntax-colored editing targeting .NET 2.0. | 2013-03-01 |
 | [FastColoredTextBoxCF](https://github.com/VaderConsulting/FastColoredTextBoxCF) | Working copy of Pavel Torgashov's FastColoredTextBox Compact Framework port (assembly FastColoredTextBox 4.6.2): a C# syntax-colored textbox UserControl targeting .NET Compact Framework 2.0 / Pocket PC 2003. | 2011-06-08 |
@@ -130,14 +130,14 @@ If you recognise code in any repository as your own work and it is not properly 
 | [MonoAndroidApplication1](https://github.com/VaderConsulting/MonoAndroidApplication1) | C# Mono for Android template app whose Activity1 button increments a click counter on each tap. | 2012-03-17 |
 | [motion_src](https://github.com/VaderConsulting/motion_src) | VS 2017 C# WinForms (.NET 2.0) working copy of Andrew Kirillov's AForge Motion Detector v.1.5.0. | 2018-12-23 |
 | [MsTimer2](https://github.com/VaderConsulting/MsTimer2) | Run an interrupt function using Timer2. | - |
-| [Multi-Node](https://github.com/VaderConsulting/Multi-Node) | A C# implementation of a master/repeater/user-device WiFi network protocol for up to 100 nodes covering a 1 km2 area. | - |
+| [Multi-Node](https://github.com/VaderConsulting/Multi-Node) | A C# implementation of a master/repeater/user-device WiFi network protocol for up to 100 nodes covering a 1 km2 area. | 2025-06-22 |
 | [MVC](https://github.com/VaderConsulting/MVC) | C# Pharmacy Assistant WinForms (.NET 3.5) plus Savemor ASP.NET MVC 4 site for pharmacy product, catalog, and store data. | 2013-09-09 |
 | [MyNamespace](https://github.com/VaderConsulting/MyNamespace) | VS 2008 mixed VB.NET/C# (.NET 2.0) sample: MyNamespace wraps My.User/Computer for a WinForms host. | 2008-03-27 |
 | [MyWestnetUsage](https://github.com/VaderConsulting/MyWestnetUsage) | VS 2008 VB.NET WinForms (.NET 3.5) client for the Westnet ADSL usage SOAP API (plan, peak, off-peak). | 2008-08-10 |
 | [Name-Creator](https://github.com/VaderConsulting/Name-Creator) | VB.NET WinForms (.NET 3.5) app that generates 10,000 random male/female names from D:\Data lists. | 2008-05-14 |
 | [Notched_Shaft_Encoder](https://github.com/VaderConsulting/Notched_Shaft_Encoder) | Monitor the postion and clickable button status from a Notched Shaft Encoder. | 2020-06-09 |
-| [NPOIHelper](https://github.com/VaderConsulting/NPOIHelper) | Extension methods for the NPOI library that simplify writing values into Excel spreadsheet cells via the ISheet interface. | - |
-| [Nuget](https://github.com/VaderConsulting/Nuget) | A multi-surface NuGet package auditing system for .NET solutions. | - |
+| [NPOIHelper](https://github.com/VaderConsulting/NPOIHelper) | Extension methods for the NPOI library that simplify writing values into Excel spreadsheet cells via the ISheet interface. | 2021-04-05 |
+| [Nuget](https://github.com/VaderConsulting/Nuget) | A multi-surface NuGet package auditing system for .NET solutions. | 2026-04-04 |
 | [OLEDClock](https://github.com/VaderConsulting/OLEDClock) | Arduino clock that draws time on a 128×32 SSD1306 OLED via Adafruit GFX/SSD1306, with a DS1307 RTC and a notched-shaft encoder to set hours and minutes. | 2022-05-08 |
 | [Operator-Console](https://github.com/VaderConsulting/Operator-Console) | VS 2008 VB.NET WinForms (.NET 3.5) CADS Operator Console: LDAP/phone MDI, Password Master, and WCF host test. | 2008-12-02 |
 | [OutlookAddIn1](https://github.com/VaderConsulting/OutlookAddIn1) | VS 2008 VB.NET VSTO (.NET 3.5) Outlook 2003 add-in stub with empty ThisAddIn handlers and a setup project. | 2008-02-26 |
@@ -166,7 +166,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Reflection](https://github.com/VaderConsulting/Reflection) | VB.NET plugin-host sample. | 2010-03-09 |
 | [ReflectionSolution](https://github.com/VaderConsulting/ReflectionSolution) | Parallel C# and VB.NET learning solution. | 2008-05-21 |
 | [Renci.SshNet](https://github.com/VaderConsulting/Renci.SshNet) | VS 2012 C# (.NET 4.0) class library working copy of SSH.NET (Renci.SshNet 2013.4.7) with SshClient, SftpClient, ScpClient, local/remote/dynamic port forwarding, and NetConfClient. | 2015-06-20 |
-| [RolandConverter](https://github.com/VaderConsulting/RolandConverter) | A Windows Forms utility that converts between Roland S-MRC (Roland proprietary sequencer format) and standard MIDI (.mid) files. | - |
+| [RolandConverter](https://github.com/VaderConsulting/RolandConverter) | A Windows Forms utility that converts between Roland S-MRC (Roland proprietary sequencer format) and standard MIDI (.mid) files. | 2025-05-24 |
 | [RollToDodge](https://github.com/VaderConsulting/RollToDodge) | VB.NET WinForms helper for Roll to Dodge play-by-post games. | 2010-06-16 |
 | [Rotate](https://github.com/VaderConsulting/Rotate) | XNA Game Studio 3.1 Windows class-library stub. | 2010-04-26 |
 | [RTClib](https://github.com/VaderConsulting/RTClib) | A fork of Jeelab's fantastic RTC library. | 2021-12-21 |
@@ -204,24 +204,24 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Tagger](https://github.com/VaderConsulting/Tagger) | Tagger is a Visual Studio 2003 VB.NET Pocket PC WinForms app for lasertag match scoring and timing. frmMain hosts a Scores tab with six named teams whose +/- buttons change integer scores, and a Clocks tab with two… | 2004-10-05 |
 | [TaskManagerLibrary](https://github.com/VaderConsulting/TaskManagerLibrary) | TaskManagerLibrary is a C# WinForms UserControl that starts long-running tasks and reports status via a combo box and progress bar. | 2018-02-22 |
 | [Temp](https://github.com/VaderConsulting/Temp) | Temp is unused Visual Studio 2003 scratch with a stock empty VB.NET WinForms Test app and a Setup1 installer project. | 2005-06-15 |
-| [Tesla](https://github.com/VaderConsulting/Tesla) | A .NET 5 Windows Forms application simulating the Tesla Model 3 high-voltage battery pack. | - |
+| [Tesla](https://github.com/VaderConsulting/Tesla) | A .NET 5 Windows Forms application simulating the Tesla Model 3 high-voltage battery pack. | 2022-02-17 |
 | [Test](https://github.com/VaderConsulting/Test) | Test is a C# WinForms scratch app that opens extra Form1 windows and starts a five-second BackgroundWorker on Close. | 2013-08-21 |
 | [Test-Application](https://github.com/VaderConsulting/Test-Application) | Test Application is a VB.NET WinForms helper that walks a folder tree and totals the size of JPEG and BMP files. | 2006-10-19 |
 | [Test-Project](https://github.com/VaderConsulting/Test-Project) | Test Project is a VB.NET WinForms experiment that zips every file on D:\ into D:\test.zip using ICSharpCode.SharpZipLib. | 2007-12-06 |
 | [Test.ExchangeServices](https://github.com/VaderConsulting/Test.ExchangeServices) | Test.ExchangeServices is a C# WCF ASP.NET website that exposes GetCalendarEvents for Microsoft Exchange calendars. | 2013-12-06 |
-| [TextRuler](https://github.com/VaderConsulting/TextRuler) | A .NET Framework 4.8 Windows Forms application demonstrating a rich-text editor paired with a fully interactive Word-style ruler control. | - |
+| [TextRuler](https://github.com/VaderConsulting/TextRuler) | A .NET Framework 4.8 Windows Forms application demonstrating a rich-text editor paired with a fully interactive Word-style ruler control. | 2015-02-04 |
 | [Thermistor](https://github.com/VaderConsulting/Thermistor) | Small Arduino sketch that reads analog pin 0 as a 10 kΩ thermistor divider and converts the ADC count to Celsius with a Steinhart-Hart expression. | 2020-10-30 |
 | [TimeSpent](https://github.com/VaderConsulting/TimeSpent) | TimeSpent is a C# console app that exports Exchange calendar appointments to CSV so you can review hours spent from Outlook. | 2013-12-09 |
 | [TinyWireM](https://github.com/VaderConsulting/TinyWireM) | I2C library for Trinket and Gemma, adapted from BroHogan's code on Arduino Playground. | - |
 | [TM1637TinyDisplay](https://github.com/VaderConsulting/TM1637TinyDisplay) | A simple library to display numbers, text and animation on 4 and 6 digit 7-segment TM1637 based display modules. | 2022-02-22 |
 | [Toast](https://github.com/VaderConsulting/Toast) | C# VS 2015 solution for Windows toast-style notifications plus a Win10-style Action Center. | 2016-10-02 |
 | [Tracing](https://github.com/VaderConsulting/Tracing) | VB.NET VS 2008 scratch for sending System.Diagnostics.Trace over UDP. | 2010-02-21 |
-| [TrackConversion](https://github.com/VaderConsulting/TrackConversion) | A .NET 6 Windows Forms utility that converts TracPlus and RockAIR GPS tracking CSV export files into standard GPX 1.1 format, ready for import into Garmin BaseCamp, Google Earth, QGIS, or any GPX-compatible mapping tool. | - |
+| [TrackConversion](https://github.com/VaderConsulting/TrackConversion) | A .NET 6 Windows Forms utility that converts TracPlus and RockAIR GPS tracking CSV export files into standard GPX 1.1 format, ready for import into Garmin BaseCamp, Google Earth, QGIS, or any GPX-compatible mapping tool. | 2022-11-13 |
 | [TreeViewWalker](https://github.com/VaderConsulting/TreeViewWalker) | A lightweight .NET class library that simplifies recursive traversal of Windows Forms TreeView controls using an event-driven visitor pattern. | - |
 | [UDP](https://github.com/VaderConsulting/UDP) | VB.NET VS 2008 UDP send/receive library plus a LocalMessenger LAN chat. | 2010-02-21 |
 | [USB](https://github.com/VaderConsulting/USB) | Two VB.NET USB experiments. | 2009-01-07 |
 | [UserMembership-VB](https://github.com/VaderConsulting/UserMembership-VB) | Legacy VB.NET utility for retrieving Active Directory user group membership. | - |
-| [Utilities](https://github.com/VaderConsulting/Utilities) | A comprehensive Windows Forms utility class library available in three .NET editions (.NET 4.8, .NET 5, .NET 8). | - |
+| [Utilities](https://github.com/VaderConsulting/Utilities) | A comprehensive Windows Forms utility class library available in three .NET editions (.NET 4.8, .NET 5, .NET 8). | 2022-05-09 |
 | [Utilities.Standard](https://github.com/VaderConsulting/Utilities.Standard) | A cross-platform (.NET Core 3.1) build of the Utilities library, using Microsoft.Windows.Compatibility for WinForms support. | - |
 | [Utility](https://github.com/VaderConsulting/Utility) | A lightweight, cross-platform extension methods library for .NET Standard 2.0 and .NET Core. | - |
 | [Utility.Standard](https://github.com/VaderConsulting/Utility.Standard) | A .NET Standard 2.0 / .NET 5 compatible utility library providing extension methods for serialization, type conversion, reflection, and general-purpose .NET development. | - |
@@ -242,13 +242,13 @@ If you recognise code in any repository as your own work and it is not properly 
 | [VaderConsulting.SystemCenter](https://github.com/VaderConsulting/VaderConsulting.SystemCenter) | C# .NET Framework 3.5 class library that builds and imports System Center Operations Manager 2012 Service Designer management packs from lists of component servers and services. | 2015-03-14 |
 | [VaderConsulting.TextRuler](https://github.com/VaderConsulting/VaderConsulting.TextRuler) | A Windows Forms UserControl rendering a fully interactive text ruler similar to the ruler found in Microsoft Word. | - |
 | [VB](https://github.com/VaderConsulting/VB) | VB is Dave Robinson's Visual Basic 6 working folder from OneDrive Historical Dev: Windows IT-admin utilities (ADSI ACL editors, PC audit, bandwidth monitor, NAT discovery, GPO HTML/XML dumps) plus samples and a large… | 2019-02-10 |
-| [VS-Extensions-Mermaid](https://github.com/VaderConsulting/VS-Extensions-Mermaid) | A Visual Studio 2022 VSIX extension that converts C# source code into Mermaid flow and sequence diagrams, rendered live in an embedded WebView2 tool window. | - |
+| [VS-Extensions-Mermaid](https://github.com/VaderConsulting/VS-Extensions-Mermaid) | A Visual Studio 2022 VSIX extension that converts C# source code into Mermaid flow and sequence diagrams, rendered live in an embedded WebView2 tool window. | 2026-03-08 |
 | [VXT-Importer](https://github.com/VaderConsulting/VXT-Importer) | C# VS 2008 WinForms that reads a bang-separated VXT phone.dat, lists unique divisions/departments, then imports the directory records. | 2008-05-26 |
 | [WaveHC](https://github.com/VaderConsulting/WaveHC) | WaveHC wave shield library. | 2019-01-03 |
 | [WCF](https://github.com/VaderConsulting/WCF) | VB.NET Visual Studio 2008 solution for a duplex WCF license-oriented service and a matching WinForms client. | 2008-08-21 |
 | [WCFService](https://github.com/VaderConsulting/WCFService) | VB.NET Visual Studio 2008 WCF web application that exposes a CADS4 configuration service over basicHttpBinding. | 2008-10-02 |
 | [webcam](https://github.com/VaderConsulting/webcam) | Dave Robinson's working copy of Wei-Meng Lee's VB.NET WinForms webcam server/client that streams BMP frames over TCP. | 2008-08-31 |
-| [WebLogin](https://github.com/VaderConsulting/WebLogin) | A .NET 6 console application that uses Selenium WebDriver to silently scrape real-time photovoltaic (PV) power-generation data from a local solar-inverter web interface and display it continuously on the console. | - |
+| [WebLogin](https://github.com/VaderConsulting/WebLogin) | A .NET 6 console application that uses Selenium WebDriver to silently scrape real-time photovoltaic (PV) power-generation data from a local solar-inverter web interface and display it continuously on the console. | 2023-02-25 |
 | [WebTest](https://github.com/VaderConsulting/WebTest) | VB.NET Visual Studio 2005 ASMX web service that records computer status rows into a Jet/Access database for Empired-style status tracking. | 2007-05-08 |
 | [WheelOfTime](https://github.com/VaderConsulting/WheelOfTime) | VB.NET Visual Studio 2008 WinForms MUD client that talks Telnet-style ASCII to a hardcoded game host on port 2222. frmMUDClient connects with TcpClient, sends CRLF-terminated lines from a Send box, and a 500 ms timer… | 2010-02-10 |
 | [WindowsApplication1](https://github.com/VaderConsulting/WindowsApplication1) | Visual Studio 2008 .NET 3.5 WinForms scratch: VB Form1 tries to reverse "abc123" on load; unused C# template sits beside it. | 2011-04-22 |
