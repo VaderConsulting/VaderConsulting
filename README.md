@@ -44,7 +44,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [AltSoftSerial](https://github.com/VaderConsulting/AltSoftSerial) | Software emulated serial using hardware timers for improved compatibility. | 2019-05-01 |
 | [Arduino](https://github.com/VaderConsulting/Arduino) | Combined Arduino archive: Dave Robinson's sketches (clocks, Model 3 battery SOC LEDs, thermistor, HID joystick stub, I2C scanner) plus the libraries working copies used to build them. | 2020-09-03 |
 | [arduino_644462](https://github.com/VaderConsulting/arduino_644462) | Arduino library to control Grove_4Digital_Display TM1637. | 2018-05-21 |
-| [AssetImporter](https://github.com/VaderConsulting/AssetImporter) | - | 2006-07-03 |
+| [AssetImporter](https://github.com/VaderConsulting/AssetImporter) | Legacy VB.NET Visual Studio project. | 2006-07-03 |
 | [Audit-V1](https://github.com/VaderConsulting/Audit-V1) | VB6 | 2020-09-24 |
 | [Audit-V2](https://github.com/VaderConsulting/Audit-V2) | VB6 | 2005-07-02 |
 | [automatic-graph-layout-master](https://github.com/VaderConsulting/automatic-graph-layout-master) | Microsoft Automatic Graph Layout (MSAGL) is a C# toolkit for laying out and viewing graphs: Sugiyama layered layout, MDS, incremental layout, rectilinear and spline edge routing, and GDI/WPF viewers with pan, zoom,… | 2015-09-18 |
