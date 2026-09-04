@@ -2,6 +2,9 @@
 
 Personal GitHub archive of development projects spanning ~2005 to present - a mix of tools, libraries, proof-of-concepts, and active research work in C# / .NET.
 
+
+**Source last updated:** 2018-07-02
+
 ---
 
 ## About This Archive
