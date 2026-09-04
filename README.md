@@ -28,7 +28,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [ActLog](https://github.com/VaderConsulting/ActLog) | VB.NET · Tracks User Logon and Logoff events | 2009-01-17 |
 | [Adafruit_BusIO](https://github.com/VaderConsulting/Adafruit_BusIO) | C++ / Arduino · This is a library for abstracting away UART, I2C and SPI interfacing. | 2022-03-01 |
 | [Adafruit_Circuit_Playground](https://github.com/VaderConsulting/Adafruit_Circuit_Playground) | C++ / Arduino · All in one library to control Adafruit's Circuit Playground board. | 2021-12-10 |
-| [Adafruit_GFX_Library](https://github.com/VaderConsulting/Adafruit_GFX_Library) | C++ / Arduino · Adafruit GFX graphics core library, this is the 'core' class that all our other graphics libraries derive from. | 2022-01-25 |
+| [Adafruit_GFX_Library](https://github.com/VaderConsulting/Adafruit_GFX_Library) | C++ / Arduino · Adafruit GFX graphics core library, this is the 'core' class that all our other graphics libraries derive from. | 2016-12-11 |
 | [Adafruit_GPS_Library](https://github.com/VaderConsulting/Adafruit_GPS_Library) | C++ / Arduino · An interrupt-based GPS library for no-parsing-required use. | 2022-02-11 |
 | [Adafruit_HMC5883_Unified](https://github.com/VaderConsulting/Adafruit_HMC5883_Unified) | C++ / Arduino · Adafruit HMC5883L 3-Axis Magnetometer Breakout library using Adafruit's Unified Sensor Library. | 2019-05-23 |
 | [Adafruit_ILI9341](https://github.com/VaderConsulting/Adafruit_ILI9341) | C++ / Arduino · Library for Adafruit ILI9341 displays. | 2021-11-03 |
