@@ -7,6 +7,10 @@ Personal GitHub archive of development projects spanning ~2005 to present - a mi
 
 ---
 
+## Requirements
+
+- None (profile catalog README only; no buildable project in this repo)
+
 ## About This Archive
 
 Many of these repositories contain code written over a long period of time, some of it predating GitHub itself. A number of projects were originally built by adapting or studying code from community sources such as [CodeProject](https://www.codeproject.com), open-source libraries, or examples found online.
