@@ -129,7 +129,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Microsoft-Press](https://github.com/VaderConsulting/Microsoft-Press) | C# · Microsoft Press Workflow Step by Step Chapter 1 working copy: a VS 2012 C# console host (.NET 3.0) that CreateWorkflow-starts SequentialWorkflowActivi | 2013-04-21 |
 | [MonoAndroidApplication1](https://github.com/VaderConsulting/MonoAndroidApplication1) | C# · VS 2010 C# Mono for Android (Novell MonoDroid) working copy whose MainLauncher Activity1 inflates Main.axml, finds MyButton (Hello World, Click Me!),  | 2012-03-17 |
 | [motion_src](https://github.com/VaderConsulting/motion_src) | C# · VS 2017 C# WinForms (.NET 2.0) working copy of Andrew Kirillov's AForge Motion Detector v.1.5.0. | 2018-12-23 |
-| [MsTimer2](https://github.com/VaderConsulting/MsTimer2) | C++ / Arduino · Run an interrupt function using Timer2. | - |
+| [MsTimer2](https://github.com/VaderConsulting/MsTimer2) | C++ / Arduino · Run an interrupt function using Timer2. | 2018-05-21 |
 | [Multi-Node](https://github.com/VaderConsulting/Multi-Node) |  | 2025-06-22 |
 | [MVC](https://github.com/VaderConsulting/MVC) | C# · VS 2012 C# working copy: Pharmacy Assistant 1.3.4 is a .NET 3.5 WinForms MDI that logs on against SQL Server, then edits products, catalogs, documents | 2013-09-09 |
 | [MyNamespace](https://github.com/VaderConsulting/MyNamespace) | C# · VS 2008 mixed-language working copy: MyNamespace is a VB.NET (.NET 2.0) class library whose VB type copies My.Application, My.User, My.Computer, and M | 2008-03-27 |
@@ -192,7 +192,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Shisutemu](https://github.com/VaderConsulting/Shisutemu) | C# · Shisutemu is a C# judo tournament suite with mat scoreboards, kiosk, Haidenban switchboard, and entrant utilities. | 2018-11-16 |
 | [Skinner](https://github.com/VaderConsulting/Skinner) | VB.NET · Skinner is a VB.NET WinForms MDI editor for Centrafuse Auto car-PC skins. | 2009-12-03 |
 | [SmartDeviceApplication1](https://github.com/VaderConsulting/SmartDeviceApplication1) | VB.NET · SmartDeviceApplication1 is a Visual Studio 2003 VB.NET Pocket PC WinForms template whose Form1 shows only an empty main menu. | 2005-11-06 |
-| [Snippets](https://github.com/VaderConsulting/Snippets) | C# · Visual Studio C# snippet that inserts or wraps a #if Windows / #endif pair. | - |
+| [Snippets](https://github.com/VaderConsulting/Snippets) | C# · Visual Studio C# snippet that inserts or wraps a #if Windows / #endif pair. | 2022-05-09 |
 | [SobelEdgeDetection](https://github.com/VaderConsulting/SobelEdgeDetection) | VB.NET · SobelEdgeDetection is a VisualCore.Lab VB.NET WinForms lab for Sobel edge detection with GDI, LockBits, and parallel image work. | 2010-02-15 |
 | [Solution1](https://github.com/VaderConsulting/Solution1) | C# · Solution1 is a Visual Studio 2010 playground of unused C# and VB.NET starter templates; the solution file does not reference them. | 2011-05-02 |
 | [SparkFun_HyperDisplay](https://github.com/VaderConsulting/SparkFun_HyperDisplay) | C++ / Arduino · Standardized library for control of displays. | 2020-01-30 |
@@ -212,7 +212,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [TextRuler](https://github.com/VaderConsulting/TextRuler) | A .NET Framework 4.8 Windows Forms application demonstrating a rich-text editor paired with a fully interactive **Word-style ruler control**. | 2015-02-04 |
 | [Thermistor](https://github.com/VaderConsulting/Thermistor) | C++ / Arduino · Small Arduino sketch that reads analog pin 0 as a 10 kΩ thermistor divider and converts the ADC count to Celsius with a Steinhart-Hart expression. | 2020-10-30 |
 | [TimeSpent](https://github.com/VaderConsulting/TimeSpent) | C# · TimeSpent is a C# console app that exports Exchange calendar appointments to CSV so you can review hours spent from Outlook. | 2013-12-09 |
-| [TinyWireM](https://github.com/VaderConsulting/TinyWireM) | C++ / Arduino · I2C library for Trinket and Gemma, adapted from BroHogan's code on Arduino Playground. | - |
+| [TinyWireM](https://github.com/VaderConsulting/TinyWireM) | C++ / Arduino · I2C library for Trinket and Gemma, adapted from BroHogan's code on Arduino Playground. | 2022-01-03 |
 | [TM1637TinyDisplay](https://github.com/VaderConsulting/TM1637TinyDisplay) | C++ / Arduino · A simple library to display numbers, text and animation on 4 and 6 digit 7-segment TM1637 based display modules. | 2022-02-22 |
 | [Toast](https://github.com/VaderConsulting/Toast) | C# VS 2015 solution for Windows toast-style notifications plus a Win10-style Action Center. | 2016-10-02 |
 | [Tracing](https://github.com/VaderConsulting/Tracing) | VB.NET VS 2008 scratch for sending System.Diagnostics.Trace over UDP. | 2010-02-21 |
