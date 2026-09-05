@@ -20,7 +20,7 @@ If you recognise code in any repository as your own work and it is not properly 
 
 | Repository | Overview | Stack | Last Updated |
 |------------|----------|-------|--------------|
-| [_vb-split-probe](https://github.com/VaderConsulting/_vb-split-probe) | test | — |  |
+| [_vb-split-probe](https://github.com/VaderConsulting/_vb-split-probe) | test | — | — |
 | [Accelerator-Keys](https://github.com/VaderConsulting/Accelerator-Keys) | VB6 working copy of Accelerator Keys from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1999-06-01 |
 | [AccessPwdBreak](https://github.com/VaderConsulting/AccessPwdBreak) | Third-party "KNR's Access 97 Password Breaker" (VersionCompanyName smart software) that attempts to recover a Microsoft Access 97 database password. | Microsoft Access | 2026-08-27 |
 | [ACControls](https://github.com/VaderConsulting/ACControls) | Legacy C# Windows application. Contains `ACTest` and `ACControls` projects. | C# / .NET 4.5.2 | 2016-10-02 |
@@ -502,7 +502,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [VaderConsulting.Server](https://github.com/VaderConsulting/VaderConsulting.Server) | C# .NET 4.6 console application titled DR Planning Server (assembly DR Planning Server, root namespace DR_Planning_Server). | C# / .NET 4.6 | 2015-10-05 |
 | [VaderConsulting.SystemCenter](https://github.com/VaderConsulting/VaderConsulting.SystemCenter) | C# .NET Framework 3.5 class library that builds and imports System Center Operations Manager 2012 Service Designer management packs from lists of component servers and services. | C# / .NET Framework 3.5 | 2015-03-14 |
 | [VaderConsulting.TextRuler](https://github.com/VaderConsulting/VaderConsulting.TextRuler) | Windows Forms UserControl rendering an interactive Word-style text ruler. NuGet-packaged for rich-text/document-editing apps. Based on Andrey Lundin (CodeProject 2008). | C# / .NET 4.8 | 2020-04-22 |
-| [VB](https://github.com/VaderConsulting/VB) | Archived index of VB6 catalogue children (90 top-level + 184 Old); clone the child repos listed in this umbrella README rather than treating VB as an active project. | VB6 |  |
+| [VB](https://github.com/VaderConsulting/VB) | Archived index of VB6 catalogue children (90 top-level + 184 Old); clone the child repos listed in this umbrella README rather than treating VB as an active project. | VB6 | — |
 | [VB-Accelerator](https://github.com/VaderConsulting/VB-Accelerator) | Working copy of Steve McMahon vbAccelerator VB6 controls and samples: S-Grid, Image List, List Bar, popup menu DLL, SysTray, journal record hook, icon extractor, transparent menu, and multi-monitor helpers. | VB6 | 2026-08-27 |
 | [Vb4kix](https://github.com/VaderConsulting/Vb4kix) | VB6 working copy of Vb4kix from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [VBsax2jumpstart](https://github.com/VaderConsulting/VBsax2jumpstart) | VB6 working copy of VBsax2jumpstart from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
