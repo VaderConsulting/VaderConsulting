@@ -20,7 +20,7 @@ If you recognise code in any repository as your own work and it is not properly 
 
 | Repository | Overview | Stack | Last Updated |
 |------------|----------|-------|--------------|
-| [_vb-split-probe](https://github.com/VaderConsulting/_vb-split-probe) | test | — | — |
+| [_vb-split-probe](https://github.com/VaderConsulting/_vb-split-probe) | Minimal probe repository with only a placeholder README. | — | — |
 | [Accelerator-Keys](https://github.com/VaderConsulting/Accelerator-Keys) | VB6 working copy of Accelerator Keys from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1999-06-01 |
 | [AccessPwdBreak](https://github.com/VaderConsulting/AccessPwdBreak) | Third-party "KNR's Access 97 Password Breaker" (VersionCompanyName smart software) that attempts to recover a Microsoft Access 97 database password. | Microsoft Access | 2026-08-27 |
 | [ACControls](https://github.com/VaderConsulting/ACControls) | Legacy C# Windows application. Contains `ACTest` and `ACControls` projects. | C# / .NET 4.5.2 | 2016-10-02 |
@@ -141,7 +141,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [extracticons](https://github.com/VaderConsulting/extracticons) | VB6 working copy of extracticons from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [ExtractIcons2](https://github.com/VaderConsulting/ExtractIcons2) | VB6 working copy of ExtractIcons2 from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [FastColoredTextBox-master](https://github.com/VaderConsulting/FastColoredTextBox-master) | Working copy of Pavel Torgashov's FastColoredTextBox (assembly FastColoredTextBox 2.9.7.0): a C# WinForms UserControl for syntax-colored editing targeting .NET 2.0. | C# / .NET 2.0. | 2013-03-01 |
-| [FastColoredTextBoxCF](https://github.com/VaderConsulting/FastColoredTextBoxCF) | Working copy of Pavel Torgashov's FastColoredTextBox Compact Framework port (assembly FastColoredTextBox 4.6.2): a C# syntax-colored textbox UserControl targeting . | C# | 2011-06-08 |
+| [FastColoredTextBoxCF](https://github.com/VaderConsulting/FastColoredTextBoxCF) | Working copy of Pavel Torgashov's FastColoredTextBox Compact Framework port (assembly FastColoredTextBox 4.6.2): a C# syntax-colored textbox UserControl targeting .NET Compact Framework 2.0 / Pocket PC 2003. | C# / .NET Compact Framework 2.0 | 2011-06-08 |
 | [File-Association](https://github.com/VaderConsulting/File-Association) | C# .NET 2.0 library (BrendanGrant.Helpers.FileAssociation) that creates, reads, and deletes Windows file-extension associations in the registry via FileAssociationInfo, ProgramAssociationInfo, and AssociationManager, plus shell-change notify. | C# / .NET 2.0 | 2013-09-26 |
 | [File-Search](https://github.com/VaderConsulting/File-Search) | VB6 working copy of File Search from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1998-06-01 |
 | [FileSplitter](https://github.com/VaderConsulting/FileSplitter) | VB6 working copy of FileSplitter from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
@@ -168,7 +168,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Gst](https://github.com/VaderConsulting/Gst) | VB6 working copy of Gst from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [GUID-Creator](https://github.com/VaderConsulting/GUID-Creator) | Small VB6 utility that generates GUIDs for use in scripts and configuration. | VB6 | 2026-08-27 |
 | [Guiddll](https://github.com/VaderConsulting/Guiddll) | VB6 working copy of Guiddll from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
-| [Haiku](https://github.com/VaderConsulting/Haiku) | VB.NET VS 2010 working copy of Stratatel Haiku Candy: VSTO Outlook 2007/2010 add-ins (assemblies Stratatel.HaikuCandy2007 / Stratatel. | VB.NET / .NET | 2011-07-05 |
+| [Haiku](https://github.com/VaderConsulting/Haiku) | VB.NET VS 2010 working copy of Stratatel Haiku Candy: VSTO Outlook 2007/2010 add-ins (assemblies Stratatel.HaikuCandy2007 / Stratatel.HaikuCandy2010) that set a new MailItem to HTML and inject the HaikuCandy.com signature images. | VB.NET / .NET 2.0, .NET 3.5, .NET 4.0 | 2011-07-05 |
 | [HelloGM](https://github.com/VaderConsulting/HelloGM) | VB.NET 2008 working copy whose HelloGM class library (RootNamespace HelloGM, targeting .NET 2.0) exposes Speak (Talk returns "Hello GameMaker", name/number helpers including jase/cody) and Map (great-circle width/height in kilometres). | VB.NET / .NET 2008 | 2010-01-23 |
 | [HelloRaspberryPi](https://github.com/VaderConsulting/HelloRaspberryPi) | VS 2017 (.NET 4.7.1) working copy with two WinExe projects, WinForms (VB.NET) and WinFormsCSharp (C#), whose frmMain Hello button sets lblHello and txtHello to "Hello World" and shows a MessageBox. | VB.NET, C# / .NET 4.7.1 | 2018-07-11 |
 | [Helper](https://github.com/VaderConsulting/Helper) | VB6 working copy of Helper from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
@@ -378,8 +378,8 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Schedule-VB6](https://github.com/VaderConsulting/Schedule-VB6) | VB6 working copy of Schedule from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1999-06-01 |
 | [ScheduledTasks](https://github.com/VaderConsulting/ScheduledTasks) | VS 2012 C# wrapper for Windows Task Scheduler 1.0 and 2.0 (CodePlex TaskScheduler by David Hall). | C# | 2013-08-14 |
 | [ScintillaNET-v2.6-Source](https://github.com/VaderConsulting/ScintillaNET-v2.6-Source) | C# WinForms wrapper for Scintilla (ScintillaNET 2.6 by Garrett Serack, based on Neil Hodgson's editor). | C# | 2014-02-18 |
-| [SCLauncher](https://github.com/VaderConsulting/SCLauncher) | WPF launcher that picks a System Center Service Manager (SCSM) or Operations Manager (SCOM) Dev, Test, or Prod environment, writes SDKServiceMachine under HKCU (and the SCOM | — | 2014-01-21 |
-| [SCOMLauncher](https://github.com/VaderConsulting/SCOMLauncher) | WPF launcher that picks a System Center Operations Manager (SCOM) Dev, Test, or Prod environment, writes SDKServiceMachine under HKCU Software\Microsoft\Microsoft Operations | — | 2014-01-15 |
+| [SCLauncher](https://github.com/VaderConsulting/SCLauncher) | WPF launcher that picks a System Center Service Manager (SCSM) or Operations Manager (SCOM) Dev, Test, or Prod environment, writes `SDKServiceMachine` under HKCU (and the SCOM equivalent), and starts the matching console from Program Files. | C# / .NET 4.5 | 2014-01-21 |
+| [SCOMLauncher](https://github.com/VaderConsulting/SCOMLauncher) | WPF launcher that picks a System Center Operations Manager (SCOM) Dev, Test, or Prod environment, writes `SDKServiceMachine` under HKCU `Software\Microsoft\Microsoft Operations Manager\3.0\User Settings`, and starts the Operations Manager console from Program Files. | C# / .NET 4.5 | 2014-01-15 |
 | [ScriptingDemo](https://github.com/VaderConsulting/ScriptingDemo) | VB6 working copy of ScriptingDemo from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [scriptingvb](https://github.com/VaderConsulting/scriptingvb) | VB.NET WinForms host that compiles VB or C# scripts at runtime against plugin interfaces. | VB.NET, C# / .NET | 2008-10-02 |
 | [ScrollForm](https://github.com/VaderConsulting/ScrollForm) | VB6 working copy of ScrollForm from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
