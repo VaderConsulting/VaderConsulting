@@ -77,7 +77,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Bounce](https://github.com/VaderConsulting/Bounce) | VB6 working copy of Bounce from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2000-06-01 |
 | [BouncyCastle-Crypto](https://github.com/VaderConsulting/BouncyCastle-Crypto) | Bouncy Castle Cryptography API. Original by The Legion of the Bouncy Castle. | C# | 2013-10-23 |
 | [Cable-Pull](https://github.com/VaderConsulting/Cable-Pull) | Cable management with Test, Things, Cables, and DataStructure projects. | VB.NET / .NET 4.0 | 2010-10-12 |
-| [Cables](https://github.com/VaderConsulting/Cables) | Legacy VB.NET Windows application. | VB.NET / .NET 2.0 | 2010-11-02 |
+| [Cables](https://github.com/VaderConsulting/Cables) | VB.NET Windows Forms front end for the Cable Pull (CPULL) Access databases used on Royal Australian Navy ANZAC-class ships. | VB.NET / .NET 2.0 | 2010-11-02 |
 | [CADSComms](https://github.com/VaderConsulting/CADSComms) | WCF Server/Client communication projects. Assembly company: Stratatel. | VB.NET / .NET 3.5 | 2008-09-09 |
 | [CalendarPlanner](https://github.com/VaderConsulting/CalendarPlanner) | Calendar/WeekPlanner example. Attribution: Axon Cable SIA. | C# / .NET 3.5 | 2013-08-29 |
 | [CaptureMouseEvents](https://github.com/VaderConsulting/CaptureMouseEvents) | VB6 working copy of CaptureMouseEvents from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
@@ -99,7 +99,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [ConnectedUsers](https://github.com/VaderConsulting/ConnectedUsers) | VB.NET · see projects | VB.NET / .NET | 2004-08-17 |
 | [Connection-Manager](https://github.com/VaderConsulting/Connection-Manager) | VB6 working copy of Connection Manager from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2001-06-01 |
 | [Console](https://github.com/VaderConsulting/Console) | VB6 working copy of Console from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Consult_Protocol_and_Commands_Issue_6](https://github.com/VaderConsulting/Consult_Protocol_and_Commands_Issue_6) | VB.NET · WinExe | VB.NET / .NET | 2009-07-05 |
+| [Consult_Protocol_and_Commands_Issue_6](https://github.com/VaderConsulting/Consult_Protocol_and_Commands_Issue_6) | Nissan Consult ECU protocol reference (Issues 5-7 PDFs and register table); ConsultComms is an empty SVN stub and HelloSVN-VBApp is only a smoke test. | PDF / VB.NET | 2009-07-05 |
 | [Context-Sensitive-Help](https://github.com/VaderConsulting/Context-Sensitive-Help) | VB6 working copy of Context Sensitive Help from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Core](https://github.com/VaderConsulting/Core) | VB.NET class-library suite (Vader Consulting Core/Infrastructure) covering config, logging, SQL, encryption, security, networking, compression, zip, email, licensing, scheduling, directory, XML, math, install helpers, FleetManager, and serial/PABX. | VB.NET / .NET | 2013-09-09 |
 | [Cpu](https://github.com/VaderConsulting/Cpu) | VB6 working copy of Cpu from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
@@ -109,7 +109,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [CSV-Convert](https://github.com/VaderConsulting/CSV-Convert) | VB6 working copy of CSV Convert from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [CSV-maker](https://github.com/VaderConsulting/CSV-maker) | VB6 working copy of CSV maker from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [CSVImport](https://github.com/VaderConsulting/CSVImport) | VB6 working copy of CSVImport from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [CtrlCloneTst](https://github.com/VaderConsulting/CtrlCloneTst) | C# · see projects | C# | 2006-02-21 |
+| [CtrlCloneTst](https://github.com/VaderConsulting/CtrlCloneTst) | C# Windows Forms harness that exercises a ControlFactory helper for cloning controls and clipboard copy/paste. | C# / .NET 1.1 | 2006-02-21 |
 | [CurrencyConvertor](https://github.com/VaderConsulting/CurrencyConvertor) | VB.NET WinForms app that converts amounts via the webservicex.net CurrencyConvertor SOAP ConversionRate API. | VB.NET / .NET | 2005-08-10 |
 | [CustomControls](https://github.com/VaderConsulting/CustomControls) | Multi-target Windows Forms control library (.NET 4.8, .NET 5, .NET 6). Includes Tesla battery controls, RTSP video player, ProgressBarEx, CueTextBox, Marquee, DataGridViewEx, BufferedTreeView, and TextRuler. | C# / .NET 4.8, .NET 5, .NET 6 | 2022-04-30 |
 | [CustomRichTextBox](https://github.com/VaderConsulting/CustomRichTextBox) | RichTextBox extended with print support (via Win32 EM_FORMATRANGE) and drag-and-drop text. Based on Microsoft KB 811401. | VB.NET, C# / .NET 4.8, .NET 5 | 2021-09-12 |
