@@ -23,7 +23,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [_vb-split-probe](https://github.com/VaderConsulting/_vb-split-probe) | Minimal probe repository with only a placeholder README. | — | — |
 | [Accelerator-Keys](https://github.com/VaderConsulting/Accelerator-Keys) | VB6 working copy of Accelerator Keys from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1999-06-01 |
 | [AccessPwdBreak](https://github.com/VaderConsulting/AccessPwdBreak) | Third-party "KNR's Access 97 Password Breaker" (VersionCompanyName smart software) that attempts to recover a Microsoft Access 97 database password. | Microsoft Access | 2026-08-27 |
-| [ACControls](https://github.com/VaderConsulting/ACControls) | Legacy C# Windows application. Contains `ACTest` and `ACControls` projects. | C# / .NET 4.5.2 | 2016-10-02 |
+| [ACControls](https://github.com/VaderConsulting/ACControls) | WinForms ActionCentre control library with expandable message groups and design-time support. | C# / .NET 4.5.2 | 2016-10-02 |
 | [Account-Extract](https://github.com/VaderConsulting/Account-Extract) | VB6 working copy of Account Extract from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [ACL](https://github.com/VaderConsulting/ACL) | Freelance VB6 experiment that explores Active Directory and file ACL APIs (ADS_RIGHTS_ENUM, IADsSecurityDescriptor) from a simple WinForms host. | VB6 | 2026-08-27 |
 | [ACL2](https://github.com/VaderConsulting/ACL2) | Freelance VB6 follow-on to ACL that writes a test access-control entry (ACE) while exercising ADSI security-descriptor APIs. | VB6 | 2026-08-27 |
@@ -31,32 +31,32 @@ If you recognise code in any repository as your own work and it is not properly 
 | [active-directory-ldap-tools](https://github.com/VaderConsulting/active-directory-ldap-tools) | C# Visual Studio 2012 LDAP helper and ManageUsers WinForms app for Active Directory user lookup. | C# | 2013-10-22 |
 | [ActLog](https://github.com/VaderConsulting/ActLog) | Tracks user logon and logoff events. Includes LogBroker, Broker, and ActivityLogClient projects. | VB.NET | 2009-01-17 |
 | [Adafruit_BusIO](https://github.com/VaderConsulting/Adafruit_BusIO) | Arduino library with I2C/SPI register read/write examples and address detection sketches. | Arduino / C | 2022-03-01 |
-| [Adafruit_Circuit_Playground](https://github.com/VaderConsulting/Adafruit_Circuit_Playground) | Arduino library from the Arduino archive. | Arduino / C | 2021-12-10 |
-| [Adafruit_GFX_Library](https://github.com/VaderConsulting/Adafruit_GFX_Library) | Arduino library from the Arduino archive. | Arduino / C | 2022-01-25 |
-| [Adafruit_GPS_Library](https://github.com/VaderConsulting/Adafruit_GPS_Library) | Arduino library from the Arduino archive. | Arduino / C | 2022-02-11 |
-| [Adafruit_HMC5883_Unified](https://github.com/VaderConsulting/Adafruit_HMC5883_Unified) | Arduino library from the Arduino archive. | Arduino / C | 2019-05-23 |
-| [Adafruit_ILI9341](https://github.com/VaderConsulting/Adafruit_ILI9341) | Arduino library from the Arduino archive. | Arduino / C | 2021-11-03 |
-| [Adafruit_LED_Backpack_Library](https://github.com/VaderConsulting/Adafruit_LED_Backpack_Library) | Arduino library from the Arduino archive. | Arduino / C | 2021-11-28 |
-| [Adafruit_SleepyDog_Library](https://github.com/VaderConsulting/Adafruit_SleepyDog_Library) | Arduino library from the Arduino archive. | Arduino / C | 2021-12-04 |
-| [Adafruit_SSD1306](https://github.com/VaderConsulting/Adafruit_SSD1306) | Arduino library from the Arduino archive. | Arduino / C | 2022-01-13 |
-| [Adafruit_STMPE610](https://github.com/VaderConsulting/Adafruit_STMPE610) | Arduino library from the Arduino archive. | Arduino / C | 2021-11-30 |
-| [Adafruit_TouchScreen](https://github.com/VaderConsulting/Adafruit_TouchScreen) | Arduino library from the Arduino archive. | Arduino / C | 2021-10-06 |
-| [Adafruit_Unified_Sensor](https://github.com/VaderConsulting/Adafruit_Unified_Sensor) | Arduino library from the Arduino archive. | Arduino / C | 2020-06-30 |
-| [Adafruit_Zero_DMA_Library](https://github.com/VaderConsulting/Adafruit_Zero_DMA_Library) | Arduino library from the Arduino archive. | Arduino / C | 2021-06-01 |
-| [Adafruit_Zero_FFT_Library](https://github.com/VaderConsulting/Adafruit_Zero_FFT_Library) | Arduino library from the Arduino archive. | Arduino / C | 2020-06-17 |
-| [Adafruit_Zero_PDM_Library](https://github.com/VaderConsulting/Adafruit_Zero_PDM_Library) | Arduino library from the Arduino archive. | Arduino / C | 2020-06-30 |
-| [ADAMTest-VB](https://github.com/VaderConsulting/ADAMTest-VB) | Legacy VB.NET test harness for ADAM/AD LDS directory scenarios. | VB.NET | 2010-03-13 |
+| [Adafruit_Circuit_Playground](https://github.com/VaderConsulting/Adafruit_Circuit_Playground) | Arduino library that drives Adafruit Circuit Playground sensors, NeoPixels, buttons, and board peripherals. | Arduino / C | 2021-12-10 |
+| [Adafruit_GFX_Library](https://github.com/VaderConsulting/Adafruit_GFX_Library) | Core Adafruit GFX graphics class that other Adafruit display libraries build on. | Arduino / C | 2022-01-25 |
+| [Adafruit_GPS_Library](https://github.com/VaderConsulting/Adafruit_GPS_Library) | Interrupt-based Arduino GPS library for Adafruit GPS modules with ready-parsed NMEA data. | Arduino / C | 2022-02-11 |
+| [Adafruit_HMC5883_Unified](https://github.com/VaderConsulting/Adafruit_HMC5883_Unified) | Arduino driver for the HMC5883L 3-axis magnetometer via Adafruit's Unified Sensor API. | Arduino / C | 2019-05-23 |
+| [Adafruit_ILI9341](https://github.com/VaderConsulting/Adafruit_ILI9341) | Arduino graphics driver for Adafruit ILI9341 TFT LCD displays. | Arduino / C | 2021-11-03 |
+| [Adafruit_LED_Backpack_Library](https://github.com/VaderConsulting/Adafruit_LED_Backpack_Library) | Arduino library for Adafruit 8x8 matrix and 7-segment LED backpack displays. | Arduino / C | 2021-11-28 |
+| [Adafruit_SleepyDog_Library](https://github.com/VaderConsulting/Adafruit_SleepyDog_Library) | Arduino watchdog helper for timed system reset and low-power sleep across common MCUs. | Arduino / C | 2021-12-04 |
+| [Adafruit_SSD1306](https://github.com/VaderConsulting/Adafruit_SSD1306) | Arduino OLED driver for monochrome SSD1306 128x64 and 128x32 displays. | Arduino / C | 2022-01-13 |
+| [Adafruit_STMPE610](https://github.com/VaderConsulting/Adafruit_STMPE610) | Arduino library for STMPE610/811 resistive touch-screen controllers. | Arduino / C | 2021-11-30 |
+| [Adafruit_TouchScreen](https://github.com/VaderConsulting/Adafruit_TouchScreen) | Arduino library for reading Adafruit resistive touch-screen displays. | Arduino / C | 2021-10-06 |
+| [Adafruit_Unified_Sensor](https://github.com/VaderConsulting/Adafruit_Unified_Sensor) | Unified sensor abstraction layer required by Adafruit Unified Sensor libraries. | Arduino / C | 2020-06-30 |
+| [Adafruit_Zero_DMA_Library](https://github.com/VaderConsulting/Adafruit_Zero_DMA_Library) | DMA helper library for ATSAMD21 boards such as Arduino Zero and Feather M0. | Arduino / C | 2021-06-01 |
+| [Adafruit_Zero_FFT_Library](https://github.com/VaderConsulting/Adafruit_Zero_FFT_Library) | FFT library for Arduino Zero / Feather M0 SAMD21 boards. | Arduino / C | 2020-06-17 |
+| [Adafruit_Zero_PDM_Library](https://github.com/VaderConsulting/Adafruit_Zero_PDM_Library) | PDM microphone input library for Arduino Zero / Feather M0 SAMD21 boards. | Arduino / C | 2020-06-30 |
+| [ADAMTest-VB](https://github.com/VaderConsulting/ADAMTest-VB) | WinForms harness for ADAM/AD LDS password checks via System.DirectoryServices.AccountManagement. | VB.NET | 2010-03-13 |
 | [ADMExport](https://github.com/VaderConsulting/ADMExport) | Freelance VB6 utility (prjADMExport.exe) that exports ADM Group Policy administrative template files for offline review. | VB6 | 2026-08-27 |
 | [AdminSetPassword](https://github.com/VaderConsulting/AdminSetPassword) | Freelance/Tusk VB6 domain admin password-set utility. | VB6 | 2026-08-27 |
 | [AeroWizard](https://github.com/VaderConsulting/AeroWizard) | Windows Forms library for Aero Wizards (Vista+) with Visual Styles, glass/DWM helpers, and design-time support. Originally by David Hall (CodePlex). | C# / .NET 3.5 | 2015-06-20 |
-| [AI-Life](https://github.com/VaderConsulting/AI-Life) | Legacy C# Windows application. Assembly company: RSR. | C# / .NET 2.0 | 2011-09-25 |
-| [AltSoftSerial](https://github.com/VaderConsulting/AltSoftSerial) | Arduino library from the Arduino archive. | Arduino / C | 2019-05-01 |
+| [AI-Life](https://github.com/VaderConsulting/AI-Life) | C# WinForms AI life simulator with steering behaviours, evolutionary strings, and neural-net ants. | C# / .NET 2.0 | 2011-09-25 |
+| [AltSoftSerial](https://github.com/VaderConsulting/AltSoftSerial) | Improved software-serial library using hardware timers for precise timing on AVR. | Arduino / C | 2019-05-01 |
 | [APIOpenDialog](https://github.com/VaderConsulting/APIOpenDialog) | VB6 working copy of APIOpenDialog from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2002-06-01 |
 | [Arclog](https://github.com/VaderConsulting/Arclog) | VB6 working copy of Arclog from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Arduino](https://github.com/VaderConsulting/Arduino) | Legacy Arduino Visual Studio projects. Contains OLEDClock and HID_Joystick. | Arduino / C++ | 2020-09-03 |
 | [arduino_644462](https://github.com/VaderConsulting/arduino_644462) | Arduino sketch from the Arduino archive. | Arduino / C | 2018-05-21 |
 | [AssetControl](https://github.com/VaderConsulting/AssetControl) | VB6 working copy of AssetControl from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2005-06-01 |
-| [AssetImporter](https://github.com/VaderConsulting/AssetImporter) | Legacy VB.NET Visual Studio project backup. | VB.NET | 2006-07-03 |
+| [AssetImporter](https://github.com/VaderConsulting/AssetImporter) | ASP.NET pages for validating and importing fleet/asset Excel and CSV sheets into org units. | VB.NET | 2006-07-03 |
 | [Audio-Database](https://github.com/VaderConsulting/Audio-Database) | VB6 working copy of Audio Database from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Audio-Player](https://github.com/VaderConsulting/Audio-Player) | VB6 working copy of Audio Player from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Audit](https://github.com/VaderConsulting/Audit) | Freelance VB6 PC Audit tool (Audit.exe) that records computer name, IP/MAC, OS, hotfixes, installed applications, local accounts, and services. | VB6 | 2026-08-27 |
@@ -67,13 +67,13 @@ If you recognise code in any repository as your own work and it is not properly 
 | [AutoUpdater-Source](https://github.com/VaderConsulting/AutoUpdater-Source) | B4x Browser: loads and displays B4A, B4i, B4j, and B4r API information. Based on B4a Object Browser v3.2.5.14. | C# / .NET 10, .NET 8, .NET 4.8 | 2026-04-17 |
 | [B4A](https://github.com/VaderConsulting/B4A) | B4A source from Dave Robinson's Historical Dev archive. | B4A | 2015-06-20 |
 | [B4A_2](https://github.com/VaderConsulting/B4A_2) | Loads and displays B4a Objects. Includes DocLoader, HtmlRichTextBox, CommunityLibrary, LibraryObjects, and TreeViewWalker projects. | C# / .NET 2.0–4.0 | 2013-03-09 |
-| [B4x](https://github.com/VaderConsulting/B4x) | Legacy development files from the Historical Dev archive. No solution/project files. | — | 2021-10-01 |
+| [B4x](https://github.com/VaderConsulting/B4x) | Anywhere Software B4X additional libraries and tool projects (B4A, B4i, B4J, B4R) plus the b4xlib2XML converter. | — | 2021-10-01 |
 | [Balloon](https://github.com/VaderConsulting/Balloon) | VB.NET working copy of Balloon from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB.NET / .NET | 2026-08-27 |
 | [BalloonTips](https://github.com/VaderConsulting/BalloonTips) | Class library and test project. Assembly metadata references Microsoft. | VB.NET / .NET 3.5 | 2010-02-05 |
 | [Bandwidth](https://github.com/VaderConsulting/Bandwidth) | VB6 systray and desktop bandwidth monitor (CS Bandwidth Monitor.exe) built on IP Helper / netstat wrappers (CIpHelper, interface classes) with settings, stats, and colour UI forms. | VB6 | 2026-08-27 |
 | [Barcodes](https://github.com/VaderConsulting/Barcodes) | Third-party Code 39 barcode generator by Allen Allegretto (Barcode.exe / BarcodeGenerator). | — | 2026-08-27 |
 | [Barcodes-VB6](https://github.com/VaderConsulting/Barcodes-VB6) | VB6 working copy of Barcodes from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [BigBrother](https://github.com/VaderConsulting/BigBrother) | Legacy VB.NET class library. | VB.NET / .NET 3.5 | 2010-07-12 |
+| [BigBrother](https://github.com/VaderConsulting/BigBrother) | Visual Studio add-in scaffold that registers a Tools menu command via IDTExtensibility2. | VB.NET / .NET 3.5 | 2010-07-12 |
 | [Bounce](https://github.com/VaderConsulting/Bounce) | VB6 working copy of Bounce from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2000-06-01 |
 | [BouncyCastle-Crypto](https://github.com/VaderConsulting/BouncyCastle-Crypto) | Bouncy Castle Cryptography API. Original by The Legion of the Bouncy Castle. | C# | 2013-10-23 |
 | [Cable-Pull](https://github.com/VaderConsulting/Cable-Pull) | Cable management with Test, Things, Cables, and DataStructure projects. | VB.NET / .NET 4.0 | 2010-10-12 |
@@ -95,7 +95,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Communication](https://github.com/VaderConsulting/Communication) | WCF communications with Client, Server, and WCFComms projects. Assembly company: Stratatel. | C# / .NET 3.5 | 2008-05-28 |
 | [ConfigLoader](https://github.com/VaderConsulting/ConfigLoader) | Windows configuration loader application. Assembly company: Stratatel. | VB.NET / .NET 3.5 | 2008-09-02 |
 | [Conmon](https://github.com/VaderConsulting/Conmon) | VB6 working copy of Conmon from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
-| [Connected](https://github.com/VaderConsulting/Connected) | Legacy VB.NET project for connected users. | VB.NET | 2004-08-17 |
+| [Connected](https://github.com/VaderConsulting/Connected) | WinForms utility for listing connected network users, idle times, and open files per computer. | VB.NET | 2004-08-17 |
 | [ConnectedUsers](https://github.com/VaderConsulting/ConnectedUsers) | VB.NET · see projects | VB.NET / .NET | 2004-08-17 |
 | [Connection-Manager](https://github.com/VaderConsulting/Connection-Manager) | VB6 working copy of Connection Manager from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2001-06-01 |
 | [Console](https://github.com/VaderConsulting/Console) | VB6 working copy of Console from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
@@ -128,12 +128,12 @@ If you recognise code in any repository as your own work and it is not properly 
 | [DomainInfo](https://github.com/VaderConsulting/DomainInfo) | VB6 Domain Info utility (DomInfo.exe) for querying basic domain information from a simple WinForms host. | VB6 | 2026-08-27 |
 | [DOTNETCOM](https://github.com/VaderConsulting/DOTNETCOM) | VB.NET COM-visible class library whose Hello ComClass exposes HelloWorld(strName) returning "Hello " & strName. | VB.NET / .NET | 2007-09-09 |
 | [Embedded](https://github.com/VaderConsulting/Embedded) | C# .NET Micro Framework working copies: FEZ Panda II Application1 (Realtag watchdog, SD config, display/keypad), Panda Encoder (GHI FEZ rotary encoder via Toolbox.NETMF. | C# / .NET | 2012-11-10 |
-| [Encoder](https://github.com/VaderConsulting/Encoder) | Arduino library from the Arduino archive. | Arduino / C | 2020-11-13 |
+| [Encoder](https://github.com/VaderConsulting/Encoder) | Counts quadrature pulses from rotary and linear position encoders. | Arduino / C | 2020-11-13 |
 | [Enterprise-Management](https://github.com/VaderConsulting/Enterprise-Management) | VB6 working copy of Enterprise Management from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Enumuser](https://github.com/VaderConsulting/Enumuser) | VB6 working copy of Enumuser from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [ErrorControl](https://github.com/VaderConsulting/ErrorControl) | VB6 working copy of ErrorControl from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2002-06-01 |
 | [ErrorControl3](https://github.com/VaderConsulting/ErrorControl3) | VB6 working copy of ErrorControl3 from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2002-06-01 |
-| [ESP8266_Microgear](https://github.com/VaderConsulting/ESP8266_Microgear) | Arduino library from the Arduino archive. | Arduino / C | 2020-06-30 |
+| [ESP8266_Microgear](https://github.com/VaderConsulting/ESP8266_Microgear) | ESP8266 client library that connects devices to the NETPIE IoT platform as microgears. | Arduino / C | 2020-06-30 |
 | [EventReader](https://github.com/VaderConsulting/EventReader) | System tray utility monitoring Windows Event Log with balloon-tip notifications. Filter by log/event type, click to open Event Viewer, settings persisted to registry. Originally by Marc Merritt (2003). | C# / .NET 4.7.2 WinForms | 2020-01-21 |
 | [EWOW](https://github.com/VaderConsulting/EWOW) | VB.NET WinForms Mission Controller (EWOW) whose startup object is Mission_Controller.frmMain. | VB.NET / .NET | 2005-09-11 |
 | [EWoW-Protocol](https://github.com/VaderConsulting/EWoW-Protocol) | Realtag EWoW-C protocol tester (EWoWProtocol.exe) used to exercise the EWoW-C messaging protocol from a VB6 WinForms host. | VB6 | 2026-08-27 |
@@ -197,10 +197,10 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Integration](https://github.com/VaderConsulting/Integration) | VB6 working copy of Integration from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [Irc-code](https://github.com/VaderConsulting/Irc-code) | VB6 working copy of Irc-code from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1996-06-01 |
 | [Isadmin](https://github.com/VaderConsulting/Isadmin) | VB6 working copy of Isadmin from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Keyboard](https://github.com/VaderConsulting/Keyboard) | Arduino library from the Arduino archive. | Arduino / C | 2021-11-04 |
+| [Keyboard](https://github.com/VaderConsulting/Keyboard) | Lets a USB-capable Arduino board act as a HID keyboard. | Arduino / C | 2021-11-04 |
 | [LabelPrinting](https://github.com/VaderConsulting/LabelPrinting) | C# Address Label Printing API for Windows (Peter John, 2007, LGPLv2.1) kept as a working copy. | C# | 2013-06-13 |
 | [Lasertag-VB6](https://github.com/VaderConsulting/Lasertag-VB6) | VB6 Lasertag-related utility preserved from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
-| [LastLogon-VB](https://github.com/VaderConsulting/LastLogon-VB) | Legacy VB.NET application for querying Active Directory last-logon information. | VB.NET | 2007-08-20 |
+| [LastLogon-VB](https://github.com/VaderConsulting/LastLogon-VB) | WinForms utility that queries Active Directory for the newest last-logon time across domain controllers. | VB.NET | 2007-08-20 |
 | [Launch](https://github.com/VaderConsulting/Launch) | VB6 working copy of Launch from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1998-06-01 |
 | [LCDProject](https://github.com/VaderConsulting/LCDProject) | VS 2008 VB.NET WinForms (.NET 3.5) working copy. | VB.NET / .NET | 2008-09-05 |
 | [LEDClock](https://github.com/VaderConsulting/LEDClock) | Arduino LED clock sketch. | Arduino / C | 2021-02-01 |
@@ -210,11 +210,11 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Loadmapi](https://github.com/VaderConsulting/Loadmapi) | VB6 working copy of Loadmapi from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Localisation](https://github.com/VaderConsulting/Localisation) | VS 2008 VB.NET WinForms working copy whose Form1_Load is empty and InitializeComponent only sizes a 292x266 Form1. | VB.NET / .NET | 2008-08-29 |
 | [Localization](https://github.com/VaderConsulting/Localization) | VS 2012 C# WinForms working copy. | C# | 2013-02-27 |
-| [Lockouts-VB](https://github.com/VaderConsulting/Lockouts-VB) | Legacy VB.NET service for monitoring AD user lockouts and sending email alerts. | VB.NET | 2012-07-07 |
+| [Lockouts-VB](https://github.com/VaderConsulting/Lockouts-VB) | Windows service that polls Active Directory for locked-out accounts and sends SMTP email alerts. | VB.NET | 2012-07-07 |
 | [LoggedOnUsers](https://github.com/VaderConsulting/LoggedOnUsers) | VB6 WinForms utility (LoggedOn.exe) that lists currently logged-on users on the machine or domain context it targets. | VB6 | 2026-08-27 |
 | [Logon34](https://github.com/VaderConsulting/Logon34) | Logon UI (Logon34.exe) with VersionCompanyName Computer Sciences Corporation and Tusk Technologies, used for workplace logon scenarios. | — | 2026-08-27 |
 | [LogonEngine](https://github.com/VaderConsulting/LogonEngine) | VS 2010 VB.NET working copy of the Windows Live Login SDK. | VB.NET / .NET | 2011-02-20 |
-| [LogonStatus-VB](https://github.com/VaderConsulting/LogonStatus-VB) | Legacy VB.NET utility for checking/reporting AD logon status. | VB.NET | 2012-07-07 |
+| [LogonStatus-VB](https://github.com/VaderConsulting/LogonStatus-VB) | WinForms tool that reports AD logon and logoff status for a user across one or more servers. | VB.NET | 2012-07-07 |
 | [lotsofexes](https://github.com/VaderConsulting/lotsofexes) | VB6 working copy of lotsofexes from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [M3Battery](https://github.com/VaderConsulting/M3Battery) | Arduino sketch from the Arduino archive. | Arduino / C | 2022-03-03 |
 | [M3Battery_Wifi](https://github.com/VaderConsulting/M3Battery_Wifi) | Arduino sketch from the Arduino archive. | Arduino / C | 2022-03-03 |
@@ -226,7 +226,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Mcafee](https://github.com/VaderConsulting/Mcafee) | VB6 working copy of Mcafee from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Message-Viewer](https://github.com/VaderConsulting/Message-Viewer) | VB6 working copy of Message Viewer from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2000-06-01 |
 | [Messages](https://github.com/VaderConsulting/Messages) | VB6 working copy of Messages from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [MFRC522](https://github.com/VaderConsulting/MFRC522) | Arduino library from the Arduino archive. | Arduino / C | 2021-11-02 |
+| [MFRC522](https://github.com/VaderConsulting/MFRC522) | Arduino SPI library for reading and writing MIFARE RFID cards via the MFRC522. | Arduino / C | 2021-11-02 |
 | [Mgecomp](https://github.com/VaderConsulting/Mgecomp) | VB6 working copy of Mgecomp from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [Microsoft-Press](https://github.com/VaderConsulting/Microsoft-Press) | Microsoft Press Workflow Step by Step Chapter 1 working copy: a VS 2012 C# console host (.NET 3.0) that CreateWorkflow-starts SequentialWorkflowActivity Workflow1 with PostalCode from args[0] (or empty). | C# / .NET 3.0 | 2013-04-21 |
 | [Mifscan](https://github.com/VaderConsulting/Mifscan) | VB6 working copy of Mifscan from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
@@ -241,7 +241,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [MP4-Display](https://github.com/VaderConsulting/MP4-Display) | VB6 working copy of MP4 Display from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [MSI-Compare](https://github.com/VaderConsulting/MSI-Compare) | VB6 working copy of MSI Compare from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [MSI-Explorer](https://github.com/VaderConsulting/MSI-Explorer) | VB6 working copy of MSI Explorer from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [MsTimer2](https://github.com/VaderConsulting/MsTimer2) | Arduino library from the Arduino archive. | Arduino / C | 2018-05-21 |
+| [MsTimer2](https://github.com/VaderConsulting/MsTimer2) | Runs a periodic interrupt callback using AVR Timer2. | Arduino / C | 2018-05-21 |
 | [Multi-Node](https://github.com/VaderConsulting/Multi-Node) | Master/repeater/user-device WiFi network protocol for up to 100 nodes covering 1 km². Nodes self-organise with 8-bit ID allocation, automatic master election, and dynamic topology. | C# / .NET 9 | 2025-06-22 |
 | [Music](https://github.com/VaderConsulting/Music) | VB6 working copy of Music from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2000-06-01 |
 | [MVC](https://github.com/VaderConsulting/MVC) | VS 2012 C# working copy: Pharmacy Assistant 1.3.4 is a .NET 3.5 WinForms MDI that logs on against SQL Server, then edits products, catalogs, documents, tasks, events, and user accounts for the Savemor pharmacy site (FTP upload, AutoUpdater.NET). | C# / .NET 3.5 | 2013-09-09 |
@@ -275,7 +275,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [NewConn](https://github.com/VaderConsulting/NewConn) | VB6 working copy of NewConn from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [Nicinfo](https://github.com/VaderConsulting/Nicinfo) | VB6 working copy of Nicinfo from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [Noblets](https://github.com/VaderConsulting/Noblets) | VB6 working copy of Noblets from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1997-06-01 |
-| [Notched_Shaft_Encoder](https://github.com/VaderConsulting/Notched_Shaft_Encoder) | Arduino library from the Arduino archive. | Arduino / C | 2020-06-09 |
+| [Notched_Shaft_Encoder](https://github.com/VaderConsulting/Notched_Shaft_Encoder) | Tracks position and click button state from a notched shaft encoder. | Arduino / C | 2020-06-09 |
 | [NPOIHelper](https://github.com/VaderConsulting/NPOIHelper) | Extension methods for NPOI library simplifying Excel cell writing via `ISheet.SetCellValue()` and `AddRow()`. | C# / .NET 4.8 | 2021-04-05 |
 | [NT-Admin](https://github.com/VaderConsulting/NT-Admin) | VB6 working copy of NT Admin from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Ntenum](https://github.com/VaderConsulting/Ntenum) | VB6 working copy of Ntenum from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
@@ -366,11 +366,11 @@ If you recognise code in any repository as your own work and it is not properly 
 | [RollToDodge](https://github.com/VaderConsulting/RollToDodge) | VB.NET WinForms helper for Roll to Dodge play-by-post games. | VB.NET / .NET | 2010-06-16 |
 | [Rotate](https://github.com/VaderConsulting/Rotate) | XNA Game Studio 3.1 Windows class-library stub. | XNA | 2010-04-26 |
 | [Router](https://github.com/VaderConsulting/Router) | VB6 working copy of Router from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1998-06-01 |
-| [RTClib](https://github.com/VaderConsulting/RTClib) | Arduino library from the Arduino archive. | Arduino / C | 2021-12-21 |
+| [RTClib](https://github.com/VaderConsulting/RTClib) | Arduino RTC library for DS1307, DS3231, PCF8523, and PCF8563 clocks. | Arduino / C | 2021-12-21 |
 | [RunningProcs](https://github.com/VaderConsulting/RunningProcs) | VB6 working copy of RunningProcs from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [RunRemote](https://github.com/VaderConsulting/RunRemote) | VB.NET class library (Remoting.Common) for a remote-execution setup. | VB.NET / .NET | 2007-12-25 |
 | [RunRemote-VB6](https://github.com/VaderConsulting/RunRemote-VB6) | VB6 RunRemote utility from Dave Robinson's Historical Dev VB folder for launching or controlling remote processes. | VB6 | 2026-08-27 |
-| [SafeString](https://github.com/VaderConsulting/SafeString) | Arduino library from the Arduino archive. | Arduino / C | 2022-02-03 |
+| [SafeString](https://github.com/VaderConsulting/SafeString) | Static safe-string library for Arduino with non-blocking Serial I/O helpers. | Arduino / C | 2022-02-03 |
 | [Savemor](https://github.com/VaderConsulting/Savemor) | C# ASP.NET website for Savemor Pharmacy: catalogue, search, cart, and related products. | C# / .NET | 2014-01-23 |
 | [Savemor-Test](https://github.com/VaderConsulting/Savemor-Test) | C# ASP.NET MVC 4 test website for Savemor Pharmacy: category home page, product listing, cart, and store pages. | C# / .NET | 2013-06-09 |
 | [Scanner](https://github.com/VaderConsulting/Scanner) | VB6 working copy of Scanner from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
@@ -390,7 +390,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [SendKeys](https://github.com/VaderConsulting/SendKeys) | VB6 working copy of SendKeys from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [SendMessage](https://github.com/VaderConsulting/SendMessage) | VB6 working copy of SendMessage from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Serial](https://github.com/VaderConsulting/Serial) | VB.NET WinForms host that opens a serial port, parses acx/acy/acz accelerometer tokens (and other tokens such as li0/tc0), subtracts XYZ offsets from My. | VB.NET / .NET | 2013-01-01 |
-| [SerialFlash](https://github.com/VaderConsulting/SerialFlash) | Arduino library from the Arduino archive. | Arduino / C | 2019-05-01 |
+| [SerialFlash](https://github.com/VaderConsulting/SerialFlash) | Filesystem-style access to SPI serial flash memory on Arduino. | Arduino / C | 2019-05-01 |
 | [SerialVB](https://github.com/VaderConsulting/SerialVB) | Working copy of OpenNETCF.Samples.SerialVB from Dave Robinson's Historical Dev archive: a Pocket PC VB.NET serial terminal that opens COM4 via OpenNETCF.IO.Serial 1.3 (Serial. | VB.NET / .NET | 2004-01-08 |
 | [Servchk](https://github.com/VaderConsulting/Servchk) | VB6 working copy of Servchk from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Service-Controller](https://github.com/VaderConsulting/Service-Controller) | VB.NET WinExe Windows service that starts and stops a named Windows service on a daily schedule. | VB.NET / .NET | 2011-09-20 |
@@ -404,7 +404,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [SetLibrary](https://github.com/VaderConsulting/SetLibrary) | VB6 working copy of SetLibrary from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [SetRegPerms](https://github.com/VaderConsulting/SetRegPerms) | VB6 working copy of SetRegPerms from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [SetSite-2.0](https://github.com/VaderConsulting/SetSite-2.0) | VB6 working copy of SetSite 2.0 from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [SevenSegmentTM1637](https://github.com/VaderConsulting/SevenSegmentTM1637) | Arduino library from the Arduino archive. | Arduino / C | 2020-07-04 |
+| [SevenSegmentTM1637](https://github.com/VaderConsulting/SevenSegmentTM1637) | Arduino library for 4-digit seven-segment displays driven by TM1636/TM1637. | Arduino / C | 2020-07-04 |
 | [SharpSSH](https://github.com/VaderConsulting/SharpSSH) | C# SSH library for .NET (Tamir Gal SharpSSH, a JSch port) with jsch and SharpSSH samples. | C# / .NET | 2014-01-03 |
 | [ShelfTalkers](https://github.com/VaderConsulting/ShelfTalkers) | C# pharmacy shelf-talker tools (Savemor, 2013): LabelMaker Admin pulls the product catalog from SQL Server and FTP-uploads Products. | C# | 2013-09-09 |
 | [ShellExecute](https://github.com/VaderConsulting/ShellExecute) | VB6 working copy of ShellExecute from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
@@ -428,7 +428,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [SobelEdgeDetection](https://github.com/VaderConsulting/SobelEdgeDetection) | SobelEdgeDetection is a VisualCore.Lab VB.NET WinForms lab for Sobel edge detection with GDI, LockBits, and parallel image work. | VB.NET / .NET | 2010-02-15 |
 | [Solution1](https://github.com/VaderConsulting/Solution1) | Solution1 is a Visual Studio 2010 playground of unused C# and VB.NET starter templates; the solution file does not reference them. | VB.NET, C# / .NET | 2011-05-02 |
 | [Songs](https://github.com/VaderConsulting/Songs) | VB6 working copy of Songs from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [SparkFun_HyperDisplay](https://github.com/VaderConsulting/SparkFun_HyperDisplay) | Arduino library from the Arduino archive. | Arduino / C | 2020-01-30 |
+| [SparkFun_HyperDisplay](https://github.com/VaderConsulting/SparkFun_HyperDisplay) | Abstract multi-window drawing and printing library for SparkFun displays. | Arduino / C | 2020-01-30 |
 | [SparkFun_HyperDisplay_ILI9163C](https://github.com/VaderConsulting/SparkFun_HyperDisplay_ILI9163C) | ILI9163C mid-level HyperDisplay driver layer for ILI9163-based displays. | Arduino / C | 2019-05-07 |
 | [SpecGroups](https://github.com/VaderConsulting/SpecGroups) | VB6 working copy of SpecGroups from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [SqlBulkUpsert](https://github.com/VaderConsulting/SqlBulkUpsert) | SqlBulkUpsert is Derek Fowler's C# wrapper around SqlBulkCopy that bulk-upserts rows via SQL MERGE and returns inserted identities. | C# | 2013-08-13 |
@@ -468,7 +468,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [TheScarmsWords](https://github.com/VaderConsulting/TheScarmsWords) | VB6 working copy of TheScarmsWords from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [TimeCheck](https://github.com/VaderConsulting/TimeCheck) | VB6 working copy of TimeCheck from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [TimeSpent](https://github.com/VaderConsulting/TimeSpent) | TimeSpent is a C# console app that exports Exchange calendar appointments to CSV so you can review hours spent from Outlook. | C# | 2013-12-09 |
-| [TinyWireM](https://github.com/VaderConsulting/TinyWireM) | Arduino library from the Arduino archive. | Arduino / C | 2022-01-03 |
+| [TinyWireM](https://github.com/VaderConsulting/TinyWireM) | Minimal I2C master library for ATtiny boards such as Trinket and Gemma. | Arduino / C | 2022-01-03 |
 | [tl_ole](https://github.com/VaderConsulting/tl_ole) | VB6 working copy of tl_ole from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [TM1637TinyDisplay](https://github.com/VaderConsulting/TM1637TinyDisplay) | Arduino library for numbers, text, and animation on 4- and 6-digit TM1637 7-segment displays. | Arduino / C | 2022-02-22 |
 | [Toast](https://github.com/VaderConsulting/Toast) | C# VS 2015 solution for Windows toast-style notifications plus a Win10-style Action Center. | C# | 2016-10-02 |
@@ -481,7 +481,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [UpdateTrendGUID](https://github.com/VaderConsulting/UpdateTrendGUID) | VB6 working copy of UpdateTrendGUID from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [USB](https://github.com/VaderConsulting/USB) | Two VB.NET USB experiments. USBProject is a VB6-upgraded HID host (Mecanique mcHID.dll) for a demo board (VID 0x1234) with start/stop/delay/temperature/LED/echo commands. | VB.NET / .NET | 2009-01-07 |
 | [USB-VB6](https://github.com/VaderConsulting/USB-VB6) | Freelance VB6 Media Detect utility (Media.exe / USB.vbp) for detecting media/USB presence. | VB6 | 2026-08-27 |
-| [UserMembership-VB](https://github.com/VaderConsulting/UserMembership-VB) | Legacy VB.NET utility for retrieving Active Directory user group membership. | VB.NET | 2008-02-17 |
+| [UserMembership-VB](https://github.com/VaderConsulting/UserMembership-VB) | WinForms utility that lists an AD user's group membership and account status flags. | VB.NET | 2008-02-17 |
 | [Utilities](https://github.com/VaderConsulting/Utilities) | Comprehensive utility library available in .NET 4.8, .NET 5, and .NET 8 editions. Extension methods, custom controls (CueTextBox, DataGridViewEx, Marquee), database helpers (SQL Server, SQLite, MySQL), serial communication, and more. | C# / .NET 4.8, .NET 5, .NET 8 | 2022-05-09 |
 | [Utilities.Standard](https://github.com/VaderConsulting/Utilities.Standard) | Cross-platform .NET Core 3.1 build of the Utilities library using `Microsoft.Windows.Compatibility`. Shared-source project linking to Utilities folder. | C# / .NET Core 3.1 | 2020-08-31 |
 | [Utility](https://github.com/VaderConsulting/Utility) | Lightweight cross-platform extension methods library. Generic serialization (`DeepCopy<T>`, `SaveToFile<T>`, `LoadFromFile<T>`), reflection utilities, and type-conversion extensions. | C# / .NET Standard 2.0, .NET Core | 2020-12-20 |
@@ -510,7 +510,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [VXT-Importer](https://github.com/VaderConsulting/VXT-Importer) | C# VS 2008 WinForms that reads a bang-separated VXT phone.dat, lists unique divisions/departments, then imports the directory records. | C# | 2008-05-26 |
 | [Wait](https://github.com/VaderConsulting/Wait) | VB6 working copy of Wait from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [watchdir](https://github.com/VaderConsulting/watchdir) | VB6 working copy of watchdir from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
-| [WaveHC](https://github.com/VaderConsulting/WaveHC) | Arduino library from the Arduino archive. | Arduino / C | 2019-01-03 |
+| [WaveHC](https://github.com/VaderConsulting/WaveHC) | Arduino library for playing WAV audio from SD via the Adafruit Wave Shield. | Arduino / C | 2019-01-03 |
 | [WCF](https://github.com/VaderConsulting/WCF) | VB.NET Visual Studio 2008 solution for a duplex WCF license-oriented service and a matching WinForms client. | VB.NET / .NET | 2008-08-21 |
 | [WCFService](https://github.com/VaderConsulting/WCFService) | VB.NET Visual Studio 2008 WCF web application that exposes a CADS4 configuration service over basicHttpBinding. | VB.NET / .NET | 2008-10-02 |
 | [webcam](https://github.com/VaderConsulting/webcam) | Dave Robinson's working copy of Wei-Meng Lee's VB.NET WinForms webcam server/client that streams BMP frames over TCP. | VB.NET / .NET | 2008-08-31 |
