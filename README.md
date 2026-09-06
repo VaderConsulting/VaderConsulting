@@ -429,11 +429,11 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Solution1](https://github.com/VaderConsulting/Solution1) | Solution1 is a Visual Studio 2010 playground of unused C# and VB.NET starter templates; the solution file does not reference them. | VB.NET, C# / .NET | 2011-05-02 |
 | [Songs](https://github.com/VaderConsulting/Songs) | VB6 working copy of Songs from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [SparkFun_HyperDisplay](https://github.com/VaderConsulting/SparkFun_HyperDisplay) | Arduino library from the Arduino archive. | Arduino / C | 2020-01-30 |
-| [SparkFun_HyperDisplay_ILI9163C](https://github.com/VaderConsulting/SparkFun_HyperDisplay_ILI9163C) | Arduino library from the Arduino archive. | Arduino / C | 2019-05-07 |
+| [SparkFun_HyperDisplay_ILI9163C](https://github.com/VaderConsulting/SparkFun_HyperDisplay_ILI9163C) | ILI9163C mid-level HyperDisplay driver layer for ILI9163-based displays. | Arduino / C | 2019-05-07 |
 | [SpecGroups](https://github.com/VaderConsulting/SpecGroups) | VB6 working copy of SpecGroups from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [SqlBulkUpsert](https://github.com/VaderConsulting/SqlBulkUpsert) | SqlBulkUpsert is Derek Fowler's C# wrapper around SqlBulkCopy that bulk-upserts rows via SQL MERGE and returns inserted identities. | C# | 2013-08-13 |
 | [Sqlenum](https://github.com/VaderConsulting/Sqlenum) | VB6 working copy of Sqlenum from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Stopwatch](https://github.com/VaderConsulting/Stopwatch) | Stopwatch is a Pocket PC WinForms app with three independent row timers plus a main timer, each with Start, Stop, and Reset. | — | 2004-08-12 |
+| [Stopwatch](https://github.com/VaderConsulting/Stopwatch) | Stopwatch is a Pocket PC WinForms app with three independent row timers plus a main timer, each with Start, Stop, and Reset. | VB.NET / .NET CF | 2004-08-12 |
 | [Stretch](https://github.com/VaderConsulting/Stretch) | VB6 working copy of Stretch from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Stub](https://github.com/VaderConsulting/Stub) | VB6 working copy of Stub from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Stuff](https://github.com/VaderConsulting/Stuff) | VB6 working copy of Stuff from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
@@ -470,7 +470,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [TimeSpent](https://github.com/VaderConsulting/TimeSpent) | TimeSpent is a C# console app that exports Exchange calendar appointments to CSV so you can review hours spent from Outlook. | C# | 2013-12-09 |
 | [TinyWireM](https://github.com/VaderConsulting/TinyWireM) | Arduino library from the Arduino archive. | Arduino / C | 2022-01-03 |
 | [tl_ole](https://github.com/VaderConsulting/tl_ole) | VB6 working copy of tl_ole from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
-| [TM1637TinyDisplay](https://github.com/VaderConsulting/TM1637TinyDisplay) | Arduino library from the Arduino archive. | Arduino / C | 2022-02-22 |
+| [TM1637TinyDisplay](https://github.com/VaderConsulting/TM1637TinyDisplay) | Arduino library for numbers, text, and animation on 4- and 6-digit TM1637 7-segment displays. | Arduino / C | 2022-02-22 |
 | [Toast](https://github.com/VaderConsulting/Toast) | C# VS 2015 solution for Windows toast-style notifications plus a Win10-style Action Center. | C# | 2016-10-02 |
 | [Tracing](https://github.com/VaderConsulting/Tracing) | VB.NET VS 2008 scratch for sending System.Diagnostics.Trace over UDP. | VB.NET / .NET | 2010-02-21 |
 | [TrackConversion](https://github.com/VaderConsulting/TrackConversion) | Converts TracPlus and RockAIR GPS tracking CSV exports to GPX 1.1 format. Batch conversion with Garmin colour tags, reverse track option. | C# / .NET 6 WinForms | 2022-11-13 |
