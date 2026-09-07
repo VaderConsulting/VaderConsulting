@@ -1,6 +1,6 @@
 # VaderConsulting
 
-Personal GitHub archive of development projects spanning ~2005 to present — a mix of tools, libraries, proof-of-concepts, and active research work in C# / .NET.
+Personal GitHub archive of development projects spanning ~2005 to present - a mix of tools, libraries, proof-of-concepts, and active research work in C# / .NET.
 
 ---
 
@@ -20,7 +20,7 @@ If you recognise code in any repository as your own work and it is not properly 
 
 | Repository | Overview | Stack | Last Updated |
 |------------|----------|-------|--------------|
-| [_vb-split-probe](https://github.com/VaderConsulting/_vb-split-probe) | Minimal probe repository with only a placeholder README. | — | — |
+| [_vb-split-probe](https://github.com/VaderConsulting/_vb-split-probe) | Minimal probe repository with only a placeholder README. | - | - |
 | [Accelerator-Keys](https://github.com/VaderConsulting/Accelerator-Keys) | VB6 working copy of Accelerator Keys from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1999-06-01 |
 | [AccessPwdBreak](https://github.com/VaderConsulting/AccessPwdBreak) | Third-party "KNR's Access 97 Password Breaker" (VersionCompanyName smart software) that attempts to recover a Microsoft Access 97 database password. | Microsoft Access | 2026-08-27 |
 | [ACControls](https://github.com/VaderConsulting/ACControls) | WinForms ActionCentre control library with expandable message groups and design-time support. | C# / .NET 4.5.2 | 2016-10-02 |
@@ -56,7 +56,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Arduino](https://github.com/VaderConsulting/Arduino) | Legacy Arduino Visual Studio projects. Contains OLEDClock and HID_Joystick. | Arduino / C++ | 2020-09-03 |
 | [arduino_644462](https://github.com/VaderConsulting/arduino_644462) | Arduino sketch from the Arduino archive. | Arduino / C | 2018-05-21 |
 | [AssetControl](https://github.com/VaderConsulting/AssetControl) | VB6 working copy of AssetControl from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2005-06-01 |
-| [AssetImporter](https://github.com/VaderConsulting/AssetImporter) | ASP.NET pages for validating and importing fleet/asset Excel and CSV sheets into org units. | VB.NET | 2006-07-03 |
+| [AssetImporter](https://github.com/VaderConsulting/AssetImporter) | ASP.NET VB.NET web application for validating and importing fleet and organisation-unit asset sheets (Excel and CSV) into a SQL Server-backed client org-unit model.... | VB.NET | 2006-07-03 |
 | [Audio-Database](https://github.com/VaderConsulting/Audio-Database) | VB6 working copy of Audio Database from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Audio-Player](https://github.com/VaderConsulting/Audio-Player) | VB6 working copy of Audio Player from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Audit](https://github.com/VaderConsulting/Audit) | Freelance VB6 PC Audit tool (Audit.exe) that records computer name, IP/MAC, OS, hotfixes, installed applications, local accounts, and services. | VB6 | 2026-08-27 |
@@ -66,12 +66,12 @@ If you recognise code in any repository as your own work and it is not properly 
 | [automatic-graph-layout-master](https://github.com/VaderConsulting/automatic-graph-layout-master) | Microsoft Automatic Graph Layout (MSAGL) is a C# toolkit for laying out and viewing graphs: Sugiyama layered layout, MDS, incremental layout, rectilinear and spline edge routing | C# | 2015-09-18 |
 | [AutoUpdater-Source](https://github.com/VaderConsulting/AutoUpdater-Source) | B4x Browser: loads and displays B4A, B4i, B4j, and B4r API information. Based on B4a Object Browser v3.2.5.14. | C# / .NET 10, .NET 8, .NET 4.8 | 2026-04-17 |
 | [B4A](https://github.com/VaderConsulting/B4A) | B4A source from Dave Robinson's Historical Dev archive. | B4A | 2015-06-20 |
-| [B4A_2](https://github.com/VaderConsulting/B4A_2) | Loads and displays B4a Objects. Includes DocLoader, HtmlRichTextBox, CommunityLibrary, LibraryObjects, and TreeViewWalker projects. | C# / .NET 2.0–4.0 | 2013-03-09 |
-| [B4x](https://github.com/VaderConsulting/B4x) | Anywhere Software B4X additional libraries and tool projects (B4A, B4i, B4J, B4R) plus the b4xlib2XML converter. | — | 2021-10-01 |
+| [B4A_2](https://github.com/VaderConsulting/B4A_2) | Loads and displays B4a Objects. Includes DocLoader, HtmlRichTextBox, CommunityLibrary, LibraryObjects, and TreeViewWalker projects. | C# / .NET 2.0-4.0 | 2013-03-09 |
+| [B4x](https://github.com/VaderConsulting/B4x) | Anywhere Software B4X additional libraries and tool projects (B4A, B4i, B4J, B4R) plus the b4xlib2XML converter. | - | 2021-10-01 |
 | [Balloon](https://github.com/VaderConsulting/Balloon) | VB.NET working copy of Balloon from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB.NET / .NET | 2026-08-27 |
 | [BalloonTips](https://github.com/VaderConsulting/BalloonTips) | Class library and test project. Assembly metadata references Microsoft. | VB.NET / .NET 3.5 | 2010-02-05 |
 | [Bandwidth](https://github.com/VaderConsulting/Bandwidth) | VB6 systray and desktop bandwidth monitor (CS Bandwidth Monitor.exe) built on IP Helper / netstat wrappers (CIpHelper, interface classes) with settings, stats, and colour UI forms. | VB6 | 2026-08-27 |
-| [Barcodes](https://github.com/VaderConsulting/Barcodes) | Third-party Code 39 barcode generator by Allen Allegretto (Barcode.exe / BarcodeGenerator). | — | 2026-08-27 |
+| [Barcodes](https://github.com/VaderConsulting/Barcodes) | Third-party Code 39 barcode generator by Allen Allegretto (Barcode.exe / BarcodeGenerator). | - | 2026-08-27 |
 | [Barcodes-VB6](https://github.com/VaderConsulting/Barcodes-VB6) | VB6 working copy of Barcodes from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [BigBrother](https://github.com/VaderConsulting/BigBrother) | Visual Studio add-in scaffold that registers a Tools menu command via IDTExtensibility2. | VB.NET / .NET 3.5 | 2010-07-12 |
 | [Bounce](https://github.com/VaderConsulting/Bounce) | VB6 working copy of Bounce from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2000-06-01 |
@@ -164,9 +164,9 @@ If you recognise code in any repository as your own work and it is not properly 
 | [GetUserbySID](https://github.com/VaderConsulting/GetUserbySID) | VB6 working copy of GetUserbySID from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [glib-sharp-master](https://github.com/VaderConsulting/glib-sharp-master) | GLibSharp is a C# wrapper for the GLib library, kept as a Dave Robinson working copy of third-party GtkSharp / glib-sharp sources. | C# | 2026-04-03 |
 | [GPS](https://github.com/VaderConsulting/GPS) | VB.NET 2005 WinForms sample (High-Precision GPS Application (VB.NET).sln, assembly CodeProject Examples for Part 2) whose Form1 (title High-Precision GPS Example) parses NMEA text or COM2 serial at 4800 baud. | VB.NET / .NET 2005 | 2006-07-03 |
-| [GroupMon-VB](https://github.com/VaderConsulting/GroupMon-VB) | Historical VB.NET tooling for monitoring Active Directory group membership changes. Multiple versioned snapshots (0.9–2.0) and service projects. | VB.NET | 2012-07-07 |
+| [GroupMon-VB](https://github.com/VaderConsulting/GroupMon-VB) | Historical VB.NET tooling for monitoring Active Directory group membership changes. Multiple versioned snapshots (0.9-2.0) and service projects. | VB.NET | 2012-07-07 |
 | [Gst](https://github.com/VaderConsulting/Gst) | VB6 working copy of Gst from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [GUID-Creator](https://github.com/VaderConsulting/GUID-Creator) | Small VB6 utility that generates GUIDs for use in scripts and configuration. | VB6 | 2026-08-27 |
+| [GUID-Creator](https://github.com/VaderConsulting/GUID-Creator) | Small VB6 utility that generates GUIDs for use in scripts and configuration.... | VB6 | 2026-08-27 |
 | [Guiddll](https://github.com/VaderConsulting/Guiddll) | VB6 working copy of Guiddll from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [Haiku](https://github.com/VaderConsulting/Haiku) | VB.NET VS 2010 working copy of Stratatel Haiku Candy: VSTO Outlook 2007/2010 add-ins (assemblies Stratatel.HaikuCandy2007 / Stratatel.HaikuCandy2010) that set a new MailItem to HTML and inject the HaikuCandy.com signature images. | VB.NET / .NET 2.0, .NET 3.5, .NET 4.0 | 2011-07-05 |
 | [HelloGM](https://github.com/VaderConsulting/HelloGM) | VB.NET 2008 working copy whose HelloGM class library (RootNamespace HelloGM, targeting .NET 2.0) exposes Speak (Talk returns "Hello GameMaker", name/number helpers including jase/cody) and Map (great-circle width/height in kilometres). | VB.NET / .NET 2008 | 2010-01-23 |
@@ -205,14 +205,14 @@ If you recognise code in any repository as your own work and it is not properly 
 | [LCDProject](https://github.com/VaderConsulting/LCDProject) | VS 2008 VB.NET WinForms (.NET 3.5) working copy. | VB.NET / .NET | 2008-09-05 |
 | [LEDClock](https://github.com/VaderConsulting/LEDClock) | Arduino LED clock sketch. | Arduino / C | 2021-02-01 |
 | [Linker](https://github.com/VaderConsulting/Linker) | VB6 working copy of Linker from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
-| [Linqkit](https://github.com/VaderConsulting/Linqkit) | Third-party LINQKit (Joseph Albahari, Tomas Petricek, MIT) working copy. | — | 2013-08-23 |
-| [LinqtoCSV](https://github.com/VaderConsulting/LinqtoCSV) | Third-party LINQtoCSV working copy. | — | 2013-11-06 |
+| [Linqkit](https://github.com/VaderConsulting/Linqkit) | Third-party LINQKit (Joseph Albahari, Tomas Petricek, MIT) working copy. | - | 2013-08-23 |
+| [LinqtoCSV](https://github.com/VaderConsulting/LinqtoCSV) | Third-party LINQtoCSV working copy. | - | 2013-11-06 |
 | [Loadmapi](https://github.com/VaderConsulting/Loadmapi) | VB6 working copy of Loadmapi from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Localisation](https://github.com/VaderConsulting/Localisation) | VS 2008 VB.NET WinForms working copy whose Form1_Load is empty and InitializeComponent only sizes a 292x266 Form1. | VB.NET / .NET | 2008-08-29 |
 | [Localization](https://github.com/VaderConsulting/Localization) | VS 2012 C# WinForms working copy. | C# | 2013-02-27 |
 | [Lockouts-VB](https://github.com/VaderConsulting/Lockouts-VB) | Windows service that polls Active Directory for locked-out accounts and sends SMTP email alerts. | VB.NET | 2012-07-07 |
 | [LoggedOnUsers](https://github.com/VaderConsulting/LoggedOnUsers) | VB6 WinForms utility (LoggedOn.exe) that lists currently logged-on users on the machine or domain context it targets. | VB6 | 2026-08-27 |
-| [Logon34](https://github.com/VaderConsulting/Logon34) | Logon UI (Logon34.exe) with VersionCompanyName Computer Sciences Corporation and Tusk Technologies, used for workplace logon scenarios. | — | 2026-08-27 |
+| [Logon34](https://github.com/VaderConsulting/Logon34) | Logon UI (Logon34.exe) with VersionCompanyName Computer Sciences Corporation and Tusk Technologies, used for workplace logon scenarios. | - | 2026-08-27 |
 | [LogonEngine](https://github.com/VaderConsulting/LogonEngine) | VS 2010 VB.NET working copy of the Windows Live Login SDK. | VB.NET / .NET | 2011-02-20 |
 | [LogonStatus-VB](https://github.com/VaderConsulting/LogonStatus-VB) | WinForms tool that reports AD logon and logoff status for a user across one or more servers. | VB.NET | 2012-07-07 |
 | [lotsofexes](https://github.com/VaderConsulting/lotsofexes) | VB6 working copy of lotsofexes from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
@@ -220,7 +220,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [M3Battery_Wifi](https://github.com/VaderConsulting/M3Battery_Wifi) | Arduino sketch from the Arduino archive. | Arduino / C | 2022-03-03 |
 | [Mac](https://github.com/VaderConsulting/Mac) | VB6 working copy of Mac from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [MailClient](https://github.com/VaderConsulting/MailClient) | VB6 working copy of MailClient from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1997-06-01 |
-| [ManagedWiFi](https://github.com/VaderConsulting/ManagedWiFi) | Third-party Native Wifi API wrapper (Monfort Software Engineering / CodePlex ManagedWifi). | — | 2016-03-08 |
+| [ManagedWiFi](https://github.com/VaderConsulting/ManagedWiFi) | Third-party Native Wifi API wrapper (Monfort Software Engineering / CodePlex ManagedWifi). | - | 2016-03-08 |
 | [Mapstuff](https://github.com/VaderConsulting/Mapstuff) | VB6 working copy of Mapstuff from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Mapview](https://github.com/VaderConsulting/Mapview) | VB6 working copy of Mapview from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Mcafee](https://github.com/VaderConsulting/Mcafee) | VB6 working copy of Mcafee from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
@@ -291,7 +291,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Operator-Console](https://github.com/VaderConsulting/Operator-Console) | VS 2008 VB.NET WinForms (.NET 3.5) working copy of the Stratatel CADS Operator Console: OperatorConsole is an MDI WinExe that calls gFunctions. | VB.NET / .NET | 2008-12-02 |
 | [Outlook](https://github.com/VaderConsulting/Outlook) | VB6 working copy of Outlook from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [OutlookAddIn1](https://github.com/VaderConsulting/OutlookAddIn1) | VS 2008 VB.NET VSTO (.NET 3.5) Outlook 2003 add-in whose ThisAddIn_Startup and ThisAddIn_Shutdown handlers are empty stubs (no login form or mail handling). | VB.NET / .NET | 2008-02-26 |
-| [OutlookAddIn2](https://github.com/VaderConsulting/OutlookAddIn2) | MailInEvent is a Visual Studio 2008 VSTO Outlook 2007 add-in that handles Application.NewMail. | — | 2008-02-26 |
+| [OutlookAddIn2](https://github.com/VaderConsulting/OutlookAddIn2) | MailInEvent is a Visual Studio 2008 VSTO Outlook 2007 add-in that handles Application.NewMail. | - | 2008-02-26 |
 | [OutlookEvents](https://github.com/VaderConsulting/OutlookEvents) | This is a Visual Studio 2008 VB.NET WinForms program that starts an Outlook Application COM object and listens for NewMailEx. | VB.NET / .NET | 2008-02-26 |
 | [Owf.Controls.A1Panel](https://github.com/VaderConsulting/Owf.Controls.A1Panel) | This is a C# WinForms GradientPanel (namespace Owf.Controls) with border, drop shadow, and rounded corners. | C# | 2013-08-02 |
 | [P2P](https://github.com/VaderConsulting/P2P) | This is a Visual Studio C# solution that experiments with Windows Peer Name Resolution Protocol (PNRP). | C# | 2013-09-21 |
@@ -306,8 +306,8 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Permgui](https://github.com/VaderConsulting/Permgui) | VB6 working copy of Permgui from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Persman](https://github.com/VaderConsulting/Persman) | VB6 working copy of Persman from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1998-06-01 |
 | [Pete-Smith](https://github.com/VaderConsulting/Pete-Smith) | VB6 working copy of Pete Smith from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Pharmacy-Assist](https://github.com/VaderConsulting/Pharmacy-Assist) | Manages all Pharmacy website and Product data. | — | 2014-06-09 |
-| [Pharmacy-Assistant](https://github.com/VaderConsulting/Pharmacy-Assistant) | Manages all Pharmacy website and Product data. | — | 2013-09-09 |
+| [Pharmacy-Assist](https://github.com/VaderConsulting/Pharmacy-Assist) | Manages all Pharmacy website and Product data. | - | 2014-06-09 |
+| [Pharmacy-Assistant](https://github.com/VaderConsulting/Pharmacy-Assistant) | Manages all Pharmacy website and Product data. | - | 2013-09-09 |
 | [Phone](https://github.com/VaderConsulting/Phone) | Visual Studio 2008 VB.NET solution with two empty Compact Framework CallInfo class libraries for Windows Mobile. | VB.NET / .NET | 2010-02-17 |
 | [phone-VB6](https://github.com/VaderConsulting/phone-VB6) | VB6 working copy of phone from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Photos](https://github.com/VaderConsulting/Photos) | VB6 working copy of Photos from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
@@ -424,7 +424,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Sms2000](https://github.com/VaderConsulting/Sms2000) | VB6 working copy of Sms2000 from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2000-06-01 |
 | [Smtpmail](https://github.com/VaderConsulting/Smtpmail) | VB6 working copy of Smtpmail from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2000-06-01 |
 | [Smtppois](https://github.com/VaderConsulting/Smtppois) | VB6 working copy of Smtppois from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Snippets](https://github.com/VaderConsulting/Snippets) | Visual Studio C# snippet for `#if Windows` (shortcut `#ifw`). | — | 2022-05-09 |
+| [Snippets](https://github.com/VaderConsulting/Snippets) | Visual Studio C# snippet for `#if Windows` (shortcut `#ifw`). | - | 2022-05-09 |
 | [SobelEdgeDetection](https://github.com/VaderConsulting/SobelEdgeDetection) | SobelEdgeDetection is a VisualCore.Lab VB.NET WinForms lab for Sobel edge detection with GDI, LockBits, and parallel image work. | VB.NET / .NET | 2010-02-15 |
 | [Solution1](https://github.com/VaderConsulting/Solution1) | Solution1 is a Visual Studio 2010 playground of unused C# and VB.NET starter templates; the solution file does not reference them. | VB.NET, C# / .NET | 2011-05-02 |
 | [Songs](https://github.com/VaderConsulting/Songs) | VB6 working copy of Songs from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
@@ -502,7 +502,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [VaderConsulting.Server](https://github.com/VaderConsulting/VaderConsulting.Server) | C# .NET 4.6 console application titled DR Planning Server (assembly DR Planning Server, root namespace DR_Planning_Server). | C# / .NET 4.6 | 2015-10-05 |
 | [VaderConsulting.SystemCenter](https://github.com/VaderConsulting/VaderConsulting.SystemCenter) | C# .NET Framework 3.5 class library that builds and imports System Center Operations Manager 2012 Service Designer management packs from lists of component servers and services. | C# / .NET Framework 3.5 | 2015-03-14 |
 | [VaderConsulting.TextRuler](https://github.com/VaderConsulting/VaderConsulting.TextRuler) | Windows Forms UserControl rendering an interactive Word-style text ruler. NuGet-packaged for rich-text/document-editing apps. Based on Andrey Lundin (CodeProject 2008). | C# / .NET 4.8 | 2020-04-22 |
-| [VB](https://github.com/VaderConsulting/VB) | Archived index of VB6 catalogue children (90 top-level + 184 Old); clone the child repos listed in this umbrella README rather than treating VB as an active project. | VB6 | — |
+| [VB](https://github.com/VaderConsulting/VB) | Archived index of VB6 catalogue children (90 top-level + 184 Old); clone the child repos listed in this umbrella README rather than treating VB as an active project. | VB6 | - |
 | [VB-Accelerator](https://github.com/VaderConsulting/VB-Accelerator) | Working copy of Steve McMahon vbAccelerator VB6 controls and samples: S-Grid, Image List, List Bar, popup menu DLL, SysTray, journal record hook, icon extractor, transparent menu, and multi-monitor helpers. | VB6 | 2026-08-27 |
 | [Vb4kix](https://github.com/VaderConsulting/Vb4kix) | VB6 working copy of Vb4kix from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [VBsax2jumpstart](https://github.com/VaderConsulting/VBsax2jumpstart) | VB6 working copy of VBsax2jumpstart from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
@@ -523,10 +523,10 @@ If you recognise code in any repository as your own work and it is not properly 
 | [WindowsVBGame1](https://github.com/VaderConsulting/WindowsVBGame1) | Visual Studio 2008 VB.NET WinForms host that starts a stock XNA 3.1 Game1 on Button1. | VB.NET / .NET | 2009-07-12 |
 | [WinForms-Calc](https://github.com/VaderConsulting/WinForms-Calc) | VB.NET working copy of WinForms-Calc from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB.NET / .NET | 2026-08-27 |
 | [WinLogon-Notification](https://github.com/VaderConsulting/WinLogon-Notification) | VB6 working copy of WinLogon Notification from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
-| [Wol](https://github.com/VaderConsulting/Wol) | Dave Robinson Mini Discover (MiniDisc.exe) - loads audit.xml of WMI classes to query and writes discovery output. | — | 2026-08-27 |
+| [Wol](https://github.com/VaderConsulting/Wol) | Dave Robinson Mini Discover (MiniDisc.exe) - loads audit.xml of WMI classes to query and writes discovery output. | - | 2026-08-27 |
 | [Word](https://github.com/VaderConsulting/Word) | VB6 working copy of Word from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [WordCounter](https://github.com/VaderConsulting/WordCounter) | VB6 working copy of WordCounter from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
-| [xml0800](https://github.com/VaderConsulting/xml0800) | Microsoft SAX Workbench sample (SaxTest.exe / Saxtest.vbp). | — | 2026-08-27 |
+| [xml0800](https://github.com/VaderConsulting/xml0800) | Microsoft SAX Workbench sample (SaxTest.exe / Saxtest.vbp). | - | 2026-08-27 |
 | [XNAEngine](https://github.com/VaderConsulting/XNAEngine) | Visual Studio 2008 VB.NET XNA 3.1 engine with camera, skybox, heightmap terrain, models, textures, XACT sound, and bitmap text. | VB.NET / .NET | 2009-07-12 |
 | [XP-Style](https://github.com/VaderConsulting/XP-Style) | VB6 working copy of XP Style from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [xxxModelShredder](https://github.com/VaderConsulting/xxxModelShredder) | Dave Robinson's working copy of Johannes Rudolph's C# ModelShredder that turns IEnumerable objects into DataTables via IL emit. | C# | 2013-06-20 |
@@ -541,4 +541,4 @@ If you recognise code in any repository as your own work and it is not properly 
 
 ## Licence
 
-Original work in this organisation is released under the [MIT Licence](https://opensource.org/licenses/MIT) unless otherwise noted. Third-party code retains its original licence — see individual repositories for details.
+Original work in this organisation is released under the [MIT Licence](https://opensource.org/licenses/MIT) unless otherwise noted. Third-party code retains its original licence - see individual repositories for details.
