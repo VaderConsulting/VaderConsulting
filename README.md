@@ -106,17 +106,17 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Create-Synchronicity](https://github.com/VaderConsulting/Create-Synchronicity) | Create Synchronicity is a portable VB.NET backup and folder-synchronization program (v5.2.1) that runs named profiles, a scheduler, include/exclude patterns, and optional GZip compression. | VB.NET / .NET | 2011-05-04 |
 | [Create-Users](https://github.com/VaderConsulting/Create-Users) | VB6 working copy of Create Users from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Createas](https://github.com/VaderConsulting/Createas) | VB6 working copy of Createas from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [CSV-Convert](https://github.com/VaderConsulting/CSV-Convert) | VB6 working copy of CSV Convert from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [CSV-maker](https://github.com/VaderConsulting/CSV-maker) | VB6 working copy of CSV maker from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [CSVImport](https://github.com/VaderConsulting/CSVImport) | VB6 working copy of CSVImport from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [CSV-Convert](https://github.com/VaderConsulting/CSV-Convert) | CSC VB6 batch CSV rewriter that walks a source folder of site CSVs and appends Drive6/Drive7 columns on convert. | VB6 | 2026-08-27 |
+| [CSV-maker](https://github.com/VaderConsulting/CSV-maker) | CSC VB6 site CSV builder with a FlexGrid editor for Group plus drive/printer columns from PDC export scripts. | VB6 | 2026-08-27 |
+| [CSVImport](https://github.com/VaderConsulting/CSVImport) | VB6 utility that queries siteinfo CSV files via the Microsoft Text ODBC driver and ADO, filtered by subnet. | VB6 | 2026-08-27 |
 | [CtrlCloneTst](https://github.com/VaderConsulting/CtrlCloneTst) | C# Windows Forms harness that exercises a ControlFactory helper for cloning controls and clipboard copy/paste. | C# / .NET 1.1 | 2006-02-21 |
 | [CurrencyConvertor](https://github.com/VaderConsulting/CurrencyConvertor) | VB.NET WinForms app that converts amounts via the webservicex.net CurrencyConvertor SOAP ConversionRate API. | VB.NET / .NET | 2005-08-10 |
 | [CustomControls](https://github.com/VaderConsulting/CustomControls) | Multi-target Windows Forms control library (.NET 4.8, .NET 5, .NET 6). Includes Tesla battery controls, RTSP video player, ProgressBarEx, CueTextBox, Marquee, DataGridViewEx, BufferedTreeView, and TextRuler. | C# / .NET 4.8, .NET 5, .NET 6 | 2022-04-30 |
 | [CustomRichTextBox](https://github.com/VaderConsulting/CustomRichTextBox) | RichTextBox extended with print support (via Win32 EM_FORMATRANGE) and drag-and-drop text. Based on Microsoft KB 811401. | VB.NET, C# / .NET 4.8, .NET 5 | 2021-09-12 |
-| [Database](https://github.com/VaderConsulting/Database) | VB6 working copy of Database from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Database](https://github.com/VaderConsulting/Database) | VB6 department-details viewer bound to Access via DAO/Data control, with DBGrid/DBList and department option buttons. | VB6 | 2026-08-27 |
 | [DavesNotepad](https://github.com/VaderConsulting/DavesNotepad) | VB.NET MDI notepad that opens .txt files into child frmFile windows with a docked multiline editor. | VB.NET / .NET | 2008-11-03 |
-| [db](https://github.com/VaderConsulting/db) | VB6 working copy of db from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Dcecheck](https://github.com/VaderConsulting/Dcecheck) | VB6 working copy of Dcecheck from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1997-06-01 |
+| [db](https://github.com/VaderConsulting/db) | VB6 Kixtart log importer (Troll) that scans a UNC *.log share and loads hostname/datetime into SQL Server. | VB6 | 2026-08-27 |
+| [Dcecheck](https://github.com/VaderConsulting/Dcecheck) | VB6 WMI DCE status checker that enumerates Win32_Process on a host and reports DCE RPC/Directory/DTS client state. | VB6 | 1997-06-01 |
 | [DevGuidelines](https://github.com/VaderConsulting/DevGuidelines) | VB.NET WinForms sample whose frmMain documents Dave Robinson's coding guidelines: XML comments, regions, a Username property, and correct versus Hungarian-style method names. | VB.NET / .NET | 2008-09-24 |
 | [DHCP](https://github.com/VaderConsulting/DHCP) | VB.NET DHCP sample that queries a DHCP.Server and message-boxes version, subnets, and client lease/reservation details. | VB.NET / .NET | 2007-09-02 |
 | [Dhcp-VB6](https://github.com/VaderConsulting/Dhcp-VB6) | VB6 working copy of Dhcp from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
