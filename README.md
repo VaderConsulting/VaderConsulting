@@ -119,53 +119,53 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Dcecheck](https://github.com/VaderConsulting/Dcecheck) | VB6 WMI DCE status checker that enumerates Win32_Process on a host and reports DCE RPC/Directory/DTS client state. | VB6 | 1997-06-01 |
 | [DevGuidelines](https://github.com/VaderConsulting/DevGuidelines) | VB.NET WinForms sample whose frmMain documents Dave Robinson's coding guidelines: XML comments, regions, a Username property, and correct versus Hungarian-style method names. | VB.NET / .NET | 2008-09-24 |
 | [DHCP](https://github.com/VaderConsulting/DHCP) | VB.NET DHCP sample that queries a DHCP.Server and message-boxes version, subnets, and client lease/reservation details. | VB.NET / .NET | 2007-09-02 |
-| [Dhcp-VB6](https://github.com/VaderConsulting/Dhcp-VB6) | VB6 working copy of Dhcp from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Diamond](https://github.com/VaderConsulting/Diamond) | VB6 working copy of Diamond from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Dhcp-VB6](https://github.com/VaderConsulting/Dhcp-VB6) | CSC VB6 DHCP extractor that lists scopes and clients via dhcpcmd and exports IP/hostname/MAC to CSV. | VB6 | 2026-08-27 |
+| [Diamond](https://github.com/VaderConsulting/Diamond) | VB6 MDI warranty desk for Access stock/warranty/suppliers with barcode scan and stepped repair flow. | VB6 | 2026-08-27 |
 | [DirectSoundDemo](https://github.com/VaderConsulting/DirectSoundDemo) | C# WinForms DirectSound player that loads a WAV, plays it, and exposes volume, pan, seek, device, and effect controls. | C# | 2009-01-18 |
-| [Disksize](https://github.com/VaderConsulting/Disksize) | VB6 working copy of Disksize from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Disksize](https://github.com/VaderConsulting/Disksize) | VB6 domain disk scanner that maps C$-K$ admin shares and can log capacity into SQL AdmDisk tables. | VB6 | 2026-08-27 |
 | [Dive.Scenarios](https://github.com/VaderConsulting/Dive.Scenarios) | C# adapter mapping Dive scenario schema v1.0 into the canonical runtime model. | C# | 2026-07-06 |
 | [dockpanelsuite-master](https://github.com/VaderConsulting/dockpanelsuite-master) | Working copy of Weifen Luo's DockPanel Suite (assembly WeifenLuo.WinFormsUI.Docking 2.8.0.0), a C# Windows Forms docking library with a DockSample demo. | C# | 2015-06-20 |
 | [DomainInfo](https://github.com/VaderConsulting/DomainInfo) | VB6 Domain Info utility (DomInfo.exe) for querying basic domain information from a simple WinForms host. | VB6 | 2026-08-27 |
 | [DOTNETCOM](https://github.com/VaderConsulting/DOTNETCOM) | VB.NET COM-visible class library whose Hello ComClass exposes HelloWorld(strName) returning "Hello " & strName. | VB.NET / .NET | 2007-09-09 |
 | [Embedded](https://github.com/VaderConsulting/Embedded) | C# .NET Micro Framework working copies: FEZ Panda II Application1 (Realtag watchdog, SD config, display/keypad), Panda Encoder (GHI FEZ rotary encoder via Toolbox.NETMF. | C# / .NET | 2012-11-10 |
 | [Encoder](https://github.com/VaderConsulting/Encoder) | Counts quadrature pulses from rotary and linear position encoders. | Arduino / C | 2020-11-13 |
-| [Enterprise-Management](https://github.com/VaderConsulting/Enterprise-Management) | VB6 working copy of Enterprise Management from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Enumuser](https://github.com/VaderConsulting/Enumuser) | VB6 working copy of Enumuser from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [ErrorControl](https://github.com/VaderConsulting/ErrorControl) | VB6 working copy of ErrorControl from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2002-06-01 |
-| [ErrorControl3](https://github.com/VaderConsulting/ErrorControl3) | VB6 working copy of ErrorControl3 from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2002-06-01 |
+| [Enterprise-Management](https://github.com/VaderConsulting/Enterprise-Management) | VB6 Winsock logon client/server suite (port 1001) plus User Management for drive/printer mapping at logon. | VB6 | 2026-08-27 |
+| [Enumuser](https://github.com/VaderConsulting/Enumuser) | VB6 tool that adds/deletes NT domain and Access workgroup users together when groups match. | VB6 | 2026-08-27 |
+| [ErrorControl](https://github.com/VaderConsulting/ErrorControl) | VB6 Wise for Windows Installer 4.x error-log interpreter (v2.2) by Dave Robinson, 2002. | VB6 | 2002-06-01 |
+| [ErrorControl3](https://github.com/VaderConsulting/ErrorControl3) | VB6 v3 Wise MSI error-log interpreter with Windows Installer object library support (Dave Robinson, 2002). | VB6 | 2002-06-01 |
 | [ESP8266_Microgear](https://github.com/VaderConsulting/ESP8266_Microgear) | ESP8266 client library that connects devices to the NETPIE IoT platform as microgears. | Arduino / C | 2020-06-30 |
 | [EventReader](https://github.com/VaderConsulting/EventReader) | System tray utility monitoring Windows Event Log with balloon-tip notifications. Filter by log/event type, click to open Event Viewer, settings persisted to registry. Originally by Marc Merritt (2003). | C# / .NET 4.7.2 WinForms | 2020-01-21 |
 | [EWOW](https://github.com/VaderConsulting/EWOW) | VB.NET WinForms Mission Controller (EWOW) whose startup object is Mission_Controller.frmMain. | VB.NET / .NET | 2005-09-11 |
 | [EWoW-Protocol](https://github.com/VaderConsulting/EWoW-Protocol) | Realtag EWoW-C protocol tester (EWoWProtocol.exe) used to exercise the EWoW-C messaging protocol from a VB6 WinForms host. | VB6 | 2026-08-27 |
-| [Exchange](https://github.com/VaderConsulting/Exchange) | VB6 working copy of Exchange from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [extracticons](https://github.com/VaderConsulting/extracticons) | VB6 working copy of extracticons from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [ExtractIcons2](https://github.com/VaderConsulting/ExtractIcons2) | VB6 working copy of ExtractIcons2 from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Exchange](https://github.com/VaderConsulting/Exchange) | CSC VB6 Exchange tracking.log to CSV extractor with date-range GUI or /s /d /m command line. | VB6 | 2026-08-27 |
+| [extracticons](https://github.com/VaderConsulting/extracticons) | POS Hungaria VB6 icon browser: open DLL/EXE, grid icons, double-click save as .ico. | VB6 | 2026-08-27 |
+| [ExtractIcons2](https://github.com/VaderConsulting/ExtractIcons2) | DAGS VB6 Extract Icons tool that browses internal/associated icons and saves selections. | VB6 | 2026-08-27 |
 | [FastColoredTextBox-master](https://github.com/VaderConsulting/FastColoredTextBox-master) | Working copy of Pavel Torgashov's FastColoredTextBox (assembly FastColoredTextBox 2.9.7.0): a C# WinForms UserControl for syntax-colored editing targeting .NET 2.0. | C# / .NET 2.0. | 2013-03-01 |
 | [FastColoredTextBoxCF](https://github.com/VaderConsulting/FastColoredTextBoxCF) | Working copy of Pavel Torgashov's FastColoredTextBox Compact Framework port (assembly FastColoredTextBox 4.6.2): a C# syntax-colored textbox UserControl targeting .NET Compact Framework 2.0 / Pocket PC 2003. | C# / .NET Compact Framework 2.0 | 2011-06-08 |
 | [File-Association](https://github.com/VaderConsulting/File-Association) | C# .NET 2.0 library (BrendanGrant.Helpers.FileAssociation) that creates, reads, and deletes Windows file-extension associations in the registry via FileAssociationInfo, ProgramAssociationInfo, and AssociationManager, plus shell-change notify. | C# / .NET 2.0 | 2013-09-26 |
-| [File-Search](https://github.com/VaderConsulting/File-Search) | VB6 working copy of File Search from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1998-06-01 |
+| [File-Search](https://github.com/VaderConsulting/File-Search) | 1998 File Search: recursive directory walk with MSChart size graphs (Dave Robinson / CBB). | VB6 | 1998-06-01 |
 | [FileSplitter](https://github.com/VaderConsulting/FileSplitter) | VB6 working copy of FileSplitter from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [FileTransfer](https://github.com/VaderConsulting/FileTransfer) | VB6 working copy of FileTransfer from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [findandreplace](https://github.com/VaderConsulting/findandreplace) | VB6 working copy of findandreplace from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
-| [FindHosts](https://github.com/VaderConsulting/FindHosts) | VB6 working copy of FindHosts from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Findip](https://github.com/VaderConsulting/Findip) | VB6 working copy of Findip from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [FindHosts](https://github.com/VaderConsulting/FindHosts) | VB6 host monitor: ADO host list, DSPing checks, updates Up/Down and last-seen in tblHosts. | VB6 | 2026-08-27 |
+| [Findip](https://github.com/VaderConsulting/Findip) | CSC VB6 batch helper: ping hostnames from computers.txt and append IP,name CSV rows. | VB6 | 2026-08-27 |
 | [Fixurl](https://github.com/VaderConsulting/Fixurl) | VB6 working copy of Fixurl from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [Framework](https://github.com/VaderConsulting/Framework) | VB.NET 3.5 working copy of Utility.sln (VS 2008). | VB.NET / .NET 3.5 | 2019-10-25 |
-| [Funky](https://github.com/VaderConsulting/Funky) | VB6 working copy of Funky from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Funky](https://github.com/VaderConsulting/Funky) | WA Police DistroClient: Winsock distributed-tasks client with logging and /START switches. | VB6 | 2026-08-27 |
 | [GameMaker](https://github.com/VaderConsulting/GameMaker) | VB.NET 3.5 working copy whose Helper library (RootNamespace GameMaker, assembly Helper) stores named numeric and string arrays (Arrays) and maps GameMaker-style colour names such as c_aqua/c_red to integer values (Constants). | VB.NET / .NET 3.5 | 2009-09-08 |
 | [Gaming](https://github.com/VaderConsulting/Gaming) | VB.NET 3.5 WinForms sketch (Form Test) whose mouse-move handler computes angle and distance between lblPlayer and lblEnemy (CalculatePointAngle via Atan2, CalculatePointDistance) and draws a RoyalBlue heading line. | VB.NET / .NET 3.5 | 2010-02-11 |
-| [Gazette](https://github.com/VaderConsulting/Gazette) | VB6 working copy of Gazette from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Gazette](https://github.com/VaderConsulting/Gazette) | Gazette Translator for directory data entry with DAO Access export and half/full-page forms. | VB6 | 2026-08-27 |
 | [General-NPOIHelper](https://github.com/VaderConsulting/General-NPOIHelper) | Extension methods for NPOI library simplifying Excel cell writing via `ISheet.SetCellValue()`. | C# / .NET 4.8 | 2021-04-05 |
 | [General-Utilities](https://github.com/VaderConsulting/General-Utilities) | Broad-purpose utility library with custom controls (CueTextBox, Marquee, DataGridViewEx), Serial wrapper, Registry helper, TextDrawing, and extension methods. | C# / .NET 10 | 2022-05-09 |
 | [generichid_vb](https://github.com/VaderConsulting/generichid_vb) | VB.NET WinForms GenericHid sample (Jan Axelson 2.4) that finds an attached USB HID by vendor and product IDs (form defaults 0925/1299), reads HID capabilities, and exchanges Input, Output, and Feature reports. | VB.NET / .NET | 2008-06-22 |
-| [GetFileinfo](https://github.com/VaderConsulting/GetFileinfo) | VB6 working copy of GetFileinfo from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2001-06-01 |
-| [Getip](https://github.com/VaderConsulting/Getip) | VB6 working copy of Getip from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [getmacadr](https://github.com/VaderConsulting/getmacadr) | VB6 working copy of getmacadr from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [GetUserbySID](https://github.com/VaderConsulting/GetUserbySID) | VB6 working copy of GetUserbySID from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [GetFileinfo](https://github.com/VaderConsulting/GetFileinfo) | 2001 File Finder: scan paths, show version FileInfo, export all/corporate apps lists. | VB6 | 2001-06-01 |
+| [Getip](https://github.com/VaderConsulting/Getip) | VB6 GetIP class that resolves any hostname to IPv4 via Winsock gethostbyname. | VB6 | 2026-08-27 |
+| [getmacadr](https://github.com/VaderConsulting/getmacadr) | VB6 GetEthAdr utility that reads the local adapter MAC via NetBIOS NCB ASTAT. | VB6 | 2026-08-27 |
+| [GetUserbySID](https://github.com/VaderConsulting/GetUserbySID) | CSC VB6 Logon 3.2 background process that scans domain user SIDs via Active DS. | VB6 | 2026-08-27 |
 | [glib-sharp-master](https://github.com/VaderConsulting/glib-sharp-master) | GLibSharp is a C# wrapper for the GLib library, kept as a Dave Robinson working copy of third-party GtkSharp / glib-sharp sources. | C# | 2026-04-03 |
 | [GPS](https://github.com/VaderConsulting/GPS) | VB.NET 2005 WinForms sample (High-Precision GPS Application (VB.NET).sln, assembly CodeProject Examples for Part 2) whose Form1 (title High-Precision GPS Example) parses NMEA text or COM2 serial at 4800 baud. | VB.NET / .NET 2005 | 2006-07-03 |
 | [GroupMon-VB](https://github.com/VaderConsulting/GroupMon-VB) | Historical VB.NET tooling for monitoring Active Directory group membership changes. Multiple versioned snapshots (0.9-2.0) and service projects. | VB.NET | 2012-07-07 |
-| [Gst](https://github.com/VaderConsulting/Gst) | VB6 working copy of Gst from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Gst](https://github.com/VaderConsulting/Gst) | Chips Bits Bytes VB6 GST Tool for product pricing with Australian GST markup calc. | VB6 | 2026-08-27 |
 | [GUID-Creator](https://github.com/VaderConsulting/GUID-Creator) | Small VB6 utility that generates GUIDs for scripts, COM wiring, installers, and config files that need a unique key. | VB6 | 2026-08-27 |
 | [Guiddll](https://github.com/VaderConsulting/Guiddll) | VB6 working copy of Guiddll from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [Haiku](https://github.com/VaderConsulting/Haiku) | VB.NET VS 2010 working copy of Stratatel Haiku Candy: VSTO Outlook 2007/2010 add-ins (assemblies Stratatel.HaikuCandy2007 / Stratatel.HaikuCandy2010) that set a new MailItem to HTML and inject the HaikuCandy.com signature images. | VB.NET / .NET 2.0, .NET 3.5, .NET 4.0 | 2011-07-05 |
@@ -174,12 +174,12 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Helper](https://github.com/VaderConsulting/Helper) | VB6 working copy of Helper from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
 | [HID_Joystick](https://github.com/VaderConsulting/HID_Joystick) | Arduino HID joystick sketch and Visual Studio project. | Arduino / C++ | 2022-05-08 |
 | [Hooks](https://github.com/VaderConsulting/Hooks) | VS 2008 VB.NET WinForms (.NET 3.5) working copy that on Form1 load constructs LowLevelMouseHook, which SetWindowsHookEx-installs a WH_MOUSE_LL hook and Debug. | VB.NET / .NET | 2010-02-04 |
-| [Hosttype](https://github.com/VaderConsulting/Hosttype) | VB6 working copy of Hosttype from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Hotkey-DLL](https://github.com/VaderConsulting/Hotkey-DLL) | VB6 working copy of Hotkey DLL from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Hotkeys](https://github.com/VaderConsulting/Hotkeys) | VB6 working copy of Hotkeys from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Hosttype](https://github.com/VaderConsulting/Hosttype) | VB6 Determine Hosttype tool that classifies remote OS via WNet host-type probes. | VB6 | 2026-08-27 |
+| [Hotkey-DLL](https://github.com/VaderConsulting/Hotkey-DLL) | VB6 ActiveX DLL (Hotkey.dll) for system-wide hotkey register/unregister via RegisterHotKey. | VB6 | 2026-08-27 |
+| [Hotkeys](https://github.com/VaderConsulting/Hotkeys) | VB6 HotKeyDemo that registers configurable global hotkeys with configure UI. | VB6 | 2026-08-27 |
 | [HTML-Renderer](https://github.com/VaderConsulting/HTML-Renderer) | VS 2010 C# working copy of HTML Renderer 1.4.4.0: a 100% managed .NET 2.0 library that paints HTML/CSS in WinForms without WebBrowser/MSHTML. | C# / .NET 2.0 | 2013-05-12 |
 | [HtmlRichTextBox](https://github.com/VaderConsulting/HtmlRichTextBox) | Windows Forms RichTextBox with Win32 CHARFORMAT/PARAFORMAT interop and HTML import/export via `HtmlText` property. Believed to be from CodeProject circa 2005. | C# / .NET 2.0 | 2020-04-22 |
-| [Huff](https://github.com/VaderConsulting/Huff) | VB6 working copy of Huff from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Huff](https://github.com/VaderConsulting/Huff) | Educational VB4/5 Huffman compression demo with Compress and Expand projects. | VB6 | 2026-08-27 |
 | [hwapp](https://github.com/VaderConsulting/hwapp) | SDK-style C# console working copy targeting netcoreapp2.1. | C# | 2018-08-21 |
 | [i00SpellCheck](https://github.com/VaderConsulting/i00SpellCheck) | i00 Spell Check is a stand-alone VB.NET WinForms spell-check and control-extension library by Kris Bennett (i00 Productions). | VB.NET / .NET | 2015-06-20 |
 | [I2CScanner](https://github.com/VaderConsulting/I2CScanner) | Arduino I2C bus scanner sketch. | Arduino / C | 2020-10-23 |
