@@ -219,19 +219,19 @@ If you recognise code in any repository as your own work and it is not properly 
 | [M3Battery](https://github.com/VaderConsulting/M3Battery) | Arduino sketch from the Arduino archive. | Arduino / C | 2022-03-03 |
 | [M3Battery_Wifi](https://github.com/VaderConsulting/M3Battery_Wifi) | Arduino sketch from the Arduino archive. | Arduino / C | 2022-03-03 |
 | [Mac](https://github.com/VaderConsulting/Mac) | VB6 GetEthAdr utility that reads the local adapter MAC via NetBIOS NCB ASTAT. | VB6 | 2026-08-27 |
-| [MailClient](https://github.com/VaderConsulting/MailClient) | VB6 working copy of MailClient from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1997-06-01 |
+| [MailClient](https://github.com/VaderConsulting/MailClient) | Desaware Inc. VB6 Launcher Client (LClient.exe) from Win32 API guide Ch.14 mailslot examples. | VB6 | 1997-06-01 |
 | [ManagedWiFi](https://github.com/VaderConsulting/ManagedWiFi) | Third-party Native Wifi API wrapper (Monfort Software Engineering / CodePlex ManagedWifi). | - | 2016-03-08 |
-| [Mapstuff](https://github.com/VaderConsulting/Mapstuff) | VB6 working copy of Mapstuff from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Mapview](https://github.com/VaderConsulting/Mapview) | VB6 working copy of Mapview from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Mcafee](https://github.com/VaderConsulting/Mcafee) | VB6 working copy of Mcafee from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Message-Viewer](https://github.com/VaderConsulting/Message-Viewer) | VB6 working copy of Message Viewer from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2000-06-01 |
-| [Messages](https://github.com/VaderConsulting/Messages) | VB6 working copy of Messages from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Mapstuff](https://github.com/VaderConsulting/Mapstuff) | CSC VB6 MapInfo .tab corner extractor that lists NW/NE/SE/SW coords and writes CSV. | VB6 | 2026-08-27 |
+| [Mapview](https://github.com/VaderConsulting/Mapview) | CSC VB6 map browser over Access MAP.mdb via MSADODC with colour/B&W images. | VB6 | 2026-08-27 |
+| [Mcafee](https://github.com/VaderConsulting/Mcafee) | CSC VB6 McInfo inventory reporter for McAfee VirusScan registry, service, and scans. | VB6 | 2026-08-27 |
+| [Message-Viewer](https://github.com/VaderConsulting/Message-Viewer) | CSC + D. Robinson VB6 Logon Status Message Viewer for KiXtart logs and charts. | VB6 | 2000-06-01 |
+| [Messages](https://github.com/VaderConsulting/Messages) | CSC VB6 Messages browser for domain netlogon broadcast message files. | VB6 | 2026-08-27 |
 | [MFRC522](https://github.com/VaderConsulting/MFRC522) | Arduino SPI library for reading and writing MIFARE RFID cards via the MFRC522. | Arduino / C | 2021-11-02 |
 | [Mgecomp](https://github.com/VaderConsulting/Mgecomp) | VB6 Manage Computers utility (`MgeComp.exe`) that lists domain computers and shows per-machine status. | VB6 | 2026-08-27 |
 | [Microsoft-Press](https://github.com/VaderConsulting/Microsoft-Press) | Microsoft Press Workflow Step by Step Chapter 1 working copy: a VS 2012 C# console host (.NET 3.0) that CreateWorkflow-starts SequentialWorkflowActivity Workflow1 with PostalCode from args[0] (or empty). | C# / .NET 3.0 | 2013-04-21 |
-| [Mifscan](https://github.com/VaderConsulting/Mifscan) | VB6 working copy of Mifscan from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Mifscan](https://github.com/VaderConsulting/Mifscan) | CSC VB6 MIF serial scanner that extracts Monitor and PC serial numbers from MIFs. | VB6 | 2026-08-27 |
 | [MigrateProfile](https://github.com/VaderConsulting/MigrateProfile) | Empired Limited VB6 Migrate Profile tool (`MigrateProfile.exe`) that loads/saves user settings (drives. | VB6 | 2026-08-27 |
-| [Modcsv](https://github.com/VaderConsulting/Modcsv) | VB6 working copy of Modcsv from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Modcsv](https://github.com/VaderConsulting/Modcsv) | CSC VB6 ModCSV that rewrites traveller drive paths in domain-admin CSV files. | VB6 | 2026-08-27 |
 | [ModGroups](https://github.com/VaderConsulting/ModGroups) | VB6 Modify Group membership utility (`ModGroups.exe`) that lists filtered domain groups (e.g. `right-usr-pf*`. | VB6 | 2026-08-27 |
 | [ModifyEA](https://github.com/VaderConsulting/ModifyEA) | Empired Limited VB6 utility (`ModifyEA.exe`) that binds an AD user by LDAP DN and sets or clears a numbered. | VB6 | 2026-08-27 |
 | [MonoAndroidApplication1](https://github.com/VaderConsulting/MonoAndroidApplication1) | VS 2010 C# Mono for Android (Novell MonoDroid) working copy whose MainLauncher Activity1 inflates Main.axml, finds MyButton (Hello World, Click Me!), and on Click sets the caption to "N clicks!" (count starts at 1). | C# | 2012-03-17 |
