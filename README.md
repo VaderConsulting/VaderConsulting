@@ -237,25 +237,25 @@ If you recognise code in any repository as your own work and it is not properly 
 | [MonoAndroidApplication1](https://github.com/VaderConsulting/MonoAndroidApplication1) | VS 2010 C# Mono for Android (Novell MonoDroid) working copy whose MainLauncher Activity1 inflates Main.axml, finds MyButton (Hello World, Click Me!), and on Click sets the caption to "N clicks!" (count starts at 1). | C# | 2012-03-17 |
 | [motion_src](https://github.com/VaderConsulting/motion_src) | VS 2017 C# WinForms (.NET 2.0) working copy of Andrew Kirillov's AForge Motion Detector v.1.5.0. | C# / .NET 2.0 | 2018-12-23 |
 | [MouseHook](https://github.com/VaderConsulting/MouseHook) | VB6 mouse-hook demo that installs `WH_JOURNALRECORD` and `WH_GETMESSAGE` hooks via `cSysHook` / `modHook` and. | VB6 | 2026-08-27 |
-| [MP3Player](https://github.com/VaderConsulting/MP3Player) | VB6 working copy of MP3Player from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [MP3Player](https://github.com/VaderConsulting/MP3Player) | Chips, Bits and Bytes VB6 MP3 player and ID3v1 tag editor using msdxm Media Player. | VB6 | 2026-08-27 |
 | [MP4-Display](https://github.com/VaderConsulting/MP4-Display) | Empired Limited VB6 MP4 Display UI (`Project1`) with on/off display option buttons and a clickable main image. | VB6 | 2026-08-27 |
-| [MSI-Compare](https://github.com/VaderConsulting/MSI-Compare) | VB6 working copy of MSI Compare from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [MSI-Explorer](https://github.com/VaderConsulting/MSI-Explorer) | VB6 working copy of MSI Explorer from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [MSI-Compare](https://github.com/VaderConsulting/MSI-Compare) | VB6 MSI Compare.exe dual-pane Windows Installer browser for two MSI/MSM databases. | VB6 | 2026-08-27 |
+| [MSI-Explorer](https://github.com/VaderConsulting/MSI-Explorer) | VB6 MSI Explorer.exe MDI Windows Installer browser for MSI/MSM Files/Registry/Components. | VB6 | 2026-08-27 |
 | [MsTimer2](https://github.com/VaderConsulting/MsTimer2) | Runs a periodic interrupt callback using AVR Timer2. | Arduino / C | 2018-05-21 |
 | [Multi-Node](https://github.com/VaderConsulting/Multi-Node) | Master/repeater/user-device WiFi network protocol for up to 100 nodes covering 1 km². Nodes self-organise with 8-bit ID allocation, automatic master election, and dynamic topology. | C# / .NET 9 | 2025-06-22 |
-| [Music](https://github.com/VaderConsulting/Music) | VB6 working copy of Music from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2000-06-01 |
+| [Music](https://github.com/VaderConsulting/Music) | Chips, Bits and Bytes VB6 Music Database over Access music2000.mdb (artists/albums/songs). | VB6 | 2000-06-01 |
 | [MVC](https://github.com/VaderConsulting/MVC) | VS 2012 C# working copy: Pharmacy Assistant 1.3.4 is a .NET 3.5 WinForms MDI that logs on against SQL Server, then edits products, catalogs, documents, tasks, events, and user accounts for the Savemor pharmacy site (FTP upload, AutoUpdater.NET). | C# / .NET 3.5 | 2013-09-09 |
 | [MXXMLWriterSample](https://github.com/VaderConsulting/MXXMLWriterSample) | Microsoft Corp. VB6 SAX writer sample (`MXXMLWriterSample.exe`) demonstrating `MXXMLWriter` with. | VB6 | 2026-08-27 |
-| [My-Server-Monitor](https://github.com/VaderConsulting/My-Server-Monitor) | VB6 working copy of My Server Monitor from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [My-Server-Monitor](https://github.com/VaderConsulting/My-Server-Monitor) | Chips, Bits and Bytes VB6 My Server Monitor (MSM.exe) ping and disk-space chart. | VB6 | 2026-08-27 |
 | [MyMonitor](https://github.com/VaderConsulting/MyMonitor) | VB6 bandwidth monitor (`MyMonitor.exe`) built on IP Helper / netstat wrappers (`CIpHelper`, interface. | VB6 | 2026-08-27 |
 | [MyNamespace](https://github.com/VaderConsulting/MyNamespace) | VS 2008 mixed-language working copy: MyNamespace is a VB.NET (.NET 2.0) class library whose VB type copies My.Application, My.User, My.Computer, and My. | VB.NET / .NET | 2008-03-27 |
 | [MyWestnetUsage](https://github.com/VaderConsulting/MyWestnetUsage) | VS 2008 VB.NET WinForms (.NET 3.5) working copy that queries Westnet ADSL usage. | VB.NET / .NET | 2008-08-10 |
 | [Mywsh](https://github.com/VaderConsulting/Mywsh) | VB6 Windows Script Host runner (`mywsh.vbp`) that takes a `.vbs` or `.js` path on the command line and. | VB6 | 2026-08-27 |
 | [Name-Creator](https://github.com/VaderConsulting/Name-Creator) | VS 2008 VB.NET WinForms (.NET 3.5) working copy whose Form1_Load reads D:\Data\Surnames.txt, Female.txt, and Male.txt, then writes 10,000 random first-and-last names to the console with an (M) or (F) prefix. | VB.NET / .NET | 2008-05-14 |
 | [Nat](https://github.com/VaderConsulting/Nat) | Dave Robinson's VB6 NAT discovery and tooling suite bundled as one repo: Discover, Discover2, Broker, Ping, Collect, and Reader - each with its own .vbp. | VB6 | 2026-08-27 |
-| [Nat-VB6](https://github.com/VaderConsulting/Nat-VB6) | VB6 working copy of Nat from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Nbtstat](https://github.com/VaderConsulting/Nbtstat) | VB6 working copy of Nbtstat from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Nests](https://github.com/VaderConsulting/Nests) | VB6 working copy of Nests from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1998-06-01 |
+| [Nat-VB6](https://github.com/VaderConsulting/Nat-VB6) | DAGS VB6 NAT.dll MSXML helper (Create/Append/Read/Load/Save) with Reader/Test harnesses. | VB6 | 2026-08-27 |
+| [Nbtstat](https://github.com/VaderConsulting/Nbtstat) | CSC VB6 helper that shells NBTSTAT -a to collect host,MAC,IP and export CSV. | VB6 | 2026-08-27 |
+| [Nests](https://github.com/VaderConsulting/Nests) | Chips, Bits and Bytes VB6 Robin nest/plate drawing searcher over Access Nest.MDB. | VB6 | 1998-06-01 |
 | [Net](https://github.com/VaderConsulting/Net) | VB6 working copy of Net from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Netapi](https://github.com/VaderConsulting/Netapi) | VB6 working copy of Netapi from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [NetHostTime](https://github.com/VaderConsulting/NetHostTime) | VB6 working copy of NetHostTime from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
