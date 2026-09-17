@@ -256,16 +256,16 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Nat-VB6](https://github.com/VaderConsulting/Nat-VB6) | DAGS VB6 NAT.dll MSXML helper (Create/Append/Read/Load/Save) with Reader/Test harnesses. | VB6 | 2026-08-27 |
 | [Nbtstat](https://github.com/VaderConsulting/Nbtstat) | CSC VB6 helper that shells NBTSTAT -a to collect host,MAC,IP and export CSV. | VB6 | 2026-08-27 |
 | [Nests](https://github.com/VaderConsulting/Nests) | Chips, Bits and Bytes VB6 Robin nest/plate drawing searcher over Access Nest.MDB. | VB6 | 1998-06-01 |
-| [Net](https://github.com/VaderConsulting/Net) | VB6 working copy of Net from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Netapi](https://github.com/VaderConsulting/Netapi) | VB6 working copy of Netapi from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [NetHostTime](https://github.com/VaderConsulting/NetHostTime) | VB6 working copy of NetHostTime from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Net](https://github.com/VaderConsulting/Net) | VB6 NetAPI workbench: enumerate servers, manage users/groups, remote timed shutdown. | VB6 | 2026-08-27 |
+| [Netapi](https://github.com/VaderConsulting/Netapi) | RAN VB6 sample that lists connected network drive mappings via WNet APIs. | VB6 | 2026-08-27 |
+| [NetHostTime](https://github.com/VaderConsulting/NetHostTime) | CSC VB6 NetHostTime.dll ActiveX helper: remote NetRemoteTOD time and clock delta. | VB6 | 2026-08-27 |
 | [Netinfo](https://github.com/VaderConsulting/Netinfo) | VB6 ConMan network info utility (`Project1.vbp` / Name ConMan) that reports whether LAN/RAS/AOL/proxy/modem. | VB6 | 2026-08-27 |
-| [Netlib32](https://github.com/VaderConsulting/Netlib32) | VB6 working copy of Netlib32 from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [netneighborhood](https://github.com/VaderConsulting/netneighborhood) | VB6 working copy of netneighborhood from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [netremotetod](https://github.com/VaderConsulting/netremotetod) | VB6 working copy of netremotetod from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Netsend](https://github.com/VaderConsulting/Netsend) | VB6 working copy of Netsend from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Netlib32](https://github.com/VaderConsulting/Netlib32) | VB6 NetAPI32 module set for NT users, groups, PDC lookup, and error mapping. | VB6 | 2026-08-27 |
+| [netneighborhood](https://github.com/VaderConsulting/netneighborhood) | Twinsoft UK VB6 WNet Network Neighborhood ListView browser (provider to share). | VB6 | 2026-08-27 |
+| [netremotetod](https://github.com/VaderConsulting/netremotetod) | VB6 demo that calls NetRemoteTOD and compares remote vs local clock. | VB6 | 2026-08-27 |
+| [Netsend](https://github.com/VaderConsulting/Netsend) | Freelance VB6 Send.exe Net Send / Messenger UI (To/From/Message). | VB6 | 2026-08-27 |
 | [netserv](https://github.com/VaderConsulting/netserv) | Information Technology & Communication VB6 Network Enumerator (`NetServ.exe` / NetServer) that lists servers. | VB6 | 2026-08-27 |
-| [netserverenum](https://github.com/VaderConsulting/netserverenum) | VB6 working copy of netserverenum from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [netserverenum](https://github.com/VaderConsulting/netserverenum) | CSC VB6 domain NetServerEnum ListView of active NT computers. | VB6 | 2026-08-27 |
 | [Netuse](https://github.com/VaderConsulting/Netuse) | VB6 working copy of Netuse from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Netuser](https://github.com/VaderConsulting/Netuser) | VB6 working copy of Netuser from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [netusermanager](https://github.com/VaderConsulting/netusermanager) | VB6 working copy of netusermanager from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1998-06-01 |
