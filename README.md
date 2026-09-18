@@ -266,18 +266,18 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Netsend](https://github.com/VaderConsulting/Netsend) | Freelance VB6 Send.exe Net Send / Messenger UI (To/From/Message). | VB6 | 2026-08-27 |
 | [netserv](https://github.com/VaderConsulting/netserv) | Information Technology & Communication VB6 Network Enumerator (`NetServ.exe` / NetServer) that lists servers. | VB6 | 2026-08-27 |
 | [netserverenum](https://github.com/VaderConsulting/netserverenum) | CSC VB6 domain NetServerEnum ListView of active NT computers. | VB6 | 2026-08-27 |
-| [Netuse](https://github.com/VaderConsulting/Netuse) | VB6 working copy of Netuse from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Netuser](https://github.com/VaderConsulting/Netuser) | VB6 working copy of Netuser from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [netusermanager](https://github.com/VaderConsulting/netusermanager) | VB6 working copy of netusermanager from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1998-06-01 |
-| [Netwksta](https://github.com/VaderConsulting/Netwksta) | VB6 working copy of Netwksta from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1997-06-01 |
-| [Network](https://github.com/VaderConsulting/Network) | VB6 working copy of Network from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [New-User](https://github.com/VaderConsulting/New-User) | VB6 working copy of New User from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Netuse](https://github.com/VaderConsulting/Netuse) | VB6 NetUseDrive.exe: map/unmap drives via WNetAddConnection / WNetCancelConnection. | VB6 | 2026-08-27 |
+| [Netuser](https://github.com/VaderConsulting/Netuser) | RTC VB6 NetUserGetInfo viewer (levels 0-3) with group membership lists. | VB6 | 2026-08-27 |
+| [netusermanager](https://github.com/VaderConsulting/netusermanager) | TSAI VB6 TSAI_NT.dll: WinNT 4.0 user add/delete/rename, password, local groups. | VB6 | 1998-06-01 |
+| [Netwksta](https://github.com/VaderConsulting/Netwksta) | Karl Peterson VB6 NetWkstaGetInfo / UserGetInfo workstation and logon viewer. | VB6 | 1997-06-01 |
+| [Network](https://github.com/VaderConsulting/Network) | DAGS VB6 drNetwork.dll: WNet connect and MultinetGetConnectionPerformance speed. | VB6 | 2026-08-27 |
+| [New-User](https://github.com/VaderConsulting/New-User) | Chips Bits Bytes VB6 ADSI/ADO Add User form for domain accounts and groups. | VB6 | 2026-08-27 |
 | [NewConn](https://github.com/VaderConsulting/NewConn) | VB6 RAS helper (`NewConn`) that creates/updates a phonebook entry (`MyConnection`) via. | VB6 | 2026-08-27 |
 | [Nicinfo](https://github.com/VaderConsulting/Nicinfo) | VB6 NIC/adapter info sample (`Project1`, MSWinsock referenced) whose `Module1.bas.example` enumerates. | VB6 | 2026-08-27 |
-| [Noblets](https://github.com/VaderConsulting/Noblets) | VB6 working copy of Noblets from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1997-06-01 |
+| [Noblets](https://github.com/VaderConsulting/Noblets) | Bob Hyland VB6 NOblets.dll WNet/LANMAN enum library with TreeNet demo. | VB6 | 1997-06-01 |
 | [Notched_Shaft_Encoder](https://github.com/VaderConsulting/Notched_Shaft_Encoder) | Tracks position and click button state from a notched shaft encoder. | Arduino / C | 2020-06-09 |
 | [NPOIHelper](https://github.com/VaderConsulting/NPOIHelper) | Extension methods for NPOI library simplifying Excel cell writing via `ISheet.SetCellValue()` and `AddRow()`. | C# / .NET 4.8 | 2021-04-05 |
-| [NT-Admin](https://github.com/VaderConsulting/NT-Admin) | VB6 working copy of NT Admin from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [NT-Admin](https://github.com/VaderConsulting/NT-Admin) | Chips Bits Bytes VB6 Admin ActiveX: NetAPI32 NT users, groups, and PDC lookup. | VB6 | 2026-08-27 |
 | [Ntenum](https://github.com/VaderConsulting/Ntenum) | VB6 working copy of Ntenum from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Ntinfo](https://github.com/VaderConsulting/Ntinfo) | Freelance VB6 NTInfo utility (`NTInfo.exe`) that on load reports Windows version (`GetVersionEx`), CPU class. | VB6 | 2026-08-27 |
 | [Ntsec](https://github.com/VaderConsulting/Ntsec) | VB6 working copy of Ntsec from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
