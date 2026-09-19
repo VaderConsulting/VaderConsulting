@@ -278,18 +278,18 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Notched_Shaft_Encoder](https://github.com/VaderConsulting/Notched_Shaft_Encoder) | Tracks position and click button state from a notched shaft encoder. | Arduino / C | 2020-06-09 |
 | [NPOIHelper](https://github.com/VaderConsulting/NPOIHelper) | Extension methods for NPOI library simplifying Excel cell writing via `ISheet.SetCellValue()` and `AddRow()`. | C# / .NET 4.8 | 2021-04-05 |
 | [NT-Admin](https://github.com/VaderConsulting/NT-Admin) | Chips Bits Bytes VB6 Admin ActiveX: NetAPI32 NT users, groups, and PDC lookup. | VB6 | 2026-08-27 |
-| [Ntenum](https://github.com/VaderConsulting/Ntenum) | VB6 working copy of Ntenum from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Ntenum](https://github.com/VaderConsulting/Ntenum) | Novo Nordisk VB6 NTEnum: NetAPI32 domain user/group enum and User_Info_3 detail. | VB6 | 2026-08-27 |
 | [Ntinfo](https://github.com/VaderConsulting/Ntinfo) | Freelance VB6 NTInfo utility (`NTInfo.exe`) that on load reports Windows version (`GetVersionEx`), CPU class. | VB6 | 2026-08-27 |
-| [Ntsec](https://github.com/VaderConsulting/Ntsec) | VB6 working copy of Ntsec from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Nucleus](https://github.com/VaderConsulting/Nucleus) | VB6 working copy of Nucleus from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Ntsec](https://github.com/VaderConsulting/Ntsec) | ACN VB6 WinNtSecurity.exe: Advapi32 DACL add/list demo on a named file. | VB6 | 2026-08-27 |
+| [Nucleus](https://github.com/VaderConsulting/Nucleus) | CSC VB6 Nucleus: spawn collectors, zip C:\Nucleus, McAfee/DiskStats inventory. | VB6 | 2026-08-27 |
 | [Nuget](https://github.com/VaderConsulting/Nuget) | Multi-surface NuGet package auditing system (CLI, WPF workbench, VS extension). Discovers packages, enriches with nuget.org health data, calculates criticality scores, persists snapshots. | C# / .NET 10 | 2026-04-04 |
-| [NWN-Constants](https://github.com/VaderConsulting/NWN-Constants) | VB6 working copy of NWN Constants from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [NWN-Include-Documenter](https://github.com/VaderConsulting/NWN-Include-Documenter) | VB6 working copy of NWN Include Documenter from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Nwnrv](https://github.com/VaderConsulting/Nwnrv) | VB6 working copy of Nwnrv from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [NWN-Constants](https://github.com/VaderConsulting/NWN-Constants) | VB6 utility: extract Neverwinter Nights NSS INT/FLOAT constants to CSV. | VB6 | 2026-08-27 |
+| [NWN-Include-Documenter](https://github.com/VaderConsulting/NWN-Include-Documenter) | VB6 NWScript documenter: parse NWSCRIPT.NSS into NWNFunctions2.xml. | VB6 | 2026-08-27 |
+| [Nwnrv](https://github.com/VaderConsulting/Nwnrv) | VB6 NWNRV.exe Neverwinter Nights resource viewer shell with byte-to-Long helper. | VB6 | 2026-08-27 |
 | [OLEDClock](https://github.com/VaderConsulting/OLEDClock) | Arduino OLED clock project with Visual Studio and `.ino` files. | Arduino / C++ | 2022-05-08 |
-| [Openview](https://github.com/VaderConsulting/Openview) | VB6 working copy of Openview from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Openview](https://github.com/VaderConsulting/Openview) | CSC VB6 HPOVAlert.exe: HP OpenView node up/down log to SQL and Monitoring alerts. | VB6 | 2026-08-27 |
 | [Operator-Console](https://github.com/VaderConsulting/Operator-Console) | VS 2008 VB.NET WinForms (.NET 3.5) working copy of the Stratatel CADS Operator Console: OperatorConsole is an MDI WinExe that calls gFunctions. | VB.NET / .NET | 2008-12-02 |
-| [Outlook](https://github.com/VaderConsulting/Outlook) | VB6 working copy of Outlook from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Outlook](https://github.com/VaderConsulting/Outlook) | CSC VB6 Outlook utilities: home/travel .prf switcher and CDO Public Folders analyzer. | VB6 | 2026-08-27 |
 | [OutlookAddIn1](https://github.com/VaderConsulting/OutlookAddIn1) | VS 2008 VB.NET VSTO (.NET 3.5) Outlook 2003 add-in whose ThisAddIn_Startup and ThisAddIn_Shutdown handlers are empty stubs (no login form or mail handling). | VB.NET / .NET | 2008-02-26 |
 | [OutlookAddIn2](https://github.com/VaderConsulting/OutlookAddIn2) | MailInEvent is a Visual Studio 2008 VSTO Outlook 2007 add-in that handles Application.NewMail. | - | 2008-02-26 |
 | [OutlookEvents](https://github.com/VaderConsulting/OutlookEvents) | This is a Visual Studio 2008 VB.NET WinForms program that starts an Outlook Application COM object and listens for NewMailEx. | VB.NET / .NET | 2008-02-26 |
