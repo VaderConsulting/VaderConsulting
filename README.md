@@ -315,16 +315,16 @@ If you recognise code in any repository as your own work and it is not properly 
 | [PickAMovie](https://github.com/VaderConsulting/PickAMovie) | This is a Visual Studio 2008 VB.NET Windows Forms helper that loads a plain-text movie list and picks one at random. | VB.NET / .NET | 2009-04-20 |
 | [PICPic](https://github.com/VaderConsulting/PICPic) | Freelance VB6 PICPic LED/bit editor (`PICPic.exe`, (c) 2004 D. Robinson) that toggles an 8-segment-style. | VB6 | 2026-08-27 |
 | [Ping](https://github.com/VaderConsulting/Ping) | CSC VB6 IP-range ping sweep and SMS/Compaq MIF inventory puller. | VB6 | 2026-08-27 |
-| [Pingctl](https://github.com/VaderConsulting/Pingctl) | VB6 working copy of Pingctl from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Pingfind](https://github.com/VaderConsulting/Pingfind) | VB6 working copy of Pingfind from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Pingtest](https://github.com/VaderConsulting/Pingtest) | VB6 working copy of Pingtest from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [PipeClient](https://github.com/VaderConsulting/PipeClient) | VB6 working copy of PipeClient from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1997-06-01 |
-| [PipeServer](https://github.com/VaderConsulting/PipeServer) | VB6 working copy of PipeServer from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1997-06-01 |
+| [Pingctl](https://github.com/VaderConsulting/Pingctl) | CSC VB6 ActiveX ping control (ctlPing.ocx) with IP/timeout properties. | VB6 | 2026-08-27 |
+| [Pingfind](https://github.com/VaderConsulting/Pingfind) | CSC VB6 Rolling Ping: sweep IP ranges until N hosts found per subnet. | VB6 | 2026-08-27 |
+| [Pingtest](https://github.com/VaderConsulting/Pingtest) | CSC VB6 Ping Test harness for ctlPing.ocx against ADO server list. | VB6 | 2026-08-27 |
+| [PipeClient](https://github.com/VaderConsulting/PipeClient) | Desaware VB6 Named Pipe Client sample connecting to \\.\pipe\vbpgpipe1. | VB6 | 1997-06-01 |
+| [PipeServer](https://github.com/VaderConsulting/PipeServer) | Desaware VB6 Named Pipe Server creating \\.\pipe\vbpgpipe1 for clients. | VB6 | 1997-06-01 |
 | [Pocket-Assistant](https://github.com/VaderConsulting/Pocket-Assistant) | This is a Visual Studio 2005 VB.NET Pocket PC app that converts among USD, AUD, THB, and LAK using hardcoded 2007 rates (USD 1, AUD 1.3, THB 32.47, LAK 9800). | VB.NET / .NET | 2007-06-10 |
-| [presproe](https://github.com/VaderConsulting/presproe) | VB6 working copy of presproe from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2000-06-01 |
+| [presproe](https://github.com/VaderConsulting/presproe) | VB Frood ResourcePro wizard: find and extract embedded program resources. | VB6 | 2000-06-01 |
 | [PrinterTest](https://github.com/VaderConsulting/PrinterTest) | VB6 printer remapping utility (`Project1`) that loads a substitute list and replaces or removes installed. | VB6 | 2026-08-27 |
-| [Printfix](https://github.com/VaderConsulting/Printfix) | VB6 working copy of Printfix from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Process-Marshall](https://github.com/VaderConsulting/Process-Marshall) | VB6 working copy of Process Marshall from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Printfix](https://github.com/VaderConsulting/Printfix) | CSC VB6 Printer Fix: clear stale w32x86\2 spooler state on client logon. | VB6 | 2026-08-27 |
+| [Process-Marshall](https://github.com/VaderConsulting/Process-Marshall) | VB6 Process Marshall: start/stop/pause child process and TCP client pools. | VB6 | 2026-08-27 |
 | [Profiles](https://github.com/VaderConsulting/Profiles) | VB6 working copy of Profiles from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [ProgressBarEx](https://github.com/VaderConsulting/ProgressBarEx) | Owner-drawn C# WinForms ProgressBarEx (community sample, not wyDay) with gradient, rounded corners, and a demo host. | C# | 2019-01-06 |
 | [ProxyReporter](https://github.com/VaderConsulting/ProxyReporter) | VB6 working copy of ProxyReporter from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
