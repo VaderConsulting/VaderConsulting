@@ -340,20 +340,20 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Readify-Puzzles](https://github.com/VaderConsulting/Readify-Puzzles) | VB.NET class library with a Readify-style coding puzzle: Puzzle1.ElementFromLinkedList returns the nth item from the end of a LinkedList(Of Int32). | VB.NET / .NET | 2011-10-27 |
 | [ReadOnlyPropertyGrid](https://github.com/VaderConsulting/ReadOnlyPropertyGrid) | C# WinForms PropertyGrid subclass (RPropertyGrid) by Rajeev Ravindranath that can show a selected object as read-only. | C# | 2015-06-06 |
 | [Real-Time-Monitor](https://github.com/VaderConsulting/Real-Time-Monitor) | Multi-project Real Time Monitor: VB6 RTM Client/Server/Admin plus nested tools. | VB6 | 2026-08-27 |
-| [Recopy](https://github.com/VaderConsulting/Recopy) | VB6 working copy of Recopy from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Recopy](https://github.com/VaderConsulting/Recopy) | CSC VB6 Recursive File Copy: copy a source file into a destination folder tree. | VB6 | 2026-08-27 |
 | [RecurranceGenerator](https://github.com/VaderConsulting/RecurranceGenerator) | C# library that builds lists of recurrence dates: daily, weekly, monthly, and yearly, with optional end date or occurrence count. | C# | 2013-08-23 |
 | [RedirectPrinter](https://github.com/VaderConsulting/RedirectPrinter) | VB.NET WinForms utility (RedirectPrinters) that remaps a user's Windows printer connections from substitutes.xml. | VB.NET / .NET | 2008-03-31 |
 | [Reflection](https://github.com/VaderConsulting/Reflection) | VB.NET plugin-host sample. Test App lists *.dll next to the exe, loads the selected assembly, and invokes Importer.Name and Importer.Data through reflection. | VB.NET / .NET | 2010-03-09 |
 | [ReflectionSolution](https://github.com/VaderConsulting/ReflectionSolution) | Parallel C# and VB.NET learning solution. | VB.NET, C# / .NET | 2008-05-21 |
-| [regconnectregistry](https://github.com/VaderConsulting/regconnectregistry) | VB6 working copy of regconnectregistry from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Regdel](https://github.com/VaderConsulting/Regdel) | VB6 working copy of Regdel from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Regini](https://github.com/VaderConsulting/Regini) | VB6 working copy of Regini from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Registry](https://github.com/VaderConsulting/Registry) | VB6 working copy of Registry from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Registry-in-VB](https://github.com/VaderConsulting/Registry-in-VB) | VB6 working copy of Registry in VB from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [regconnectregistry](https://github.com/VaderConsulting/regconnectregistry) | Microsoft sample VB6 RegConnectRegistry demo querying a remote registry value. | VB6 | 2026-08-27 |
+| [Regdel](https://github.com/VaderConsulting/Regdel) | VB6 Reg Delete CLI: command-line helper that deletes a specified registry key. | VB6 | 2026-08-27 |
+| [Regini](https://github.com/VaderConsulting/Regini) | VB6 Regini wrapper: rewrite HKLM/HKU paths and shell out to Regini.exe. | VB6 | 2026-08-27 |
+| [Registry](https://github.com/VaderConsulting/Registry) | VB-World VB6 registry demo wrapping advapi32 open/create/delete/query/set helpers. | VB6 | 2026-08-27 |
+| [Registry-in-VB](https://github.com/VaderConsulting/Registry-in-VB) | VB6 remote registry helper: RegConnectRegistry and read Siteloc under HKLM. | VB6 | 2026-08-27 |
 | [Regwrite](https://github.com/VaderConsulting/Regwrite) | Freelance VB6 RegWrite (`RegWrite.exe`) that writes registry values from command-line. | VB6 | 2026-08-27 |
 | [ReleaseRenewIP](https://github.com/VaderConsulting/ReleaseRenewIP) | Freelance VB6 DHCP Test utility (`ReleaseRenew.exe`) that releases and renews DHCP leases (WMI), shows. | VB6 | 2026-08-27 |
-| [Remote-Printers](https://github.com/VaderConsulting/Remote-Printers) | VB6 working copy of Remote Printers from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [remotedesktop](https://github.com/VaderConsulting/remotedesktop) | VB6 working copy of remotedesktop from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Remote-Printers](https://github.com/VaderConsulting/Remote-Printers) | VB6 printer enumerator listing server/domain printers via EnumPrinters. | VB6 | 2026-08-27 |
+| [remotedesktop](https://github.com/VaderConsulting/remotedesktop) | VB6 desktop-share pair: JPEG capture/stream over Winsock UDP (PGet/PSendDesktop). | VB6 | 2026-08-27 |
 | [RemText](https://github.com/VaderConsulting/RemText) | Freelance VB6 Remove Text (`RemText.exe`) that takes a search pattern and filename on the command line and. | VB6 | 2026-08-27 |
 | [Renci.SshNet](https://github.com/VaderConsulting/Renci.SshNet) | VS 2012 C# (.NET 4.0) class library working copy of SSH.NET (Renci.SshNet 2013.4.7) with SshClient, SftpClient, ScpClient, local/remote/dynamic port forwarding, and NetConfClient. | C# / .NET 4.0 | 2015-06-20 |
 | [Repl20Code](https://github.com/VaderConsulting/Repl20Code) | Julietta Alaverdian's VB6 Replicator123 (`Repl123.exe`) that replicates file(s) to a number of hosts, with. | VB6 | 2026-08-27 |
