@@ -325,21 +325,21 @@ If you recognise code in any repository as your own work and it is not properly 
 | [PrinterTest](https://github.com/VaderConsulting/PrinterTest) | VB6 printer remapping utility (`Project1`) that loads a substitute list and replaces or removes installed. | VB6 | 2026-08-27 |
 | [Printfix](https://github.com/VaderConsulting/Printfix) | CSC VB6 Printer Fix: clear stale w32x86\2 spooler state on client logon. | VB6 | 2026-08-27 |
 | [Process-Marshall](https://github.com/VaderConsulting/Process-Marshall) | VB6 Process Marshall: start/stop/pause child process and TCP client pools. | VB6 | 2026-08-27 |
-| [Profiles](https://github.com/VaderConsulting/Profiles) | VB6 working copy of Profiles from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Profiles](https://github.com/VaderConsulting/Profiles) | VB6 Profile Save Wizard: Capture/Replay/Copy for redirected folders and OST/PST/PAB paths. | VB6 | 2026-08-27 |
 | [ProgressBarEx](https://github.com/VaderConsulting/ProgressBarEx) | Owner-drawn C# WinForms ProgressBarEx (community sample, not wyDay) with gradient, rounded corners, and a demo host. | C# | 2019-01-06 |
-| [ProxyReporter](https://github.com/VaderConsulting/ProxyReporter) | VB6 working copy of ProxyReporter from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [ProxySwitcher](https://github.com/VaderConsulting/ProxySwitcher) | VB6 working copy of ProxySwitcher from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [ProxyReporter](https://github.com/VaderConsulting/ProxyReporter) | Incomplete VB6 Proxy Reporter stub: form with WS*.log path box, no processing code yet. | VB6 | 2026-08-27 |
+| [ProxySwitcher](https://github.com/VaderConsulting/ProxySwitcher) | VB6 Proxy Switcher: tray helper to store and apply named proxy profiles. | VB6 | 2026-08-27 |
 | [PWGen](https://github.com/VaderConsulting/PWGen) | VS 2013 VB.NET WinForms password generator that builds random passwords and spells each character for reading aloud. | VB.NET / .NET | 2014-10-17 |
-| [Pwgen-VB6](https://github.com/VaderConsulting/Pwgen-VB6) | VB6 working copy of Pwgen from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Quarantine-Exceptions](https://github.com/VaderConsulting/Quarantine-Exceptions) | VB6 working copy of Quarantine Exceptions from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Pwgen-VB6](https://github.com/VaderConsulting/Pwgen-VB6) | Empired VB6 Password Generator: create N random passwords of a chosen length. | VB6 | 2026-08-27 |
+| [Quarantine-Exceptions](https://github.com/VaderConsulting/Quarantine-Exceptions) | CSC VB6 Quarantine Exemptions: parse Trend SMEX redalert.log and manage exemptions. | VB6 | 2026-08-27 |
 | [QueryTool](https://github.com/VaderConsulting/QueryTool) | Rio Tinto Policy Query Tool (QueryTool.vbp) - a VB6 WinForms utility for querying policy-related data. | VB6 | 2026-08-27 |
-| [quickevents](https://github.com/VaderConsulting/quickevents) | VB6 working copy of quickevents from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [RAppCreate](https://github.com/VaderConsulting/RAppCreate) | VB6 working copy of RAppCreate from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [quickevents](https://github.com/VaderConsulting/quickevents) | Italsys VB6 Event Viewer sample reading local/remote Application/Security/System logs. | VB6 | 2026-08-27 |
+| [RAppCreate](https://github.com/VaderConsulting/RAppCreate) | VB6 Remote Application Execution: WMI-based remote process create helper. | VB6 | 2026-08-27 |
 | [RawInput](https://github.com/VaderConsulting/RawInput) | This is a C# WinForms working copy of a WM_INPUT keyboard library (RawInput_dll) plus a Keyboard demo host. | C# | 2017-03-21 |
 | [Readify](https://github.com/VaderConsulting/Readify) | C# practice work for a Readify competency screen. | C# | 2013-05-16 |
 | [Readify-Puzzles](https://github.com/VaderConsulting/Readify-Puzzles) | VB.NET class library with a Readify-style coding puzzle: Puzzle1.ElementFromLinkedList returns the nth item from the end of a LinkedList(Of Int32). | VB.NET / .NET | 2011-10-27 |
 | [ReadOnlyPropertyGrid](https://github.com/VaderConsulting/ReadOnlyPropertyGrid) | C# WinForms PropertyGrid subclass (RPropertyGrid) by Rajeev Ravindranath that can show a selected object as read-only. | C# | 2015-06-06 |
-| [Real-Time-Monitor](https://github.com/VaderConsulting/Real-Time-Monitor) | VB6 working copy of Real Time Monitor from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Real-Time-Monitor](https://github.com/VaderConsulting/Real-Time-Monitor) | Multi-project Real Time Monitor: VB6 RTM Client/Server/Admin plus nested tools. | VB6 | 2026-08-27 |
 | [Recopy](https://github.com/VaderConsulting/Recopy) | VB6 working copy of Recopy from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [RecurranceGenerator](https://github.com/VaderConsulting/RecurranceGenerator) | C# library that builds lists of recurrence dates: daily, weekly, monthly, and yearly, with optional end date or occurrence count. | C# | 2013-08-23 |
 | [RedirectPrinter](https://github.com/VaderConsulting/RedirectPrinter) | VB.NET WinForms utility (RedirectPrinters) that remaps a user's Windows printer connections from substitutes.xml. | VB.NET / .NET | 2008-03-31 |
