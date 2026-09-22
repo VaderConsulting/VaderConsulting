@@ -362,14 +362,14 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Resize](https://github.com/VaderConsulting/Resize) | VB6 layout demo: TreeView and ListView with a draggable splitter between panes. | VB6 | 2026-08-27 |
 | [Resolver](https://github.com/VaderConsulting/Resolver) | VB6 host tool: DNS resolve, continuous ping, and NetHostTime remote time sync. | VB6 | 2026-08-27 |
 | [Rmtcmd](https://github.com/VaderConsulting/Rmtcmd) | VB6 remote scheduler: start Schedule service and queue install/FTP/CD jobs on servers. | VB6 | 2026-08-27 |
-| [RolandConverter](https://github.com/VaderConsulting/RolandConverter) | Converts between Roland S-MRC proprietary sequencer format and standard MIDI files. Bidirectional with format validation and timestamped log. | C# / .NET 8 WinForms | 2025-05-24 |
-| [RollToDodge](https://github.com/VaderConsulting/RollToDodge) | VB.NET WinForms helper for Roll to Dodge play-by-post games. | VB.NET / .NET | 2010-06-16 |
-| [Rotate](https://github.com/VaderConsulting/Rotate) | XNA Game Studio 3.1 Windows class-library stub. | XNA | 2010-04-26 |
-| [Router](https://github.com/VaderConsulting/Router) | VB6 working copy of Router from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1998-06-01 |
-| [RTClib](https://github.com/VaderConsulting/RTClib) | Arduino RTC library for DS1307, DS3231, PCF8523, and PCF8563 clocks. | Arduino / C | 2021-12-21 |
-| [RunningProcs](https://github.com/VaderConsulting/RunningProcs) | VB6 working copy of RunningProcs from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [RunRemote](https://github.com/VaderConsulting/RunRemote) | VB.NET class library (Remoting.Common) for a remote-execution setup. | VB.NET / .NET | 2007-12-25 |
-| [RunRemote-VB6](https://github.com/VaderConsulting/RunRemote-VB6) | VB6 RunRemote utility from Dave Robinson's Historical Dev VB folder for launching or controlling remote processes. | VB6 | 2026-08-27 |
+| [RolandConverter](https://github.com/VaderConsulting/RolandConverter) | WinForms .NET 8 utility converting Roland S-MRC sequencer files to and from MIDI. | C# / .NET 8 WinForms | 2025-05-24 |
+| [RollToDodge](https://github.com/VaderConsulting/RollToDodge) | VB.NET WinForms helper for Roll to Dodge play-by-post: per-player tabs and roll text. | VB.NET / .NET | 2010-06-16 |
+| [Rotate](https://github.com/VaderConsulting/Rotate) | Unfinished XNA 3.1 C# class-library stub with empty Class1 and empty Content project. | XNA | 2010-04-26 |
+| [Router](https://github.com/VaderConsulting/Router) | VB6 HMAS Arunta signal Router: distribute classified signals to personnel directories. | VB6 | 1998-06-01 |
+| [RTClib](https://github.com/VaderConsulting/RTClib) | Adafruit/Jeelab Arduino RTC library fork for DS1307, DS3231, PCF8523, and PCF8563. | Arduino / C | 2021-12-21 |
+| [RunningProcs](https://github.com/VaderConsulting/RunningProcs) | TheScarms VB6 RunningProcs: list processes and modules via ToolHelp32 and PSAPI. | VB6 | 2026-08-27 |
+| [RunRemote](https://github.com/VaderConsulting/RunRemote) | VB.NET Remoting.Common library: serve assemblies over .NET Remoting with zip payloads. | VB.NET / .NET | 2007-12-25 |
+| [RunRemote-VB6](https://github.com/VaderConsulting/RunRemote-VB6) | VB6 Run Remote: copy deployment packages to servers and WMI remote execute/kill. | VB6 | 2026-08-27 |
 | [SafeString](https://github.com/VaderConsulting/SafeString) | Static safe-string library for Arduino with non-blocking Serial I/O helpers. | Arduino / C | 2022-02-03 |
 | [Savemor](https://github.com/VaderConsulting/Savemor) | C# ASP.NET website for Savemor Pharmacy: catalogue, search, cart, and related products. | C# / .NET | 2014-01-23 |
 | [Savemor-Test](https://github.com/VaderConsulting/Savemor-Test) | C# ASP.NET MVC 4 test website for Savemor Pharmacy: category home page, product listing, cart, and store pages. | C# / .NET | 2013-06-09 |
