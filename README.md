@@ -354,14 +354,14 @@ If you recognise code in any repository as your own work and it is not properly 
 | [ReleaseRenewIP](https://github.com/VaderConsulting/ReleaseRenewIP) | Freelance VB6 DHCP Test utility (`ReleaseRenew.exe`) that releases and renews DHCP leases (WMI), shows. | VB6 | 2026-08-27 |
 | [Remote-Printers](https://github.com/VaderConsulting/Remote-Printers) | VB6 printer enumerator listing server/domain printers via EnumPrinters. | VB6 | 2026-08-27 |
 | [remotedesktop](https://github.com/VaderConsulting/remotedesktop) | VB6 desktop-share pair: JPEG capture/stream over Winsock UDP (PGet/PSendDesktop). | VB6 | 2026-08-27 |
-| [RemText](https://github.com/VaderConsulting/RemText) | Freelance VB6 Remove Text (`RemText.exe`) that takes a search pattern and filename on the command line and. | VB6 | 2026-08-27 |
-| [Renci.SshNet](https://github.com/VaderConsulting/Renci.SshNet) | VS 2012 C# (.NET 4.0) class library working copy of SSH.NET (Renci.SshNet 2013.4.7) with SshClient, SftpClient, ScpClient, local/remote/dynamic port forwarding, and NetConfClient. | C# / .NET 4.0 | 2015-06-20 |
-| [Repl20Code](https://github.com/VaderConsulting/Repl20Code) | Julietta Alaverdian's VB6 Replicator123 (`Repl123.exe`) that replicates file(s) to a number of hosts, with. | VB6 | 2026-08-27 |
-| [ReplaceData](https://github.com/VaderConsulting/ReplaceData) | VB6 Replace data in file utility (`ReplaceData.exe`) that replaces every occurrence of a search string with a. | VB6 | 2026-08-27 |
-| [ReplaceLines](https://github.com/VaderConsulting/ReplaceLines) | VB6 utility (`ReplaceLine.exe`) that deletes every line containing a search string from a named file. | VB6 | 2026-08-27 |
-| [Resize](https://github.com/VaderConsulting/Resize) | VB6 working copy of Resize from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Resolver](https://github.com/VaderConsulting/Resolver) | VB6 working copy of Resolver from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Rmtcmd](https://github.com/VaderConsulting/Rmtcmd) | VB6 working copy of Rmtcmd from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [RemText](https://github.com/VaderConsulting/RemText) | Freelance VB6 Remove Text: delete lines matching a Like wildcard pattern from a file. | VB6 | 2026-08-27 |
+| [Renci.SshNet](https://github.com/VaderConsulting/Renci.SshNet) | SSH.NET working copy: C# SSH/SFTP/SCP client library with port forwarding (Renci 2013). | C# / .NET 4.0 | 2015-06-20 |
+| [Repl20Code](https://github.com/VaderConsulting/Repl20Code) | Julietta Alaverdian VB6 Replicator123: replicate files to many hosts with ping helpers. | VB6 | 2026-08-27 |
+| [ReplaceData](https://github.com/VaderConsulting/ReplaceData) | VB6 Replace data in file: replace every search string via a .bak rewrite. | VB6 | 2026-08-27 |
+| [ReplaceLines](https://github.com/VaderConsulting/ReplaceLines) | VB6 ReplaceLines: delete every line containing a search string from a file. | VB6 | 2026-08-27 |
+| [Resize](https://github.com/VaderConsulting/Resize) | VB6 layout demo: TreeView and ListView with a draggable splitter between panes. | VB6 | 2026-08-27 |
+| [Resolver](https://github.com/VaderConsulting/Resolver) | VB6 host tool: DNS resolve, continuous ping, and NetHostTime remote time sync. | VB6 | 2026-08-27 |
+| [Rmtcmd](https://github.com/VaderConsulting/Rmtcmd) | VB6 remote scheduler: start Schedule service and queue install/FTP/CD jobs on servers. | VB6 | 2026-08-27 |
 | [RolandConverter](https://github.com/VaderConsulting/RolandConverter) | Converts between Roland S-MRC proprietary sequencer format and standard MIDI files. Bidirectional with format validation and timestamped log. | C# / .NET 8 WinForms | 2025-05-24 |
 | [RollToDodge](https://github.com/VaderConsulting/RollToDodge) | VB.NET WinForms helper for Roll to Dodge play-by-post games. | VB.NET / .NET | 2010-06-16 |
 | [Rotate](https://github.com/VaderConsulting/Rotate) | XNA Game Studio 3.1 Windows class-library stub. | XNA | 2010-04-26 |
