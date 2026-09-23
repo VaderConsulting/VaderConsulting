@@ -373,9 +373,9 @@ If you recognise code in any repository as your own work and it is not properly 
 | [SafeString](https://github.com/VaderConsulting/SafeString) | Static safe-string library for Arduino with non-blocking Serial I/O helpers. | Arduino / C | 2022-02-03 |
 | [Savemor](https://github.com/VaderConsulting/Savemor) | C# ASP.NET website for Savemor Pharmacy: catalogue, search, cart, and related products. | C# / .NET | 2014-01-23 |
 | [Savemor-Test](https://github.com/VaderConsulting/Savemor-Test) | C# ASP.NET MVC 4 test website for Savemor Pharmacy: category home page, product listing, cart, and store pages. | C# / .NET | 2013-06-09 |
-| [Scanner](https://github.com/VaderConsulting/Scanner) | VB6 working copy of Scanner from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [schedule](https://github.com/VaderConsulting/schedule) | Eduardo A. Morcillo (Edanmo) VB6 Task Scheduler Class v1.01 (`Schedule.dll` / `TaskScheduler` ActiveX DLL). | VB6 | 2026-08-27 |
-| [Schedule-VB6](https://github.com/VaderConsulting/Schedule-VB6) | VB6 working copy of Schedule from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 1999-06-01 |
+| [Scanner](https://github.com/VaderConsulting/Scanner) | VB6 barcode scanner interface: DAO form that adds or queries wedge-scanner barcodes against Access tables. | VB6 | 2026-08-27 |
+| [schedule](https://github.com/VaderConsulting/schedule) | Eduardo A. Morcillo (Edanmo) VB6 Task Scheduler Class v1.01 (Schedule.dll / TaskScheduler ActiveX). | VB6 | 2026-08-27 |
+| [Schedule-VB6](https://github.com/VaderConsulting/Schedule-VB6) | Eduardo A. Morcillo (Edanmo) VB6 ActiveX schedule control (axSchedule / tsksch.ocx) with Test harness. | VB6 | 1999-06-01 |
 | [ScheduledTasks](https://github.com/VaderConsulting/ScheduledTasks) | VS 2012 C# wrapper for Windows Task Scheduler 1.0 and 2.0 (CodePlex TaskScheduler by David Hall). | C# | 2013-08-14 |
 | [ScintillaNET-v2.6-Source](https://github.com/VaderConsulting/ScintillaNET-v2.6-Source) | C# WinForms wrapper for Scintilla (ScintillaNET 2.6 by Garrett Serack, based on Neil Hodgson's editor). | C# | 2014-02-18 |
 | [SCLauncher](https://github.com/VaderConsulting/SCLauncher) | WPF launcher that picks a System Center Service Manager (SCSM) or Operations Manager (SCOM) Dev, Test, or Prod environment, writes `SDKServiceMachine` under HKCU (and the SCOM equivalent), and starts the matching console from Program Files. | C# / .NET 4.5 | 2014-01-21 |
