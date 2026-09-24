@@ -394,14 +394,14 @@ If you recognise code in any repository as your own work and it is not properly 
 | [SerialVB](https://github.com/VaderConsulting/SerialVB) | OpenNETCF Pocket PC VB.NET serial terminal sample that opens COM4 via OpenNETCF.IO.Serial (working copy). | VB.NET / .NET | 2004-01-08 |
 | [Servchk](https://github.com/VaderConsulting/Servchk) | VB6 server-check batch builder that loads ADO server lists and writes per-host .bat jobs. | VB6 | 2026-08-27 |
 | [Service-Controller](https://github.com/VaderConsulting/Service-Controller) | VB.NET Windows service that starts and stops a named service on a daily schedule from app.config times. | VB.NET / .NET | 2011-09-20 |
-| [Service-Desk](https://github.com/VaderConsulting/Service-Desk) | VB.NET Windows Forms WinExe from the Empired era that lodges a service-desk problem while filling user and computer details from the environment and Active Directory. | VB.NET / .NET | 2008-02-27 |
-| [Service-Monitoring](https://github.com/VaderConsulting/Service-Monitoring) | VB6 working copy of Service Monitoring from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Service1](https://github.com/VaderConsulting/Service1) | VB6 working copy of Service1 from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [ServiceMan](https://github.com/VaderConsulting/ServiceMan) | VB6 Windows service manager WinForms app for listing and controlling Windows services. | VB6 | 2026-08-27 |
-| [Services](https://github.com/VaderConsulting/Services) | VB6 working copy of Services from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Sessions](https://github.com/VaderConsulting/Sessions) | VB6 working copy of Sessions from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [setdefprint](https://github.com/VaderConsulting/setdefprint) | VB6 Make Default printer utility (`Project1`) that lists installed printers and sets the selected one as the. | VB6 | 2026-08-27 |
-| [SetLibrary](https://github.com/VaderConsulting/SetLibrary) | VB6 Set DRIMS Library tool (`SetLibrary.exe`) that reads the DocsOpen library preference from the registry. | VB6 | 2026-08-27 |
+| [Service-Desk](https://github.com/VaderConsulting/Service-Desk) | Empired VB.NET WinForms tool that lodges a service-desk problem with user and computer details from AD. | VB.NET / .NET | 2008-02-27 |
+| [Service-Monitoring](https://github.com/VaderConsulting/Service-Monitoring) | VB6 service monitor: SCM helper DLL plus a poller that alerts when a service is down. | VB6 | 2026-08-27 |
+| [Service1](https://github.com/VaderConsulting/Service1) | VB6 SCM demo UI to start, stop, pause, and status the Schedule service on a host. | VB6 | 2026-08-27 |
+| [ServiceMan](https://github.com/VaderConsulting/ServiceMan) | VB6 ServiceMan that lists and controls Win32_Service instances over WMI (start/stop/pause/continue). | VB6 | 2026-08-27 |
+| [Services](https://github.com/VaderConsulting/Services) | VB6 ActiveX DLL that queries, starts, stops, and pauses Windows services via the SCM. | VB6 | 2026-08-27 |
+| [Sessions](https://github.com/VaderConsulting/Sessions) | VB6 ADSI browser that lists open file-share sessions in a TreeView. | VB6 | 2026-08-27 |
+| [setdefprint](https://github.com/VaderConsulting/setdefprint) | VB6 Make Default printer utility that lists installed printers and sets the selected one as default. | VB6 | 2026-08-27 |
+| [SetLibrary](https://github.com/VaderConsulting/SetLibrary) | VB6 Set DRIMS Library tool that applies DocsOpen/ODMA and Exchange client settings from registry prefs. | VB6 | 2026-08-27 |
 | [SetRegPerms](https://github.com/VaderConsulting/SetRegPerms) | VB6 SetRegPerms (`SetRegPerms.exe`) UI that grants a username an ACE on a registry path via the SetACL. | VB6 | 2026-08-27 |
 | [SetSite-2.0](https://github.com/VaderConsulting/SetSite-2.0) | VB6 working copy of SetSite 2.0 from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [SevenSegmentTM1637](https://github.com/VaderConsulting/SevenSegmentTM1637) | Arduino library for 4-digit seven-segment displays driven by TM1636/TM1637. | Arduino / C | 2020-07-04 |
