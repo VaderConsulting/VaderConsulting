@@ -386,14 +386,14 @@ If you recognise code in any repository as your own work and it is not properly 
 | [SCSMEnumValues](https://github.com/VaderConsulting/SCSMEnumValues) | WinForms tool that queries System Center Service Manager enum types from the ServiceManager SQL database. | SQL | 2015-09-29 |
 | [SecSearch](https://github.com/VaderConsulting/SecSearch) | VB.NET WinForms scanner that walks a path for *.doc files, opens Word, and classifies section header markings. | VB.NET / .NET | 2005-09-12 |
 | [SecSearch-VB6](https://github.com/VaderConsulting/SecSearch-VB6) | VB6 SecSearch: walk a folder tree for Word documents and list section headers found in each file. | VB6 | 2026-08-27 |
-| [Semaphore](https://github.com/VaderConsulting/Semaphore) | VB6 working copy of Semaphore from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [SendKeys](https://github.com/VaderConsulting/SendKeys) | VB6 Setup Citrix helper (`SetupCitrix.exe`) that launches the Citrix ICA Client and drives its UI with Bryan. | VB6 | 2026-08-27 |
-| [SendMessage](https://github.com/VaderConsulting/SendMessage) | VB6 working copy of SendMessage from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Serial](https://github.com/VaderConsulting/Serial) | VB.NET WinForms host that opens a serial port, parses acx/acy/acz accelerometer tokens (and other tokens such as li0/tc0), subtracts XYZ offsets from My. | VB.NET / .NET | 2013-01-01 |
-| [SerialFlash](https://github.com/VaderConsulting/SerialFlash) | Filesystem-style access to SPI serial flash memory on Arduino. | Arduino / C | 2019-05-01 |
-| [SerialVB](https://github.com/VaderConsulting/SerialVB) | Working copy of OpenNETCF.Samples.SerialVB from Dave Robinson's Historical Dev archive: a Pocket PC VB.NET serial terminal that opens COM4 via OpenNETCF.IO.Serial 1.3 (Serial. | VB.NET / .NET | 2004-01-08 |
-| [Servchk](https://github.com/VaderConsulting/Servchk) | VB6 working copy of Servchk from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Service-Controller](https://github.com/VaderConsulting/Service-Controller) | VB.NET WinExe Windows service that starts and stops a named Windows service on a daily schedule. | VB.NET / .NET | 2011-09-20 |
+| [Semaphore](https://github.com/VaderConsulting/Semaphore) | VB6 nautical semaphore trainer that plays letter and flag GIFs for typed text with a countdown timer. | VB6 | 2026-08-27 |
+| [SendKeys](https://github.com/VaderConsulting/SendKeys) | VB6 Citrix ICA Client setup helper that drives the installer UI with VbSendKeys keyboard injection. | VB6 | 2026-08-27 |
+| [SendMessage](https://github.com/VaderConsulting/SendMessage) | VB6 ActiveX DLL for NetMessageBufferSend broadcasts and CDO SMTP email helpers. | VB6 | 2026-08-27 |
+| [Serial](https://github.com/VaderConsulting/Serial) | VB.NET WinForms host that opens a serial port and parses accelerometer and sensor tokens with XYZ offsets. | VB.NET / .NET | 2013-01-01 |
+| [SerialFlash](https://github.com/VaderConsulting/SerialFlash) | Arduino SerialFlash library: low-latency SPI flash access with filesystem-like read/write helpers. | Arduino / C | 2019-05-01 |
+| [SerialVB](https://github.com/VaderConsulting/SerialVB) | OpenNETCF Pocket PC VB.NET serial terminal sample that opens COM4 via OpenNETCF.IO.Serial (working copy). | VB.NET / .NET | 2004-01-08 |
+| [Servchk](https://github.com/VaderConsulting/Servchk) | VB6 server-check batch builder that loads ADO server lists and writes per-host .bat jobs. | VB6 | 2026-08-27 |
+| [Service-Controller](https://github.com/VaderConsulting/Service-Controller) | VB.NET Windows service that starts and stops a named service on a daily schedule from app.config times. | VB.NET / .NET | 2011-09-20 |
 | [Service-Desk](https://github.com/VaderConsulting/Service-Desk) | VB.NET Windows Forms WinExe from the Empired era that lodges a service-desk problem while filling user and computer details from the environment and Active Directory. | VB.NET / .NET | 2008-02-27 |
 | [Service-Monitoring](https://github.com/VaderConsulting/Service-Monitoring) | VB6 working copy of Service Monitoring from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Service1](https://github.com/VaderConsulting/Service1) | VB6 working copy of Service1 from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
