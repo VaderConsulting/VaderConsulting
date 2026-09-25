@@ -410,14 +410,14 @@ If you recognise code in any repository as your own work and it is not properly 
 | [ShellExecute](https://github.com/VaderConsulting/ShellExecute) | VB6 ShellExecute demo that opens documents and URLs through the Windows shell. | VB6 | 2026-08-27 |
 | [Shelllnk](https://github.com/VaderConsulting/Shelllnk) | VB6 ShellLink sample that creates and inspects Windows .lnk shortcuts. | VB6 | 2026-08-27 |
 | [Shisutemu](https://github.com/VaderConsulting/Shisutemu) | C# judo tournament suite with mat scoreboards, kiosk, Haidenban switchboard, and entrant utilities. | C# | 2018-11-16 |
-| [Shortcuts](https://github.com/VaderConsulting/Shortcuts) | VB6 working copy of Shortcuts from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [ShotItgame](https://github.com/VaderConsulting/ShotItgame) | VB6 working copy of ShotItgame from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Shutdown](https://github.com/VaderConsulting/Shutdown) | VB6 working copy of Shutdown from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Shwdrv](https://github.com/VaderConsulting/Shwdrv) | VB6 working copy of Shwdrv from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Signals](https://github.com/VaderConsulting/Signals) | VB6 working copy of Signals from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Siteinfo](https://github.com/VaderConsulting/Siteinfo) | VB6 working copy of Siteinfo from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Siteloc](https://github.com/VaderConsulting/Siteloc) | VB6 working copy of Siteloc from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Skinner](https://github.com/VaderConsulting/Skinner) | Skinner is a VB.NET WinForms MDI editor for Centrafuse Auto car-PC skins. | VB.NET / .NET | 2009-12-03 |
+| [Shortcuts](https://github.com/VaderConsulting/Shortcuts) | VB6 server shortcut console with ADO host list, share shortcuts, ping charting, disk space, and Schedule service control. | VB6 | 2026-08-27 |
+| [ShotItgame](https://github.com/VaderConsulting/ShotItgame) | VB6 DirectX 7 Mk3d shoot-it game demo with StartForm and RenderForm (needs DX7 and a 3D card). | VB6 | 2026-08-27 |
+| [Shutdown](https://github.com/VaderConsulting/Shutdown) | VB6 timed NT shutdown/abort UI that elevates privileges and calls InitiateSystemShutdown. | VB6 | 2026-08-27 |
+| [Shwdrv](https://github.com/VaderConsulting/Shwdrv) | VB6 drive and server query tool that lists logical-drive free space and NetAPI workstation info. | VB6 | 2026-08-27 |
+| [Signals](https://github.com/VaderConsulting/Signals) | VB6 Signals Viewer that opens a configurable bulletin Signals directory with a preferences dialog. | VB6 | 2026-08-27 |
+| [Siteinfo](https://github.com/VaderConsulting/Siteinfo) | VB6 DCD PC Info tool that reads WMI hardware for a site code and writes a KiXtart-style naming template. | VB6 | 2026-08-27 |
+| [Siteloc](https://github.com/VaderConsulting/Siteloc) | VB6 logon check that verifies the SITELOC environment variable and alerts helpdesk when it is missing. | VB6 | 2026-08-27 |
+| [Skinner](https://github.com/VaderConsulting/Skinner) | VB.NET WinForms MDI editor for Centrafuse Auto car-PC skins that loads skin.xml into tabbed section controls. | VB.NET / .NET | 2009-12-03 |
 | [SmartDeviceApplication1](https://github.com/VaderConsulting/SmartDeviceApplication1) | SmartDeviceApplication1 is a Visual Studio 2003 VB.NET Pocket PC WinForms template whose Form1 shows only an empty main menu. | VB.NET / .NET | 2005-11-06 |
 | [Smonitor](https://github.com/VaderConsulting/Smonitor) | VB6 working copy of Smonitor from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Sms](https://github.com/VaderConsulting/Sms) | VB6 working copy of Sms from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
