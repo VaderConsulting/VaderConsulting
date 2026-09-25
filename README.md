@@ -402,14 +402,14 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Sessions](https://github.com/VaderConsulting/Sessions) | VB6 ADSI browser that lists open file-share sessions in a TreeView. | VB6 | 2026-08-27 |
 | [setdefprint](https://github.com/VaderConsulting/setdefprint) | VB6 Make Default printer utility that lists installed printers and sets the selected one as default. | VB6 | 2026-08-27 |
 | [SetLibrary](https://github.com/VaderConsulting/SetLibrary) | VB6 Set DRIMS Library tool that applies DocsOpen/ODMA and Exchange client settings from registry prefs. | VB6 | 2026-08-27 |
-| [SetRegPerms](https://github.com/VaderConsulting/SetRegPerms) | VB6 SetRegPerms (`SetRegPerms.exe`) UI that grants a username an ACE on a registry path via the SetACL. | VB6 | 2026-08-27 |
-| [SetSite-2.0](https://github.com/VaderConsulting/SetSite-2.0) | VB6 working copy of SetSite 2.0 from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [SevenSegmentTM1637](https://github.com/VaderConsulting/SevenSegmentTM1637) | Arduino library for 4-digit seven-segment displays driven by TM1636/TM1637. | Arduino / C | 2020-07-04 |
+| [SetRegPerms](https://github.com/VaderConsulting/SetRegPerms) | VB6 SetRegPerms UI that grants a username an ACE on a registry path via SetACL. | VB6 | 2026-08-27 |
+| [SetSite-2.0](https://github.com/VaderConsulting/SetSite-2.0) | VB6 Set Site Wizard that configures Siteloc, Siteserver, Policy, and Prtloc with local and remote registry helpers. | VB6 | 2026-08-27 |
+| [SevenSegmentTM1637](https://github.com/VaderConsulting/SevenSegmentTM1637) | Arduino library for 4-digit seven-segment displays driven by TM1636/TM1637 chips. | Arduino / C | 2020-07-04 |
 | [SharpSSH](https://github.com/VaderConsulting/SharpSSH) | C# SSH library for .NET (Tamir Gal SharpSSH, a JSch port) with jsch and SharpSSH samples. | C# / .NET | 2014-01-03 |
-| [ShelfTalkers](https://github.com/VaderConsulting/ShelfTalkers) | C# pharmacy shelf-talker tools (Savemor, 2013): LabelMaker Admin pulls the product catalog from SQL Server and FTP-uploads Products. | C# | 2013-09-09 |
-| [ShellExecute](https://github.com/VaderConsulting/ShellExecute) | John Percival / VB-World ShellExecute demonstration (`ShellExecute.exe`) showing how to open documents and. | VB6 | 2026-08-27 |
-| [Shelllnk](https://github.com/VaderConsulting/Shelllnk) | Dave Scarmozzino / TheScarms.com ShellLink sample (`SHELLLNK.exe`) that creates and inspects Windows. | VB6 | 2026-08-27 |
-| [Shisutemu](https://github.com/VaderConsulting/Shisutemu) | Shisutemu is a C# judo tournament suite with mat scoreboards, kiosk, Haidenban switchboard, and entrant utilities. | C# | 2018-11-16 |
+| [ShelfTalkers](https://github.com/VaderConsulting/ShelfTalkers) | C# pharmacy shelf-talker tools: LabelMaker Admin pulls the product catalogue from SQL Server and FTP-uploads Products. | C# | 2013-09-09 |
+| [ShellExecute](https://github.com/VaderConsulting/ShellExecute) | VB6 ShellExecute demo that opens documents and URLs through the Windows shell. | VB6 | 2026-08-27 |
+| [Shelllnk](https://github.com/VaderConsulting/Shelllnk) | VB6 ShellLink sample that creates and inspects Windows .lnk shortcuts. | VB6 | 2026-08-27 |
+| [Shisutemu](https://github.com/VaderConsulting/Shisutemu) | C# judo tournament suite with mat scoreboards, kiosk, Haidenban switchboard, and entrant utilities. | C# | 2018-11-16 |
 | [Shortcuts](https://github.com/VaderConsulting/Shortcuts) | VB6 working copy of Shortcuts from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [ShotItgame](https://github.com/VaderConsulting/ShotItgame) | VB6 working copy of ShotItgame from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Shutdown](https://github.com/VaderConsulting/Shutdown) | VB6 working copy of Shutdown from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
