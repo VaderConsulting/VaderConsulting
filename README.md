@@ -467,14 +467,14 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Thermistor](https://github.com/VaderConsulting/Thermistor) | Arduino sketch that reads a 10 kOhm thermistor on A0 and prints Celsius on Serial via Steinhart-Hart. | Arduino / C | 2020-10-30 |
 | [TheScarmsWords](https://github.com/VaderConsulting/TheScarmsWords) | VB6 shaped-window demo from TheScarms.com whose letter forms spell The Scarms on the desktop. | VB6 | 2000-07-13 |
 | [TimeCheck](https://github.com/VaderConsulting/TimeCheck) | VB6 Server Time Check that reads remote server clocks via NetHostTime and lists deltas from local time. | VB6 | 2001-02-28 |
-| [TimeSpent](https://github.com/VaderConsulting/TimeSpent) | TimeSpent is a C# console app that exports Exchange calendar appointments to CSV so you can review hours spent from Outlook. | C# | 2013-12-09 |
-| [TinyWireM](https://github.com/VaderConsulting/TinyWireM) | Minimal I2C master library for ATtiny boards such as Trinket and Gemma. | Arduino / C | 2022-01-03 |
-| [tl_ole](https://github.com/VaderConsulting/tl_ole) | Eduardo A. Morcillo (Edanmo) OLE/ActiveX toolkit: `olelib.tlb`/`.odl` plus `.inc` interface headers and. | VB6 | 2026-08-27 |
+| [TimeSpent](https://github.com/VaderConsulting/TimeSpent) | C# console app that exports Exchange calendar appointments to CSV via EWS so you can review hours spent (Microsoft IT MS-PL sample). | C# | 2013-12-09 |
+| [TinyWireM](https://github.com/VaderConsulting/TinyWireM) | Minimal I2C master library for ATtiny boards such as Trinket and Gemma (Adafruit). | Arduino / C | 2022-01-03 |
+| [tl_ole](https://github.com/VaderConsulting/tl_ole) | Edanmo OLE/ActiveX type library (olelib.tlb) with .inc interface headers and VB6 sample projects. | VB6 | 2002-06-29 |
 | [TM1637TinyDisplay](https://github.com/VaderConsulting/TM1637TinyDisplay) | Arduino library for numbers, text, and animation on 4- and 6-digit TM1637 7-segment displays. | Arduino / C | 2022-02-22 |
 | [Toast](https://github.com/VaderConsulting/Toast) | C# VS 2015 solution for Windows toast-style notifications plus a Win10-style Action Center. | C# | 2016-10-02 |
 | [Tracing](https://github.com/VaderConsulting/Tracing) | VB.NET VS 2008 scratch for sending System.Diagnostics.Trace over UDP. | VB.NET / .NET | 2010-02-21 |
-| [TrackConversion](https://github.com/VaderConsulting/TrackConversion) | Converts TracPlus and RockAIR GPS tracking CSV exports to GPX 1.1 format. Batch conversion with Garmin colour tags, reverse track option. | C# / .NET 6 WinForms | 2022-11-13 |
-| [TreeViewWalker](https://github.com/VaderConsulting/TreeViewWalker) | Class library simplifying recursive TreeView traversal via event-driven visitor pattern. Originally published on CodeProject. | C# / .NET 4.8 | 2020-04-22 |
+| [TrackConversion](https://github.com/VaderConsulting/TrackConversion) | .NET 6 WinForms utility that batch-converts TracPlus and RockAIR GPS tracking CSV exports to GPX 1.1. | C# / .NET 6 WinForms | 2022-11-15 |
+| [TreeViewWalker](https://github.com/VaderConsulting/TreeViewWalker) | C# class library for recursive WinForms TreeView traversal via an event-driven visitor pattern (CodeProject design). | C# / .NET 4.8 | 2020-04-23 |
 | [ttclass](https://github.com/VaderConsulting/ttclass) | VB6 tooltip demo (`Project1`) built around a `cToolTip` class that wraps Win32 tooltip common controls. | VB6 | 2026-08-27 |
 | [UDP](https://github.com/VaderConsulting/UDP) | VB.NET VS 2008 UDP send/receive library plus a LocalMessenger LAN chat. | VB.NET / .NET | 2010-02-21 |
 | [UpdateNetwork](https://github.com/VaderConsulting/UpdateNetwork) | VB6 Update Network utility (`UpdateNetwork.exe`) that broadcasts `WM_SETTINGCHANGE` for `Environment` via. | VB6 | 2026-08-27 |
