@@ -442,15 +442,15 @@ If you recognise code in any repository as your own work and it is not properly 
 | [SVN](https://github.com/VaderConsulting/SVN) | Visual Studio 2008 test pair: a Hello SVN VB.NET WinForms app and a stock C# XNA 3.1 Windows game. | VB.NET, C# / .NET | 2009-07-12 |
 | [SvrRegQuery](https://github.com/VaderConsulting/SvrRegQuery) | VB6 Server Registry Query tool that reads and writes HKLM keys across a list of target servers. | VB6 | 2001-06-27 |
 | [SwapLibrary](https://github.com/VaderConsulting/SwapLibrary) | VB6 tool that switches the DocsOpen/DRIMS library integration via a picker or command-line option. | VB6 | 2003-04-03 |
-| [SwapServer](https://github.com/VaderConsulting/SwapServer) | VB6 SwapServer (`SwapServer.exe`) that remaps mapped network drives from old file servers to new ones using. | VB6 | 2026-08-27 |
-| [Sysinfo](https://github.com/VaderConsulting/Sysinfo) | VB6 working copy of Sysinfo from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [System.Windows.Forms.Calendar](https://github.com/VaderConsulting/System.Windows.Forms.Calendar) | System.Windows.Forms.Calendar is Jose Menendez Póo's C# WinForms Outlook-style calendar with appointments, day views, and MonthView. | C# | 2013-08-28 |
-| [Systray](https://github.com/VaderConsulting/Systray) | VB6 working copy of Systray from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Tagger](https://github.com/VaderConsulting/Tagger) | Tagger is a Visual Studio 2003 VB.NET Pocket PC WinForms app for lasertag match scoring and timing. | VB.NET / .NET | 2004-10-05 |
-| [Tankwars](https://github.com/VaderConsulting/Tankwars) | VB6 working copy of Tankwars from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [SwapServer](https://github.com/VaderConsulting/SwapServer) | VB6 utility that remaps network drives from old file servers to replacements listed in SwapServer.ini. | VB6 | 2003-04-01 |
+| [Sysinfo](https://github.com/VaderConsulting/Sysinfo) | VB6 host form for System Monitor, Task Scheduler, Winsock, and other ActiveX controls for sysinfo experiments. | VB6 | 2000-11-25 |
+| [System.Windows.Forms.Calendar](https://github.com/VaderConsulting/System.Windows.Forms.Calendar) | Jose Menendez Póo's C# WinForms Outlook-style Calendar and MonthView controls, retargeted to .NET 3.5. | C# | 2013-08-28 |
+| [Systray](https://github.com/VaderConsulting/Systray) | VB6 system tray bag: SysTray Icon OCX, a tray icon example, and the DOJ Marquee Settings tray app. | VB6 | 2001-08-23 |
+| [Tagger](https://github.com/VaderConsulting/Tagger) | VB.NET Pocket PC lasertag scoreboard with six team scores and two Start/Stop/Reset clocks. | VB.NET / .NET | 2004-10-05 |
+| [Tankwars](https://github.com/VaderConsulting/Tankwars) | VB6 3D Tank Wars game by Mark Burgess: mouse-drive a tank, click to fire, and play or build levels. | VB6 | 2001-05-06 |
 | [TaskbarApp](https://github.com/VaderConsulting/TaskbarApp) | VB.NET working copy of TaskbarApp from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB.NET / .NET | 2026-08-27 |
-| [TaskManagerLibrary](https://github.com/VaderConsulting/TaskManagerLibrary) | TaskManagerLibrary is a C# WinForms UserControl that starts long-running tasks and reports status via a combo box and progress bar. | C# | 2018-02-22 |
-| [Tasks](https://github.com/VaderConsulting/Tasks) | VB6 working copy of Tasks from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [TaskManagerLibrary](https://github.com/VaderConsulting/TaskManagerLibrary) | C# WinForms UserControl that runs long-running tasks and reports status via a combo box and progress bar. | C# | 2018-02-22 |
+| [Tasks](https://github.com/VaderConsulting/Tasks) | VB6 BEAware task browser that lists and creates Task Scheduler jobs on selected target servers. | VB6 | 2001-01-11 |
 | [Tcp](https://github.com/VaderConsulting/Tcp) | VB6 ActiveX DLL (`TCP`) wrapping Oleg Gdalevich's `CSocket` Winsock API class (`ws2_32`) plus a thin `Peer`. | VB6 | 2026-08-27 |
 | [Tcp-VB6](https://github.com/VaderConsulting/Tcp-VB6) | VB6 working copy of Tcp from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [TCPClient](https://github.com/VaderConsulting/TCPClient) | VB6 Logon Client (`Logon Client.exe`) that gathers workstation logon info (WMI/WSH: user, host, MAC, OS. | VB6 | 2026-08-27 |
