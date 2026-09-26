@@ -451,14 +451,14 @@ If you recognise code in any repository as your own work and it is not properly 
 | [TaskbarApp](https://github.com/VaderConsulting/TaskbarApp) | VB.NET working copy of TaskbarApp from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB.NET / .NET | 2026-08-27 |
 | [TaskManagerLibrary](https://github.com/VaderConsulting/TaskManagerLibrary) | C# WinForms UserControl that runs long-running tasks and reports status via a combo box and progress bar. | C# | 2018-02-22 |
 | [Tasks](https://github.com/VaderConsulting/Tasks) | VB6 BEAware task browser that lists and creates Task Scheduler jobs on selected target servers. | VB6 | 2001-01-11 |
-| [Tcp](https://github.com/VaderConsulting/Tcp) | VB6 ActiveX DLL (`TCP`) wrapping Oleg Gdalevich's `CSocket` Winsock API class (`ws2_32`) plus a thin `Peer`. | VB6 | 2026-08-27 |
-| [Tcp-VB6](https://github.com/VaderConsulting/Tcp-VB6) | VB6 working copy of Tcp from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [TCPClient](https://github.com/VaderConsulting/TCPClient) | VB6 Logon Client (`Logon Client.exe`) that gathers workstation logon info (WMI/WSH: user, host, MAC, OS. | VB6 | 2026-08-27 |
-| [TCPServer](https://github.com/VaderConsulting/TCPServer) | VB6 Logon Server (`Logon Server.exe`) that listens on Winsock (port 1001) for `TCPClient` connections. | VB6 | 2026-08-27 |
-| [Temp](https://github.com/VaderConsulting/Temp) | Temp is unused Visual Studio 2003 scratch with a stock empty VB.NET WinForms Test app and a Setup1 installer project. | VB.NET / .NET | 2005-06-15 |
-| [Temp-VB6](https://github.com/VaderConsulting/Temp-VB6) | Small VB6 scratch/temp project (Project1.vbp) from Dave Robinson's Historical Dev VB folder. | VB6 | 2026-08-27 |
-| [Tesla-Battery-Sim](https://github.com/VaderConsulting/Tesla-Battery-Sim) | A .NET 5 Windows Forms application simulating the Tesla Model 3 high-voltage battery pack. | .NET 5 | 2022-02-17 |
-| [Test](https://github.com/VaderConsulting/Test) | Test is a C# WinForms scratch app that opens extra Form1 windows and starts a five-second BackgroundWorker on Close. | C# | 2013-08-21 |
+| [Tcp](https://github.com/VaderConsulting/Tcp) | VB6 ActiveX DLL wrapping the CSocket Winsock API class with a Peer server helper, as an alternative to the Winsock OCX. | VB6 | 2003-02-10 |
+| [Tcp-VB6](https://github.com/VaderConsulting/Tcp-VB6) | VB6 Personal Alerter pair: a Winsock TCP alert client with Agent speech and tray icon, plus the AlerterMaster server. | VB6 | 2001-03-26 |
+| [TCPClient](https://github.com/VaderConsulting/TCPClient) | VB6 Logon Client that sends workstation details to TCPServer over Winsock and applies drive and printer mappings. | VB6 | 2003-01-01 |
+| [TCPServer](https://github.com/VaderConsulting/TCPServer) | VB6 Logon Server that listens on Winsock port 1001 for TCPClient connections and returns drive-mapping data. | VB6 | 2003-01-01 |
+| [Temp](https://github.com/VaderConsulting/Temp) | Unused Visual Studio 2003 scratch with a stock empty VB.NET WinForms Test app and a Setup1 installer project. | VB.NET / .NET | 2005-06-15 |
+| [Temp-VB6](https://github.com/VaderConsulting/Temp-VB6) | VB6 scratch project that walks folders, merges MSXML 4.0 documents, and loads scripts into the ScriptControl. | VB6 | 2003-01-20 |
+| [Tesla-Battery-Sim](https://github.com/VaderConsulting/Tesla-Battery-Sim) | .NET 5 WinForms simulator of the Tesla Model 3 96-cell battery pack with charge/discharge and serial telemetry. | .NET 5 | 2022-02-17 |
+| [Test](https://github.com/VaderConsulting/Test) | C# WinForms scratch app that opens extra Form1 windows and starts a five-second BackgroundWorker on Close. | C# | 2013-08-21 |
 | [Test-Application](https://github.com/VaderConsulting/Test-Application) | Test Application is a VB.NET WinForms helper that walks a folder tree and totals the size of JPEG and BMP files. | VB.NET / .NET | 2006-10-19 |
 | [Test-Project](https://github.com/VaderConsulting/Test-Project) | Test Project is a VB.NET WinForms experiment that zips every file on D:\ into D:\test.zip using ICSharpCode.SharpZipLib. | VB.NET / .NET | 2007-12-06 |
 | [Test.ExchangeServices](https://github.com/VaderConsulting/Test.ExchangeServices) | Test.ExchangeServices is a C# WCF ASP.NET website that exposes GetCalendarEvents for Microsoft Exchange calendars. | C# / .NET | 2013-12-06 |
