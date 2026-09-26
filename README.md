@@ -459,14 +459,14 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Temp-VB6](https://github.com/VaderConsulting/Temp-VB6) | VB6 scratch project that walks folders, merges MSXML 4.0 documents, and loads scripts into the ScriptControl. | VB6 | 2003-01-20 |
 | [Tesla-Battery-Sim](https://github.com/VaderConsulting/Tesla-Battery-Sim) | .NET 5 WinForms simulator of the Tesla Model 3 96-cell battery pack with charge/discharge and serial telemetry. | .NET 5 | 2022-02-17 |
 | [Test](https://github.com/VaderConsulting/Test) | C# WinForms scratch app that opens extra Form1 windows and starts a five-second BackgroundWorker on Close. | C# | 2013-08-21 |
-| [Test-Application](https://github.com/VaderConsulting/Test-Application) | Test Application is a VB.NET WinForms helper that walks a folder tree and totals the size of JPEG and BMP files. | VB.NET / .NET | 2006-10-19 |
-| [Test-Project](https://github.com/VaderConsulting/Test-Project) | Test Project is a VB.NET WinForms experiment that zips every file on D:\ into D:\test.zip using ICSharpCode.SharpZipLib. | VB.NET / .NET | 2007-12-06 |
-| [Test.ExchangeServices](https://github.com/VaderConsulting/Test.ExchangeServices) | Test.ExchangeServices is a C# WCF ASP.NET website that exposes GetCalendarEvents for Microsoft Exchange calendars. | C# / .NET | 2013-12-06 |
-| [TextRuler](https://github.com/VaderConsulting/TextRuler) | Rich-text editor with Word-style interactive ruler control. Supports draggable indent/margin markers and tab stops. Based on work by Andrey Lundin (CodeProject 2008). | C# / .NET 4.8 WinForms | 2015-02-04 |
-| [TextToDoc](https://github.com/VaderConsulting/TextToDoc) | VB6 working copy of TextToDoc from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Thermistor](https://github.com/VaderConsulting/Thermistor) | Arduino thermistor sketch. | Arduino / C | 2020-10-30 |
-| [TheScarmsWords](https://github.com/VaderConsulting/TheScarmsWords) | VB6 working copy of TheScarmsWords from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [TimeCheck](https://github.com/VaderConsulting/TimeCheck) | VB6 working copy of TimeCheck from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [Test-Application](https://github.com/VaderConsulting/Test-Application) | VB.NET WinForms helper that walks a folder tree and totals the size of JPEG and BMP files. | VB.NET / .NET | 2006-10-19 |
+| [Test-Project](https://github.com/VaderConsulting/Test-Project) | VB.NET WinForms experiment that zips every file on D:\ into D:\test.zip using ICSharpCode.SharpZipLib. | VB.NET / .NET | 2007-12-06 |
+| [Test.ExchangeServices](https://github.com/VaderConsulting/Test.ExchangeServices) | C# WCF ASP.NET website that exposes GetCalendarEvents for Microsoft Exchange calendars. | C# / .NET | 2013-12-06 |
+| [TextRuler](https://github.com/VaderConsulting/TextRuler) | C# WinForms rich-text editor with a Word-style ruler for indents, margins, and tab stops (Andrey Lundin, CodeProject). | C# / .NET 4.8 WinForms | 2022-05-01 |
+| [TextToDoc](https://github.com/VaderConsulting/TextToDoc) | VB6 converter that opens a text file in Word via Automation and saves it as a .doc. | VB6 | 2002-04-09 |
+| [Thermistor](https://github.com/VaderConsulting/Thermistor) | Arduino sketch that reads a 10 kOhm thermistor on A0 and prints Celsius on Serial via Steinhart-Hart. | Arduino / C | 2020-10-30 |
+| [TheScarmsWords](https://github.com/VaderConsulting/TheScarmsWords) | VB6 shaped-window demo from TheScarms.com whose letter forms spell The Scarms on the desktop. | VB6 | 2000-07-13 |
+| [TimeCheck](https://github.com/VaderConsulting/TimeCheck) | VB6 Server Time Check that reads remote server clocks via NetHostTime and lists deltas from local time. | VB6 | 2001-02-28 |
 | [TimeSpent](https://github.com/VaderConsulting/TimeSpent) | TimeSpent is a C# console app that exports Exchange calendar appointments to CSV so you can review hours spent from Outlook. | C# | 2013-12-09 |
 | [TinyWireM](https://github.com/VaderConsulting/TinyWireM) | Minimal I2C master library for ATtiny boards such as Trinket and Gemma. | Arduino / C | 2022-01-03 |
 | [tl_ole](https://github.com/VaderConsulting/tl_ole) | Eduardo A. Morcillo (Edanmo) OLE/ActiveX toolkit: `olelib.tlb`/`.odl` plus `.inc` interface headers and. | VB6 | 2026-08-27 |
