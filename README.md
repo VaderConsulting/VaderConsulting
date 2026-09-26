@@ -428,12 +428,12 @@ If you recognise code in any repository as your own work and it is not properly 
 | [SobelEdgeDetection](https://github.com/VaderConsulting/SobelEdgeDetection) | VB.NET WinForms Sobel edge-detection lab with GDI, LockBits, and parallel image strips. | VB.NET / .NET | 2010-02-15 |
 | [Solution1](https://github.com/VaderConsulting/Solution1) | Visual Studio 2010 playground of unused C# and VB.NET console and WinForms starter templates. | VB.NET, C# / .NET | 2011-05-02 |
 | [Songs](https://github.com/VaderConsulting/Songs) | VB6 Song Search TreeView over a DAO music library with DeluxeCD import and Microsoft Agent hooks. | VB6 | 2026-08-27 |
-| [SparkFun_HyperDisplay](https://github.com/VaderConsulting/SparkFun_HyperDisplay) | Abstract multi-window drawing and printing library for SparkFun displays. | Arduino / C | 2020-01-30 |
-| [SparkFun_HyperDisplay_ILI9163C](https://github.com/VaderConsulting/SparkFun_HyperDisplay_ILI9163C) | ILI9163C mid-level HyperDisplay driver layer for ILI9163-based displays. | Arduino / C | 2019-05-07 |
-| [SpecGroups](https://github.com/VaderConsulting/SpecGroups) | VB6 working copy of SpecGroups from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [SqlBulkUpsert](https://github.com/VaderConsulting/SqlBulkUpsert) | SqlBulkUpsert is Derek Fowler's C# wrapper around SqlBulkCopy that bulk-upserts rows via SQL MERGE and returns inserted identities. | C# | 2013-08-13 |
-| [Sqlenum](https://github.com/VaderConsulting/Sqlenum) | VB6 working copy of Sqlenum from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Stopwatch](https://github.com/VaderConsulting/Stopwatch) | Stopwatch is a Pocket PC WinForms app with three independent row timers plus a main timer, each with Start, Stop, and Reset. | VB.NET / .NET CF | 2004-08-12 |
+| [SparkFun_HyperDisplay](https://github.com/VaderConsulting/SparkFun_HyperDisplay) | Arduino HyperDisplay abstract display library with drawing, printing, and multi-window support. | Arduino / C | 2020-01-30 |
+| [SparkFun_HyperDisplay_ILI9163C](https://github.com/VaderConsulting/SparkFun_HyperDisplay_ILI9163C) | Arduino mid-level HyperDisplay driver for ILI9163C displays over 4-wire SPI. | Arduino / C | 2019-05-07 |
+| [SpecGroups](https://github.com/VaderConsulting/SpecGroups) | VB6 Group Monitor that loads ADO group names and enumerates WinNT ADSI members into list boxes. | VB6 | 2026-08-27 |
+| [SqlBulkUpsert](https://github.com/VaderConsulting/SqlBulkUpsert) | C# SqlBulkCopy plus MERGE wrapper that bulk-upserts rows and returns inserted identities. | C# | 2013-08-13 |
+| [Sqlenum](https://github.com/VaderConsulting/Sqlenum) | VB6 SQL Server enumerator that lists network SQL Servers via NetServerEnum SV_TYPE_SQLSERVER. | VB6 | 2026-08-27 |
+| [Stopwatch](https://github.com/VaderConsulting/Stopwatch) | Pocket PC WinForms stopwatch with three row timers plus a main timer, each with Start, Stop, and Reset. | VB.NET / .NET CF | 2004-08-12 |
 | [Stretch](https://github.com/VaderConsulting/Stretch) | VB6 working copy of Stretch from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Stub](https://github.com/VaderConsulting/Stub) | VB6 working copy of Stub from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [Stuff](https://github.com/VaderConsulting/Stuff) | VB6 working copy of Stuff from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
