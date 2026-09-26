@@ -418,16 +418,16 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Siteinfo](https://github.com/VaderConsulting/Siteinfo) | VB6 DCD PC Info tool that reads WMI hardware for a site code and writes a KiXtart-style naming template. | VB6 | 2026-08-27 |
 | [Siteloc](https://github.com/VaderConsulting/Siteloc) | VB6 logon check that verifies the SITELOC environment variable and alerts helpdesk when it is missing. | VB6 | 2026-08-27 |
 | [Skinner](https://github.com/VaderConsulting/Skinner) | VB.NET WinForms MDI editor for Centrafuse Auto car-PC skins that loads skin.xml into tabbed section controls. | VB.NET / .NET | 2009-12-03 |
-| [SmartDeviceApplication1](https://github.com/VaderConsulting/SmartDeviceApplication1) | SmartDeviceApplication1 is a Visual Studio 2003 VB.NET Pocket PC WinForms template whose Form1 shows only an empty main menu. | VB.NET / .NET | 2005-11-06 |
-| [Smonitor](https://github.com/VaderConsulting/Smonitor) | VB6 working copy of Smonitor from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Sms](https://github.com/VaderConsulting/Sms) | VB6 working copy of Sms from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Sms2000](https://github.com/VaderConsulting/Sms2000) | VB6 working copy of Sms2000 from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2000-06-01 |
-| [Smtpmail](https://github.com/VaderConsulting/Smtpmail) | VB6 working copy of Smtpmail from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2000-06-01 |
-| [Smtppois](https://github.com/VaderConsulting/Smtppois) | VB6 working copy of Smtppois from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Snippets](https://github.com/VaderConsulting/Snippets) | Visual Studio C# snippet for `#if Windows` (shortcut `#ifw`). | - | 2022-05-09 |
-| [SobelEdgeDetection](https://github.com/VaderConsulting/SobelEdgeDetection) | SobelEdgeDetection is a VisualCore.Lab VB.NET WinForms lab for Sobel edge detection with GDI, LockBits, and parallel image work. | VB.NET / .NET | 2010-02-15 |
-| [Solution1](https://github.com/VaderConsulting/Solution1) | Solution1 is a Visual Studio 2010 playground of unused C# and VB.NET starter templates; the solution file does not reference them. | VB.NET, C# / .NET | 2011-05-02 |
-| [Songs](https://github.com/VaderConsulting/Songs) | VB6 working copy of Songs from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
+| [SmartDeviceApplication1](https://github.com/VaderConsulting/SmartDeviceApplication1) | VB.NET Pocket PC WinForms template whose Form1 shows only an empty main menu on Compact Framework 1.0. | VB.NET / .NET | 2005-11-06 |
+| [Smonitor](https://github.com/VaderConsulting/Smonitor) | VB6 Security Event Monitor that polls the Security log for selected IDs and can alert, email, or page. | VB6 | 2026-08-27 |
+| [Sms](https://github.com/VaderConsulting/Sms) | VB6 Systems Management Server toolkit for AD discovery, boundaries, DDR, disk space, ping, and SINV watch. | VB6 | 2026-08-27 |
+| [Sms2000](https://github.com/VaderConsulting/Sms2000) | VB6 cellular SMS sender that dials Telstra services over MSComm modem AT commands with optional Agent UI. | VB6 | 2000-06-01 |
+| [Smtpmail](https://github.com/VaderConsulting/Smtpmail) | VB6 message helper that sends SMTP mail or NET SEND, including anonymous SMTP and file-based batch lines. | VB6 | 2000-06-01 |
+| [Smtppois](https://github.com/VaderConsulting/Smtppois) | VB6 Winsock SMTP ActiveX control (FairChild) for embedding send-mail in other apps. | VB6 | 2026-08-27 |
+| [Snippets](https://github.com/VaderConsulting/Snippets) | Visual Studio C# snippet that inserts or wraps a #if Windows / #endif pair (shortcut #ifw). | - | 2022-05-09 |
+| [SobelEdgeDetection](https://github.com/VaderConsulting/SobelEdgeDetection) | VB.NET WinForms Sobel edge-detection lab with GDI, LockBits, and parallel image strips. | VB.NET / .NET | 2010-02-15 |
+| [Solution1](https://github.com/VaderConsulting/Solution1) | Visual Studio 2010 playground of unused C# and VB.NET console and WinForms starter templates. | VB.NET, C# / .NET | 2011-05-02 |
+| [Songs](https://github.com/VaderConsulting/Songs) | VB6 Song Search TreeView over a DAO music library with DeluxeCD import and Microsoft Agent hooks. | VB6 | 2026-08-27 |
 | [SparkFun_HyperDisplay](https://github.com/VaderConsulting/SparkFun_HyperDisplay) | Abstract multi-window drawing and printing library for SparkFun displays. | Arduino / C | 2020-01-30 |
 | [SparkFun_HyperDisplay_ILI9163C](https://github.com/VaderConsulting/SparkFun_HyperDisplay_ILI9163C) | ILI9163C mid-level HyperDisplay driver layer for ILI9163-based displays. | Arduino / C | 2019-05-07 |
 | [SpecGroups](https://github.com/VaderConsulting/SpecGroups) | VB6 working copy of SpecGroups from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
