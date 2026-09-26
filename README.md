@@ -434,14 +434,14 @@ If you recognise code in any repository as your own work and it is not properly 
 | [SqlBulkUpsert](https://github.com/VaderConsulting/SqlBulkUpsert) | C# SqlBulkCopy plus MERGE wrapper that bulk-upserts rows and returns inserted identities. | C# | 2013-08-13 |
 | [Sqlenum](https://github.com/VaderConsulting/Sqlenum) | VB6 SQL Server enumerator that lists network SQL Servers via NetServerEnum SV_TYPE_SQLSERVER. | VB6 | 2026-08-27 |
 | [Stopwatch](https://github.com/VaderConsulting/Stopwatch) | Pocket PC WinForms stopwatch with three row timers plus a main timer, each with Start, Stop, and Reset. | VB.NET / .NET CF | 2004-08-12 |
-| [Stretch](https://github.com/VaderConsulting/Stretch) | VB6 working copy of Stretch from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Stub](https://github.com/VaderConsulting/Stub) | VB6 working copy of Stub from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Stuff](https://github.com/VaderConsulting/Stuff) | VB6 working copy of Stuff from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [Sun](https://github.com/VaderConsulting/Sun) | VB6 working copy of Sun from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [SunRise_SunSet](https://github.com/VaderConsulting/SunRise_SunSet) | VB6 working copy of SunRise_SunSet from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [SVN](https://github.com/VaderConsulting/SVN) | SVN is a saved working copy of two Visual Studio 2008 tests: HelloSVN-VBApp (VB.NET WinForms) and WindowsGame1 (C# XNA). | VB.NET, C# / .NET | 2009-07-12 |
-| [SvrRegQuery](https://github.com/VaderConsulting/SvrRegQuery) | VB6 working copy of SvrRegQuery from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
-| [SwapLibrary](https://github.com/VaderConsulting/SwapLibrary) | VB6 Swap DRIMS Library tool (`SwapLibrary.exe`) with a picker (or CLI option) to switch DocsOpen/DRIMS. | VB6 | 2026-08-27 |
+| [Stretch](https://github.com/VaderConsulting/Stretch) | VB6 StretchBlt demo that scales and copies a source picture or icon into a destination PictureBox. | VB6 | 1998-01-24 |
+| [Stub](https://github.com/VaderConsulting/Stub) | VB6 installer stub that reads Stub.ini beside the exe, then copies and registers the listed files. | VB6 | 2001-07-28 |
+| [Stuff](https://github.com/VaderConsulting/Stuff) | VB6 Hello World sample whose Clickme form has a single Click me button. | VB6 | 2000-05-18 |
+| [Sun](https://github.com/VaderConsulting/Sun) | VB6 sunrise calculator that takes latitude, longitude, and date and shows Julian day, anomalies, and sunrise. | VB6 | 1998-03-12 |
+| [SunRise_SunSet](https://github.com/VaderConsulting/SunRise_SunSet) | VB6 clsSunRiseSet class project exposing sunrise, sunset, and solar noon by city or coordinates. | VB6 | 2002-08-04 |
+| [SVN](https://github.com/VaderConsulting/SVN) | Visual Studio 2008 test pair: a Hello SVN VB.NET WinForms app and a stock C# XNA 3.1 Windows game. | VB.NET, C# / .NET | 2009-07-12 |
+| [SvrRegQuery](https://github.com/VaderConsulting/SvrRegQuery) | VB6 Server Registry Query tool that reads and writes HKLM keys across a list of target servers. | VB6 | 2001-06-27 |
+| [SwapLibrary](https://github.com/VaderConsulting/SwapLibrary) | VB6 tool that switches the DocsOpen/DRIMS library integration via a picker or command-line option. | VB6 | 2003-04-03 |
 | [SwapServer](https://github.com/VaderConsulting/SwapServer) | VB6 SwapServer (`SwapServer.exe`) that remaps mapped network drives from old file servers to new ones using. | VB6 | 2026-08-27 |
 | [Sysinfo](https://github.com/VaderConsulting/Sysinfo) | VB6 working copy of Sysinfo from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB6 | 2026-08-27 |
 | [System.Windows.Forms.Calendar](https://github.com/VaderConsulting/System.Windows.Forms.Calendar) | System.Windows.Forms.Calendar is Jose Menendez Póo's C# WinForms Outlook-style calendar with appointments, day views, and MonthView. | C# | 2013-08-28 |
