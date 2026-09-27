@@ -53,23 +53,23 @@ If you recognise code in any repository as your own work and it is not properly 
 | [AltSoftSerial](https://github.com/VaderConsulting/AltSoftSerial) | Improved software-serial library using hardware timers for precise timing on AVR. | Arduino / C | 2019-05-01 |
 | [APIOpenDialog](https://github.com/VaderConsulting/APIOpenDialog) | VB6 2UNC (`2UNC.exe` / `ToUNC`) that opens a text file or folder of files and replaces embedded drive letters. | VB6 | 2002-06-01 |
 | [Arclog](https://github.com/VaderConsulting/Arclog) | VB6 ArcLog (`ArcLog.exe`) file archiving utility that moves files older than a configurable age (minutes). | VB6 | 2026-08-27 |
-| [Arduino](https://github.com/VaderConsulting/Arduino) | Legacy Arduino Visual Studio projects. Contains OLEDClock and HID_Joystick. | Arduino / C++ | 2020-09-03 |
+| [Arduino](https://github.com/VaderConsulting/Arduino) | Combined Arduino archive: clocks, Model 3 battery SOC LEDs, thermistor, HID joystick, I2C scanner, plus libraries. | Arduino / C++ | 2020-09-03 |
 | [arduino_644462](https://github.com/VaderConsulting/arduino_644462) | Arduino sketch from the Arduino archive. | Arduino / C | 2018-05-21 |
 | [AssetControl](https://github.com/VaderConsulting/AssetControl) | VB6 Asset Control (`Asset Control.exe`) that looks up assets by barcode via ADO (description, type, category. | VB6 | 2005-06-01 |
 | [AssetImporter](https://github.com/VaderConsulting/AssetImporter) | ASP.NET VB.NET Defence/fleet asset sheet importer and validator (Excel/CSV to SQL Server). | VB.NET | 2006-07-03 |
 | [Audio-Database](https://github.com/VaderConsulting/Audio-Database) | VB6 Audio Database (`AudioDB.exe`) music catalog with Access MDBs (`Music.mdb` / variants). | VB6 | 2026-08-27 |
 | [Audio-Player](https://github.com/VaderConsulting/Audio-Player) | VB6 Audio Player (`Audio Player.exe`) with a playlist UI and Windows Media Player OCX (`msdxm.ocx`), plus a. | VB6 | 2026-08-27 |
 | [Audit](https://github.com/VaderConsulting/Audit) | Freelance VB6 PC Audit tool (Audit.exe) that records computer name, IP/MAC, OS, hotfixes, installed applications, local accounts, and services. | VB6 | 2026-08-27 |
-| [Audit-V1](https://github.com/VaderConsulting/Audit-V1) | Legacy Visual Basic project (`.vbp`). | VB6 | 2020-09-24 |
-| [Audit-V2](https://github.com/VaderConsulting/Audit-V2) | Legacy Visual Basic project (`.vbp`). | VB6 | 2005-07-02 |
+| [Audit-V1](https://github.com/VaderConsulting/Audit-V1) | VB6 Audit project from Historical Dev (Audit V1 tree). | VB6 | 2020-09-24 |
+| [Audit-V2](https://github.com/VaderConsulting/Audit-V2) | VB6 Audit project from Historical Dev (Audit V2 tree). | VB6 | 2005-07-02 |
 | [Authenticate](https://github.com/VaderConsulting/Authenticate) | VB6 xLogon ActiveX control (`drLogon`) that authenticates username/domain credentials via Win32 `LogonUser`. | VB6 | 2026-08-27 |
 | [automatic-graph-layout-master](https://github.com/VaderConsulting/automatic-graph-layout-master) | Microsoft Automatic Graph Layout (MSAGL) is a C# toolkit for laying out and viewing graphs: Sugiyama layered layout, MDS, incremental layout, rectilinear and spline edge routing | C# | 2015-09-18 |
-| [AutoUpdater-Source](https://github.com/VaderConsulting/AutoUpdater-Source) | B4x Browser: loads and displays B4A, B4i, B4j, and B4r API information. Based on B4a Object Browser v3.2.5.14. | C# / .NET 10, .NET 8, .NET 4.8 | 2026-04-17 |
-| [B4A](https://github.com/VaderConsulting/B4A) | B4A source from Dave Robinson's Historical Dev archive. | B4A | 2015-06-20 |
-| [B4A_2](https://github.com/VaderConsulting/B4A_2) | Loads and displays B4a Objects. Includes DocLoader, HtmlRichTextBox, CommunityLibrary, LibraryObjects, and TreeViewWalker projects. | C# / .NET 2.0-4.0 | 2013-03-09 |
+| [AutoUpdater-Source](https://github.com/VaderConsulting/AutoUpdater-Source) | Desktop B4X Object Browser with vendored AutoUpdater.NET for update checks. | C# / .NET 10, .NET 8, .NET 4.8 | 2026-04-17 |
+| [B4A](https://github.com/VaderConsulting/B4A) | B4A (Basic4Android) source tree from Historical Dev. | B4A | 2015-06-20 |
+| [B4A_2](https://github.com/VaderConsulting/B4A_2) | Windows desktop B4A Object Browser (C# WinForms) with supporting libraries. | C# / .NET 2.0-4.0 | 2013-03-09 |
 | [B4x](https://github.com/VaderConsulting/B4x) | Anywhere Software B4X additional libraries and tool projects (B4A, B4i, B4J, B4R) plus the b4xlib2XML converter. | - | 2021-10-01 |
 | [Balloon](https://github.com/VaderConsulting/Balloon) | VB.NET balloon tip / tray notification sample from Historical Dev VB/Old. | VB.NET / .NET | 2026-08-27 |
-| [BalloonTips](https://github.com/VaderConsulting/BalloonTips) | Class library and test project. Assembly metadata references Microsoft. | VB.NET / .NET 3.5 | 2010-02-05 |
+| [BalloonTips](https://github.com/VaderConsulting/BalloonTips) | VB.NET balloon tip / tray notification library and test host (third-party working copy). | VB.NET / .NET 3.5 | 2010-02-05 |
 | [Bandwidth](https://github.com/VaderConsulting/Bandwidth) | VB6 systray and desktop bandwidth monitor (CS Bandwidth Monitor.exe) built on IP Helper / netstat wrappers (CIpHelper, interface classes) with settings, stats, and colour UI forms. | VB6 | 2026-08-27 |
 | [Barcodes](https://github.com/VaderConsulting/Barcodes) | Third-party Code 39 barcode generator by Allen Allegretto (Barcode.exe / BarcodeGenerator). | - | 2026-08-27 |
 | [Barcodes-VB6](https://github.com/VaderConsulting/Barcodes-VB6) | VB6 barcode toolkit: Access MDB barcode-to-asset interface (`Barcodes.exe`), keyboard wedge apps, and barcode. | VB6 | 2026-08-27 |
