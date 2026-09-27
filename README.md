@@ -200,24 +200,24 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Keyboard](https://github.com/VaderConsulting/Keyboard) | Working copy of the Arduino Keyboard library (arduino-libraries/Keyboard). Lets an Arduino board with USB capabilities act as a HID keyboard for host machines. | Arduino / C | 2024-01-15 |
 | [LabelPrinting](https://github.com/VaderConsulting/LabelPrinting) | C# Address Label Printing API for Windows (Peter John, 2007, LGPLv2.1) kept as a working copy. | C# | 2013-06-13 |
 | [Lasertag-VB6](https://github.com/VaderConsulting/Lasertag-VB6) | Freelance VB6 Lasertag registration helper (Register Clan / Register Player). | VB6 | 2026-08-27 |
-| [LastLogon-VB](https://github.com/VaderConsulting/LastLogon-VB) | WinForms utility that queries Active Directory for the newest last-logon time across domain controllers. | VB.NET | 2007-08-20 |
+| [LastLogon-VB](https://github.com/VaderConsulting/LastLogon-VB) | VB.NET WinForms utility that queries Active Directory for the newest last-logon time across domain controllers. | VB.NET | 2007-08-20 |
 | [Launch](https://github.com/VaderConsulting/Launch) | CBB VB6 Launcher (v4.5.2) for NT4/Win95 with tabs, systray, printers, and admin page. | VB6 | 1998-06-01 |
-| [LCDProject](https://github.com/VaderConsulting/LCDProject) | VS 2008 VB.NET WinForms (.NET 3.5) working copy. | VB.NET / .NET | 2008-09-05 |
-| [LEDClock](https://github.com/VaderConsulting/LEDClock) | Arduino LED clock sketch. | Arduino / C | 2021-02-01 |
+| [LCDProject](https://github.com/VaderConsulting/LCDProject) | VS 2008 VB.NET WinForms (.NET 3.5) working copy. Form1_Load calls InitialiseLCD (AxUSB_LCD1.WR_P0(1)) then ConnectToLCD (Find_USB_Device) and logs Connected to the console; Toggle_LCD_Enable_Line. | VB.NET / .NET | 2008-09-05 |
+| [LEDClock](https://github.com/VaderConsulting/LEDClock) | Arduino clock that shows time on a TM1637 4-digit display, keeps time with a DS1307 RTC (`RTClib`), and uses a notched-shaft encoder to set hours and minutes. | Arduino / C | 2021-02-01 |
 | [Linker](https://github.com/VaderConsulting/Linker) | VB6 Linker (`Linker.exe`) that expects a file path on the command line, strips quotes, and opens it with. | VB6 | 2026-08-27 |
-| [Linqkit](https://github.com/VaderConsulting/Linqkit) | Third-party LINQKit (Joseph Albahari, Tomas Petricek, MIT) working copy. | - | 2013-08-23 |
-| [LinqtoCSV](https://github.com/VaderConsulting/LinqtoCSV) | Third-party LINQtoCSV working copy. | - | 2013-11-06 |
+| [Linqkit](https://github.com/VaderConsulting/Linqkit) | Third-party LINQKit (Joseph Albahari, Tomas Petricek, MIT) working copy. PredicateBuilder.True/False/And/Or compose Expression<Func<T,bool>>; ExpandableQuery and ExpressionExpander let Invoke'd. | - | 2013-08-23 |
+| [LinqtoCSV](https://github.com/VaderConsulting/LinqtoCSV) | Third-party LINQtoCSV working copy. CsvContext.Read/Write maps CSV rows onto typed objects using CsvColumn/CsvFileDescription (separator, culture, header row); SampleCode.Program reads products.csv. | - | 2013-11-06 |
 | [Loadmapi](https://github.com/VaderConsulting/Loadmapi) | VB6 LoadMAPI TreeView browser for Exchange GAL/users/DLs via CDO 1.21. | VB6 | 2026-08-27 |
 | [Localisation](https://github.com/VaderConsulting/Localisation) | VS 2008 VB.NET WinForms working copy whose Form1_Load is empty and InitializeComponent only sizes a 292x266 Form1. | VB.NET / .NET | 2008-08-29 |
-| [Localization](https://github.com/VaderConsulting/Localization) | VS 2012 C# WinForms working copy. | C# | 2013-02-27 |
-| [Lockouts-VB](https://github.com/VaderConsulting/Lockouts-VB) | Windows service that polls Active Directory for locked-out accounts and sends SMTP email alerts. | VB.NET | 2012-07-07 |
+| [Localization](https://github.com/VaderConsulting/Localization) | VS 2012 C# WinForms working copy. Form1 constructs ResourceManager("Localization.Localization") and OnLanguageChange sets CurrentUICulture/CurrentCulture from radio buttons (en-US, de-DE, fr-FR,. | C# | 2013-02-27 |
+| [Lockouts-VB](https://github.com/VaderConsulting/Lockouts-VB) | VB.NET Windows service (User Lockout Monitoring Service) that polls Active Directory for locked-out accounts and sends SMTP email alerts using an HTML template. | VB.NET | 2012-07-07 |
 | [LoggedOnUsers](https://github.com/VaderConsulting/LoggedOnUsers) | VB6 WinForms utility (LoggedOn.exe) that lists currently logged-on users on the machine or domain context it targets. | VB6 | 2026-08-27 |
 | [Logon34](https://github.com/VaderConsulting/Logon34) | Logon UI (Logon34.exe) with VersionCompanyName Computer Sciences Corporation and Tusk Technologies, used for workplace logon scenarios. | - | 2026-08-27 |
-| [LogonEngine](https://github.com/VaderConsulting/LogonEngine) | VS 2010 VB.NET working copy of the Windows Live Login SDK. | VB.NET / .NET | 2011-02-20 |
-| [LogonStatus-VB](https://github.com/VaderConsulting/LogonStatus-VB) | WinForms tool that reports AD logon and logoff status for a user across one or more servers. | VB.NET | 2012-07-07 |
+| [LogonEngine](https://github.com/VaderConsulting/LogonEngine) | VS 2010 VB.NET working copy of the Windows Live Login SDK. Live.ConsentToken/User plus DecodeAndValidateToken (Rijndael + HMACSHA256) implement wsignin1.0 web auth and delegated consent;. | VB.NET / .NET | 2011-02-20 |
+| [LogonStatus-VB](https://github.com/VaderConsulting/LogonStatus-VB) | VB.NET WinForms tool that reports Active Directory logon and logoff status for a chosen user across one or more servers. | VB.NET | 2012-07-07 |
 | [lotsofexes](https://github.com/VaderConsulting/lotsofexes) | CSC VB6 helper that turns server lists into wake/copy/clean admin-share batch files. | VB6 | 2026-08-27 |
-| [M3Battery](https://github.com/VaderConsulting/M3Battery) | Arduino sketch from the Arduino archive. | Arduino / C | 2022-03-03 |
-| [M3Battery_Wifi](https://github.com/VaderConsulting/M3Battery_Wifi) | Arduino sketch from the Arduino archive. | Arduino / C | 2022-03-03 |
+| [M3Battery](https://github.com/VaderConsulting/M3Battery) | Arduino sketch that reads Tesla Model 3 pack SOC from an EVTV serial stream and drives charge-status LEDs. | Arduino / C | 2022-03-03 |
+| [M3Battery_Wifi](https://github.com/VaderConsulting/M3Battery_Wifi) | ESP8266 variant of the Model 3 battery SOC monitor: same EVTV serial parse and LED band, plus Wi-Fi so status can be reached on the LAN. | Arduino / C | 2022-03-03 |
 | [Mac](https://github.com/VaderConsulting/Mac) | VB6 GetEthAdr utility that reads the local adapter MAC via NetBIOS NCB ASTAT. | VB6 | 2026-08-27 |
 | [MailClient](https://github.com/VaderConsulting/MailClient) | Desaware Inc. VB6 Launcher Client (LClient.exe) from Win32 API guide Ch.14 mailslot examples. | VB6 | 1997-06-01 |
 | [ManagedWiFi](https://github.com/VaderConsulting/ManagedWiFi) | Third-party Native Wifi API wrapper (Monfort Software Engineering / CodePlex ManagedWifi). | - | 2016-03-08 |
@@ -228,14 +228,14 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Messages](https://github.com/VaderConsulting/Messages) | CSC VB6 Messages browser for domain netlogon broadcast message files. | VB6 | 2026-08-27 |
 | [MFRC522](https://github.com/VaderConsulting/MFRC522) | Arduino SPI library for reading and writing MIFARE RFID cards via the MFRC522. | Arduino / C | 2021-11-02 |
 | [Mgecomp](https://github.com/VaderConsulting/Mgecomp) | VB6 Manage Computers utility (`MgeComp.exe`) that lists domain computers and shows per-machine status. | VB6 | 2026-08-27 |
-| [Microsoft-Press](https://github.com/VaderConsulting/Microsoft-Press) | Microsoft Press Workflow Step by Step Chapter 1 working copy: a VS 2012 C# console host (.NET 3.0) that CreateWorkflow-starts SequentialWorkflowActivity Workflow1 with PostalCode from args[0] (or empty). | C# / .NET 3.0 | 2013-04-21 |
+| [Microsoft-Press](https://github.com/VaderConsulting/Microsoft-Press) | Microsoft Press Workflow Step by Step Chapter 1 working copy: a VS 2012 C# console host (.NET 3.0) that CreateWorkflow-starts SequentialWorkflowActivity Workflow1 with PostalCode from args[0] (or. | C# / .NET 3.0 | 2013-04-21 |
 | [Mifscan](https://github.com/VaderConsulting/Mifscan) | CSC VB6 MIF serial scanner that extracts Monitor and PC serial numbers from MIFs. | VB6 | 2026-08-27 |
 | [MigrateProfile](https://github.com/VaderConsulting/MigrateProfile) | Empired Limited VB6 Migrate Profile tool (`MigrateProfile.exe`) that loads/saves user settings (drives. | VB6 | 2026-08-27 |
 | [Modcsv](https://github.com/VaderConsulting/Modcsv) | CSC VB6 ModCSV that rewrites traveller drive paths in domain-admin CSV files. | VB6 | 2026-08-27 |
 | [ModGroups](https://github.com/VaderConsulting/ModGroups) | VB6 Modify Group membership utility (`ModGroups.exe`) that lists filtered domain groups (e.g. `right-usr-pf*`. | VB6 | 2026-08-27 |
 | [ModifyEA](https://github.com/VaderConsulting/ModifyEA) | Empired Limited VB6 utility (`ModifyEA.exe`) that binds an AD user by LDAP DN and sets or clears a numbered. | VB6 | 2026-08-27 |
-| [MonoAndroidApplication1](https://github.com/VaderConsulting/MonoAndroidApplication1) | VS 2010 C# Mono for Android (Novell MonoDroid) working copy whose MainLauncher Activity1 inflates Main.axml, finds MyButton (Hello World, Click Me!), and on Click sets the caption to "N clicks!" (count starts at 1). | C# | 2012-03-17 |
-| [motion_src](https://github.com/VaderConsulting/motion_src) | VS 2017 C# WinForms (.NET 2.0) working copy of Andrew Kirillov's AForge Motion Detector v.1.5.0. | C# / .NET 2.0 | 2018-12-23 |
+| [MonoAndroidApplication1](https://github.com/VaderConsulting/MonoAndroidApplication1) | VS 2010 C# Mono for Android (Novell MonoDroid) working copy whose MainLauncher Activity1 inflates Main.axml, finds MyButton (Hello World, Click Me!), and on Click sets the caption to "N clicks!". | C# | 2012-03-17 |
+| [motion_src](https://github.com/VaderConsulting/motion_src) | VS 2017 C# WinForms (.NET 2.0) port of Andrew Kirillov's AForge Motion Detector v1.5.0. | C# / .NET 2.0 | 2018-12-23 |
 | [MouseHook](https://github.com/VaderConsulting/MouseHook) | VB6 mouse-hook demo that installs `WH_JOURNALRECORD` and `WH_GETMESSAGE` hooks via `cSysHook` / `modHook` and. | VB6 | 2026-08-27 |
 | [MP3Player](https://github.com/VaderConsulting/MP3Player) | Chips, Bits and Bytes VB6 MP3 player and ID3v1 tag editor using msdxm Media Player. | VB6 | 2026-08-27 |
 | [MP4-Display](https://github.com/VaderConsulting/MP4-Display) | Empired Limited VB6 MP4 Display UI (`Project1`) with on/off display option buttons and a clickable main image. | VB6 | 2026-08-27 |
