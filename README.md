@@ -45,11 +45,11 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Adafruit_Zero_DMA_Library](https://github.com/VaderConsulting/Adafruit_Zero_DMA_Library) | DMA helper library for ATSAMD21 boards such as Arduino Zero and Feather M0. | Arduino / C | 2021-06-01 |
 | [Adafruit_Zero_FFT_Library](https://github.com/VaderConsulting/Adafruit_Zero_FFT_Library) | FFT library for Arduino Zero / Feather M0 SAMD21 boards. | Arduino / C | 2020-06-17 |
 | [Adafruit_Zero_PDM_Library](https://github.com/VaderConsulting/Adafruit_Zero_PDM_Library) | PDM microphone input library for Arduino Zero / Feather M0 SAMD21 boards. | Arduino / C | 2020-06-30 |
-| [ADAMTest-VB](https://github.com/VaderConsulting/ADAMTest-VB) | WinForms harness for ADAM/AD LDS password checks via System.DirectoryServices.AccountManagement. | VB.NET | 2010-03-13 |
+| [ADAMTest-VB](https://github.com/VaderConsulting/ADAMTest-VB) | VB.NET WinForms harness for ADAM/AD LDS password checks via AccountManagement. | VB.NET | 2010-03-13 |
 | [ADMExport](https://github.com/VaderConsulting/ADMExport) | Freelance VB6 utility (prjADMExport.exe) that exports ADM Group Policy administrative template files for offline review. | VB6 | 2026-08-27 |
 | [AdminSetPassword](https://github.com/VaderConsulting/AdminSetPassword) | Freelance/Tusk VB6 domain admin password-set utility. | VB6 | 2026-08-27 |
-| [AeroWizard](https://github.com/VaderConsulting/AeroWizard) | Windows Forms library for Aero Wizards (Vista+) with Visual Styles, glass/DWM helpers, and design-time support. Originally by David Hall (CodePlex). | C# / .NET 3.5 | 2015-06-20 |
-| [AI-Life](https://github.com/VaderConsulting/AI-Life) | C# WinForms AI life simulator with steering behaviours, evolutionary strings, and neural-net ants. | C# / .NET 2.0 | 2011-09-25 |
+| [AeroWizard](https://github.com/VaderConsulting/AeroWizard) | C# Windows Forms Aero Wizard library (David Hall) with TestWizard sample host. | C# / .NET 3.5 | 2015-06-20 |
+| [AI-Life](https://github.com/VaderConsulting/AI-Life) | C# Windows Forms AI Life desktop experiment (RSR) under .NET Framework 2.0. | C# / .NET 2.0 | 2011-09-25 |
 | [AltSoftSerial](https://github.com/VaderConsulting/AltSoftSerial) | Improved software-serial library using hardware timers for precise timing on AVR. | Arduino / C | 2019-05-01 |
 | [APIOpenDialog](https://github.com/VaderConsulting/APIOpenDialog) | VB6 2UNC (`2UNC.exe` / `ToUNC`) that opens a text file or folder of files and replaces embedded drive letters. | VB6 | 2002-06-01 |
 | [Arclog](https://github.com/VaderConsulting/Arclog) | VB6 ArcLog (`ArcLog.exe`) file archiving utility that moves files older than a configurable age (minutes). | VB6 | 2026-08-27 |
