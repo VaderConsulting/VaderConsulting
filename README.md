@@ -73,17 +73,17 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Bandwidth](https://github.com/VaderConsulting/Bandwidth) | VB6 systray and desktop bandwidth monitor (CS Bandwidth Monitor.exe) built on IP Helper / netstat wrappers (CIpHelper, interface classes) with settings, stats, and colour UI forms. | VB6 | 2026-08-27 |
 | [Barcodes](https://github.com/VaderConsulting/Barcodes) | Third-party Code 39 barcode generator by Allen Allegretto (Barcode.exe / BarcodeGenerator). | - | 2026-08-27 |
 | [Barcodes-VB6](https://github.com/VaderConsulting/Barcodes-VB6) | VB6 barcode toolkit: Access MDB barcode-to-asset interface (`Barcodes.exe`), keyboard wedge apps, and barcode. | VB6 | 2026-08-27 |
-| [BigBrother](https://github.com/VaderConsulting/BigBrother) | Visual Studio add-in scaffold that registers a Tools menu command via IDTExtensibility2. | VB.NET / .NET 3.5 | 2010-07-12 |
+| [BigBrother](https://github.com/VaderConsulting/BigBrother) | VB.NET class library from Historical Dev under .NET Framework 3.5. | VB.NET / .NET 3.5 | 2010-07-12 |
 | [Bounce](https://github.com/VaderConsulting/Bounce) | VB6 Server Bounce Log (`Bounce.exe`) that records planned/unplanned server downtime (down/up times) into a. | VB6 | 2000-06-01 |
-| [BouncyCastle-Crypto](https://github.com/VaderConsulting/BouncyCastle-Crypto) | Bouncy Castle Cryptography API. Original by The Legion of the Bouncy Castle. | C# | 2013-10-23 |
-| [Cable-Pull](https://github.com/VaderConsulting/Cable-Pull) | Cable management with Test, Things, Cables, and DataStructure projects. | VB.NET / .NET 4.0 | 2010-10-12 |
-| [Cables](https://github.com/VaderConsulting/Cables) | VB.NET Windows Forms front end for the Cable Pull (CPULL) Access databases used on Royal Australian Navy ANZAC-class ships. | VB.NET / .NET 2.0 | 2010-11-02 |
-| [CADSComms](https://github.com/VaderConsulting/CADSComms) | WCF Server/Client communication projects. Assembly company: Stratatel. | VB.NET / .NET 3.5 | 2008-09-09 |
-| [CalendarPlanner](https://github.com/VaderConsulting/CalendarPlanner) | Calendar/WeekPlanner example. Attribution: Axon Cable SIA. | C# / .NET 3.5 | 2013-08-29 |
+| [BouncyCastle-Crypto](https://github.com/VaderConsulting/BouncyCastle-Crypto) | Bouncy Castle Cryptography API C# working copy for catalogue/reference. | C# | 2013-10-23 |
+| [Cable-Pull](https://github.com/VaderConsulting/Cable-Pull) | VB.NET Cable Pull multi-project tree (Cables/Things/DataStructure) from Historical Dev. | VB.NET / .NET 4.0 | 2010-10-12 |
+| [Cables](https://github.com/VaderConsulting/Cables) | VB.NET WinForms front end for RAN ANZAC-class ship Cable Pull (CPULL) Access databases. | VB.NET / .NET 2.0 | 2010-11-02 |
+| [CADSComms](https://github.com/VaderConsulting/CADSComms) | VB.NET CADS WCF server/client communications library (Stratatel). | VB.NET / .NET 3.5 | 2008-09-09 |
+| [CalendarPlanner](https://github.com/VaderConsulting/CalendarPlanner) | C# CalendarPlanner / WeekPlanner example tree (Axon Cable / Microsoft sample). | C# / .NET 3.5 | 2013-08-29 |
 | [CaptureMouseEvents](https://github.com/VaderConsulting/CaptureMouseEvents) | VB6 demo by Vivek Nigam (VersionCompanyName Phoenix English) that polls `GetAsyncKeyState` on a 50 ms timer. | VB6 | 2026-08-27 |
 | [catchaorbb](https://github.com/VaderConsulting/catchaorbb) | Acidmax / Coenraad Steenkamp VB6 Catch a Orbb arcade game (`Project1.exe`) with intro, instructions, timed. | VB6 | 2026-08-27 |
 | [cbGPS](https://github.com/VaderConsulting/cbGPS) | VB6 GPS map viewer (`cbGPS.exe` / `prjGPS`) that reads NMEA `$GPRMC` sentences over `MSCOMM32.OCX`, parses. | VB6 | 2026-08-27 |
-| [centrafusex](https://github.com/VaderConsulting/centrafusex) | OBD (On-Board Diagnostics) project. | VB.NET / .NET 3.5 | 2009-12-30 |
+| [centrafusex](https://github.com/VaderConsulting/centrafusex) | VB.NET Centrafuse-related OBD class library (obd) under .NET Framework 3.5. | VB.NET / .NET 3.5 | 2009-12-30 |
 | [Chatroom](https://github.com/VaderConsulting/Chatroom) | CTR Business Systems VB6 chat sample with a client ActiveX Document EXE (`chat_client.exe`) and The. | VB6 | 2026-08-27 |
 | [Cleanmsi](https://github.com/VaderConsulting/Cleanmsi) | VB6 CleanMSI (`CleanMSI.exe`) that opens a Windows Installer `.msi` via the MSI object library and runs SQL. | VB6 | 2026-08-27 |
 | [ClearForm](https://github.com/VaderConsulting/ClearForm) | Dave Scarmozzino / TheScarms.com ClearFrm sample (`ClearFrm.exe`) for form and menu effects: gradient. | VB6 | 2026-08-27 |
