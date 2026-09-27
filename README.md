@@ -242,17 +242,17 @@ If you recognise code in any repository as your own work and it is not properly 
 | [MSI-Compare](https://github.com/VaderConsulting/MSI-Compare) | VB6 MSI Compare.exe dual-pane Windows Installer browser for two MSI/MSM databases. | VB6 | 2026-08-27 |
 | [MSI-Explorer](https://github.com/VaderConsulting/MSI-Explorer) | VB6 MSI Explorer.exe MDI Windows Installer browser for MSI/MSM Files/Registry/Components. | VB6 | 2026-08-27 |
 | [MsTimer2](https://github.com/VaderConsulting/MsTimer2) | Runs a periodic interrupt callback using AVR Timer2. | Arduino / C | 2018-05-21 |
-| [Multi-Node](https://github.com/VaderConsulting/Multi-Node) | Master/repeater/user-device WiFi network protocol for up to 100 nodes covering 1 km². Nodes self-organise with 8-bit ID allocation, automatic master election, and dynamic topology. | C# / .NET 9 | 2025-06-22 |
+| [Multi-Node](https://github.com/VaderConsulting/Multi-Node) | A C# implementation of a master/repeater/user-device WiFi network protocol for up to 100 nodes covering a 1 km2 area. | C# / .NET 9 | 2025-06-22 |
 | [Music](https://github.com/VaderConsulting/Music) | Chips, Bits and Bytes VB6 Music Database over Access music2000.mdb (artists/albums/songs). | VB6 | 2000-06-01 |
-| [MVC](https://github.com/VaderConsulting/MVC) | VS 2012 C# working copy: Pharmacy Assistant 1.3.4 is a .NET 3.5 WinForms MDI that logs on against SQL Server, then edits products, catalogs, documents, tasks, events, and user accounts for the Savemor pharmacy site (FTP upload, AutoUpdater.NET). | C# / .NET 3.5 | 2013-09-09 |
+| [MVC](https://github.com/VaderConsulting/MVC) | VS 2012 C# working copy: Pharmacy Assistant 1.3.4 is a .NET 3.5 WinForms MDI that logs on against SQL Server, then edits products, catalogs, documents, tasks, events, and user accounts for the. | C# / .NET 3.5 | 2013-09-09 |
 | [MXXMLWriterSample](https://github.com/VaderConsulting/MXXMLWriterSample) | Microsoft Corp. VB6 SAX writer sample (`MXXMLWriterSample.exe`) demonstrating `MXXMLWriter` with. | VB6 | 2026-08-27 |
 | [My-Server-Monitor](https://github.com/VaderConsulting/My-Server-Monitor) | Chips, Bits and Bytes VB6 My Server Monitor (MSM.exe) ping and disk-space chart. | VB6 | 2026-08-27 |
 | [MyMonitor](https://github.com/VaderConsulting/MyMonitor) | VB6 bandwidth monitor (`MyMonitor.exe`) built on IP Helper / netstat wrappers (`CIpHelper`, interface. | VB6 | 2026-08-27 |
-| [MyNamespace](https://github.com/VaderConsulting/MyNamespace) | VS 2008 mixed-language working copy: MyNamespace is a VB.NET (.NET 2.0) class library whose VB type copies My.Application, My.User, My.Computer, and My. | VB.NET / .NET | 2008-03-27 |
-| [MyWestnetUsage](https://github.com/VaderConsulting/MyWestnetUsage) | VS 2008 VB.NET WinForms (.NET 3.5) working copy that queries Westnet ADSL usage. | VB.NET / .NET | 2008-08-10 |
+| [MyNamespace](https://github.com/VaderConsulting/MyNamespace) | VS 2008 mixed-language working copy: MyNamespace is a VB.NET (.NET 2.0) class library whose VB type copies My.Application, My.User, My.Computer, and My.Settings into fields and exposes sUsername and. | VB.NET / .NET | 2008-03-27 |
+| [MyWestnetUsage](https://github.com/VaderConsulting/MyWestnetUsage) | VS 2008 VB.NET WinForms (.NET 3.5) working copy that queries Westnet ADSL usage. btnCheck calls the MyUsage.adslxmlusage SOAP proxy with txtUsername/txtPassword, loads the DataSet XML, and writes. | VB.NET / .NET | 2008-08-10 |
 | [Mywsh](https://github.com/VaderConsulting/Mywsh) | VB6 Windows Script Host runner (`mywsh.vbp`) that takes a `.vbs` or `.js` path on the command line and. | VB6 | 2026-08-27 |
-| [Name-Creator](https://github.com/VaderConsulting/Name-Creator) | VS 2008 VB.NET WinForms (.NET 3.5) working copy whose Form1_Load reads D:\Data\Surnames.txt, Female.txt, and Male.txt, then writes 10,000 random first-and-last names to the console with an (M) or (F) prefix. | VB.NET / .NET | 2008-05-14 |
-| [Nat](https://github.com/VaderConsulting/Nat) | Dave Robinson's VB6 NAT discovery and tooling suite bundled as one repo: Discover, Discover2, Broker, Ping, Collect, and Reader - each with its own .vbp. | VB6 | 2026-08-27 |
+| [Name-Creator](https://github.com/VaderConsulting/Name-Creator) | VS 2008 VB.NET WinForms (.NET 3.5) working copy whose Form1_Load reads D:\Data\Surnames.txt, Female.txt, and Male.txt, then writes 10,000 random first-and-last names to the console with an (M) or (F). | VB.NET / .NET | 2008-05-14 |
+| [Nat](https://github.com/VaderConsulting/Nat) | VB6 NAT discovery and tooling suite bundled as one repo: Discover, Discover2, Broker, Ping, Collect, and Reader - each with its own `.vbp`. Open the relevant `.vbp` in the VB6 IDE. | VB6 | 2026-08-27 |
 | [Nat-VB6](https://github.com/VaderConsulting/Nat-VB6) | DAGS VB6 NAT.dll MSXML helper (Create/Append/Read/Load/Save) with Reader/Test harnesses. | VB6 | 2026-08-27 |
 | [Nbtstat](https://github.com/VaderConsulting/Nbtstat) | CSC VB6 helper that shells NBTSTAT -a to collect host,MAC,IP and export CSV. | VB6 | 2026-08-27 |
 | [Nests](https://github.com/VaderConsulting/Nests) | Chips, Bits and Bytes VB6 Robin nest/plate drawing searcher over Access Nest.MDB. | VB6 | 1998-06-01 |
@@ -276,7 +276,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Nicinfo](https://github.com/VaderConsulting/Nicinfo) | VB6 NIC/adapter info sample (`Project1`, MSWinsock referenced) whose `Module1.bas.example` enumerates. | VB6 | 2026-08-27 |
 | [Noblets](https://github.com/VaderConsulting/Noblets) | Bob Hyland VB6 NOblets.dll WNet/LANMAN enum library with TreeNet demo. | VB6 | 1997-06-01 |
 | [Notched_Shaft_Encoder](https://github.com/VaderConsulting/Notched_Shaft_Encoder) | Tracks position and click button state from a notched shaft encoder. | Arduino / C | 2020-06-09 |
-| [NPOIHelper](https://github.com/VaderConsulting/NPOIHelper) | Extension methods for NPOI library simplifying Excel cell writing via `ISheet.SetCellValue()` and `AddRow()`. | C# / .NET 4.8 | 2021-04-05 |
+| [NPOIHelper](https://github.com/VaderConsulting/NPOIHelper) | Extension methods for the NPOI library that simplify writing values into Excel spreadsheet cells via the `ISheet` interface. | C# / .NET 4.8 | 2021-04-05 |
 | [NT-Admin](https://github.com/VaderConsulting/NT-Admin) | Chips Bits Bytes VB6 Admin ActiveX: NetAPI32 NT users, groups, and PDC lookup. | VB6 | 2026-08-27 |
 | [Ntenum](https://github.com/VaderConsulting/Ntenum) | Novo Nordisk VB6 NTEnum: NetAPI32 domain user/group enum and User_Info_3 detail. | VB6 | 2026-08-27 |
 | [Ntinfo](https://github.com/VaderConsulting/Ntinfo) | Freelance VB6 NTInfo utility (`NTInfo.exe`) that on load reports Windows version (`GetVersionEx`), CPU class. | VB6 | 2026-08-27 |
@@ -286,14 +286,14 @@ If you recognise code in any repository as your own work and it is not properly 
 | [NWN-Constants](https://github.com/VaderConsulting/NWN-Constants) | VB6 utility: extract Neverwinter Nights NSS INT/FLOAT constants to CSV. | VB6 | 2026-08-27 |
 | [NWN-Include-Documenter](https://github.com/VaderConsulting/NWN-Include-Documenter) | VB6 NWScript documenter: parse NWSCRIPT.NSS into NWNFunctions2.xml. | VB6 | 2026-08-27 |
 | [Nwnrv](https://github.com/VaderConsulting/Nwnrv) | VB6 NWNRV.exe Neverwinter Nights resource viewer shell with byte-to-Long helper. | VB6 | 2026-08-27 |
-| [OLEDClock](https://github.com/VaderConsulting/OLEDClock) | Arduino OLED clock project with Visual Studio and `.ino` files. | Arduino / C++ | 2022-05-08 |
+| [OLEDClock](https://github.com/VaderConsulting/OLEDClock) | Arduino clock that draws time on a 128×32 SSD1306 OLED via Adafruit GFX/SSD1306, with a DS1307 RTC and a notched-shaft encoder to set hours and minutes. | Arduino / C++ | 2022-05-08 |
 | [Openview](https://github.com/VaderConsulting/Openview) | CSC VB6 HPOVAlert.exe: HP OpenView node up/down log to SQL and Monitoring alerts. | VB6 | 2026-08-27 |
-| [Operator-Console](https://github.com/VaderConsulting/Operator-Console) | VS 2008 VB.NET WinForms (.NET 3.5) working copy of the Stratatel CADS Operator Console: OperatorConsole is an MDI WinExe that calls gFunctions. | VB.NET / .NET | 2008-12-02 |
+| [Operator-Console](https://github.com/VaderConsulting/Operator-Console) | VS 2008 VB.NET WinForms (.NET 3.5) working copy of the Stratatel CADS Operator Console: OperatorConsole is an MDI WinExe that calls gFunctions.DoLogon then opens frmUserSearch against LDAP roots from. | VB.NET / .NET | 2008-12-02 |
 | [Outlook](https://github.com/VaderConsulting/Outlook) | CSC VB6 Outlook utilities: home/travel .prf switcher and CDO Public Folders analyzer. | VB6 | 2026-08-27 |
 | [OutlookAddIn1](https://github.com/VaderConsulting/OutlookAddIn1) | VS 2008 VB.NET VSTO (.NET 3.5) Outlook 2003 add-in whose ThisAddIn_Startup and ThisAddIn_Shutdown handlers are empty stubs (no login form or mail handling). | VB.NET / .NET | 2008-02-26 |
 | [OutlookAddIn2](https://github.com/VaderConsulting/OutlookAddIn2) | MailInEvent is a Visual Studio 2008 VSTO Outlook 2007 add-in that handles Application.NewMail. | - | 2008-02-26 |
 | [OutlookEvents](https://github.com/VaderConsulting/OutlookEvents) | This is a Visual Studio 2008 VB.NET WinForms program that starts an Outlook Application COM object and listens for NewMailEx. | VB.NET / .NET | 2008-02-26 |
-| [Owf.Controls.A1Panel](https://github.com/VaderConsulting/Owf.Controls.A1Panel) | This is a C# WinForms GradientPanel (namespace Owf.Controls) with border, drop shadow, and rounded corners. | C# | 2013-08-02 |
+| [Owf.Controls.A1Panel](https://github.com/VaderConsulting/Owf.Controls.A1Panel) | This is a C# WinForms `GradientPanel` (namespace `Owf.Controls`) with border, drop shadow, and rounded corners. | C# | 2013-08-02 |
 | [P2P](https://github.com/VaderConsulting/P2P) | This is a Visual Studio C# solution that experiments with Windows Peer Name Resolution Protocol (PNRP). | C# | 2013-09-21 |
 | [PakConfig](https://github.com/VaderConsulting/PakConfig) | VB6 Package Configuration UI (`PakConfig.exe`) with XP-styled controls to assign packages to computers and. | VB6 | 2026-08-27 |
 | [PC-Info](https://github.com/VaderConsulting/PC-Info) | VB6 remote PC inspector: WMI ping plus OS caption/version inventory. | VB6 | 2026-08-27 |
@@ -302,12 +302,12 @@ If you recognise code in any repository as your own work and it is not properly 
 | [PCTag](https://github.com/VaderConsulting/PCTag) | This is a Visual Studio 2008 VB.NET class library that models a laser-tag style player: health, name, gun, magazine, bullet, and ammo types (ball, tracer, rubber, and similar). | VB.NET / .NET | 2009-05-06 |
 | [PDATest](https://github.com/VaderConsulting/PDATest) | This is a Visual Studio 2008 VB.NET Windows Mobile 6 Professional (Pocket PC) WinForms app. | VB.NET / .NET | 2008-06-21 |
 | [Pegboard](https://github.com/VaderConsulting/Pegboard) | VB6 personnel location pegboard with leave/on-off, messages, print, barcode. | VB6 | 1998-06-01 |
-| [Perflogb](https://github.com/VaderConsulting/Perflogb) | CSC VB6 PerfLogB: extract Logon Start/End timing from KiXtart/batch logs. | VB6 | 2026-08-27 |
+| [Perflogb](https://github.com/VaderConsulting/Perflogb) | CSC VB6 PerfLogB (`PerfLogB.exe`): batch performance-log extract tool - scans KiXtart/batch `.log` files for Logon Start/Finish, Username, and SiteLoc, writes `c:\temp\PerfLogB.csv`, and charts. | VB6 | 2026-08-27 |
 | [Permgui](https://github.com/VaderConsulting/Permgui) | WA Police VB6 PermGUI: set folder/file ACLs (Full/Change/Read). | VB6 | 2026-08-27 |
 | [Persman](https://github.com/VaderConsulting/Persman) | Chips Bits Bytes VB6 Personnel Manager: Jet personnel/location/leave/messages. | VB6 | 1998-06-01 |
 | [Pete-Smith](https://github.com/VaderConsulting/Pete-Smith) | CSC VB6 domain helper: Perth sites CSV to NET GROUP/USER batch scripts. | VB6 | 2026-08-27 |
-| [Pharmacy-Assist](https://github.com/VaderConsulting/Pharmacy-Assist) | Manages all Pharmacy website and Product data. | - | 2014-06-09 |
-| [Pharmacy-Assistant](https://github.com/VaderConsulting/Pharmacy-Assistant) | Manages all Pharmacy website and Product data. | - | 2013-09-09 |
+| [Pharmacy-Assist](https://github.com/VaderConsulting/Pharmacy-Assist) | Manages all Pharmacy website and Product data. The C# WinForms suite edits catalogs, products, documents, events, tasks, and recurrences, and can publish files over FTP. | - | 2014-06-09 |
+| [Pharmacy-Assistant](https://github.com/VaderConsulting/Pharmacy-Assistant) | Manages all Pharmacy website and Product data. Pharmacy Assistant 1.3.5.0 is a C# .NET 3.5 WinForms program that logs on against SQL Server, then edits catalogs, products, stores, documents, events,. | - | 2013-09-09 |
 | [Phone](https://github.com/VaderConsulting/Phone) | Visual Studio 2008 VB.NET solution with two empty Compact Framework CallInfo class libraries for Windows Mobile. | VB.NET / .NET | 2010-02-17 |
 | [phone-VB6](https://github.com/VaderConsulting/phone-VB6) | CSC VB6 HRMF to Microsoft Exchange phonebook transfer (HRMF2MSX). | VB6 | 2026-08-27 |
 | [Photos](https://github.com/VaderConsulting/Photos) | VB6 Photos browser (`Photos.exe`) with a splash screen, folder DirList, and ListView of files previewed via. | VB6 | 2026-08-27 |
@@ -317,7 +317,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Ping](https://github.com/VaderConsulting/Ping) | CSC VB6 IP-range ping sweep and SMS/Compaq MIF inventory puller. | VB6 | 2026-08-27 |
 | [Pingctl](https://github.com/VaderConsulting/Pingctl) | CSC VB6 ActiveX ping control (ctlPing.ocx) with IP/timeout properties. | VB6 | 2026-08-27 |
 | [Pingfind](https://github.com/VaderConsulting/Pingfind) | CSC VB6 Rolling Ping: sweep IP ranges until N hosts found per subnet. | VB6 | 2026-08-27 |
-| [Pingtest](https://github.com/VaderConsulting/Pingtest) | CSC VB6 Ping Test harness for ctlPing.ocx against ADO server list. | VB6 | 2026-08-27 |
+| [Pingtest](https://github.com/VaderConsulting/Pingtest) | CSC VB6 Ping Test host (`PingTest.exe` / `Pingtest.vbp`): demo/harness for `ctlPing.ocx` - pick servers from ADO, Start/Loop/Stop ping with progress bars, optional CSV of round-trip times. | VB6 | 2026-08-27 |
 | [PipeClient](https://github.com/VaderConsulting/PipeClient) | Desaware VB6 Named Pipe Client sample connecting to \\.\pipe\vbpgpipe1. | VB6 | 1997-06-01 |
 | [PipeServer](https://github.com/VaderConsulting/PipeServer) | Desaware VB6 Named Pipe Server creating \\.\pipe\vbpgpipe1 for clients. | VB6 | 1997-06-01 |
 | [Pocket-Assistant](https://github.com/VaderConsulting/Pocket-Assistant) | This is a Visual Studio 2005 VB.NET Pocket PC app that converts among USD, AUD, THB, and LAK using hardcoded 2007 rates (USD 1, AUD 1.3, THB 32.47, LAK 9800). | VB.NET / .NET | 2007-06-10 |
