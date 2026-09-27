@@ -23,13 +23,13 @@ If you recognise code in any repository as your own work and it is not properly 
 | [_vb-split-probe](https://github.com/VaderConsulting/_vb-split-probe) | Minimal probe repository with only a placeholder README. | - | - |
 | [Accelerator-Keys](https://github.com/VaderConsulting/Accelerator-Keys) | Steve McMahon vbAccelerator Accelerator Control (`vbalHkCt.ocx`) for registering keyboard accelerators via a. | VB6 | 1999-06-01 |
 | [AccessPwdBreak](https://github.com/VaderConsulting/AccessPwdBreak) | Third-party "KNR's Access 97 Password Breaker" (VersionCompanyName smart software) that attempts to recover a Microsoft Access 97 database password. | Microsoft Access | 2026-08-27 |
-| [ACControls](https://github.com/VaderConsulting/ACControls) | WinForms ActionCentre control library with expandable message groups and design-time support. | C# / .NET 4.5.2 | 2016-10-02 |
+| [ACControls](https://github.com/VaderConsulting/ACControls) | C# Windows Forms custom controls library with ACTest host. | C# / .NET 4.5.2 | 2016-10-02 |
 | [Account-Extract](https://github.com/VaderConsulting/Account-Extract) | VB6 Domain Accounts / Users & Groups extractor (`AccountExtract.exe`) that enumerates users, groups, and. | VB6 | 2026-08-27 |
 | [ACL](https://github.com/VaderConsulting/ACL) | Freelance VB6 experiment that explores Active Directory and file ACL APIs (ADS_RIGHTS_ENUM, IADsSecurityDescriptor) from a simple WinForms host. | VB6 | 2026-08-27 |
 | [ACL2](https://github.com/VaderConsulting/ACL2) | Freelance VB6 follow-on to ACL that writes a test access-control entry (ACE) while exercising ADSI security-descriptor APIs. | VB6 | 2026-08-27 |
 | [ACL3](https://github.com/VaderConsulting/ACL3) | Freelance VB6 utility that works with DACLs using Win32 memory APIs for lower-level ACL manipulation. | VB6 | 2026-08-27 |
-| [active-directory-ldap-tools](https://github.com/VaderConsulting/active-directory-ldap-tools) | C# Visual Studio 2012 LDAP helper and ManageUsers WinForms app for Active Directory user lookup. | C# | 2013-10-22 |
-| [ActLog](https://github.com/VaderConsulting/ActLog) | Tracks user logon and logoff events. Includes LogBroker, Broker, and ActivityLogClient projects. | VB.NET | 2009-01-17 |
+| [active-directory-ldap-tools](https://github.com/VaderConsulting/active-directory-ldap-tools) | C# LDAP helper library and ManageUsers WinForms host for Active Directory user lookup. | C# | 2013-10-22 |
+| [ActLog](https://github.com/VaderConsulting/ActLog) | VB.NET suite that tracks user logon and logoff events via broker services and a client UI. | VB.NET | 2009-01-17 |
 | [Adafruit_BusIO](https://github.com/VaderConsulting/Adafruit_BusIO) | Arduino library with I2C/SPI register read/write examples and address detection sketches. | Arduino / C | 2022-03-01 |
 | [Adafruit_Circuit_Playground](https://github.com/VaderConsulting/Adafruit_Circuit_Playground) | Arduino library that drives Adafruit Circuit Playground sensors, NeoPixels, buttons, and board peripherals. | Arduino / C | 2021-12-10 |
 | [Adafruit_GFX_Library](https://github.com/VaderConsulting/Adafruit_GFX_Library) | Core Adafruit GFX graphics class that other Adafruit display libraries build on. | Arduino / C | 2022-01-25 |
@@ -56,7 +56,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Arduino](https://github.com/VaderConsulting/Arduino) | Legacy Arduino Visual Studio projects. Contains OLEDClock and HID_Joystick. | Arduino / C++ | 2020-09-03 |
 | [arduino_644462](https://github.com/VaderConsulting/arduino_644462) | Arduino sketch from the Arduino archive. | Arduino / C | 2018-05-21 |
 | [AssetControl](https://github.com/VaderConsulting/AssetControl) | VB6 Asset Control (`Asset Control.exe`) that looks up assets by barcode via ADO (description, type, category. | VB6 | 2005-06-01 |
-| [AssetImporter](https://github.com/VaderConsulting/AssetImporter) | ASP.NET VB.NET Defence/fleet asset importer for validating and importing Excel/CSV org-unit sheets into SQL Server. | VB.NET | 2006-07-03 |
+| [AssetImporter](https://github.com/VaderConsulting/AssetImporter) | ASP.NET VB.NET Defence/fleet asset sheet importer and validator (Excel/CSV to SQL Server). | VB.NET | 2006-07-03 |
 | [Audio-Database](https://github.com/VaderConsulting/Audio-Database) | VB6 Audio Database (`AudioDB.exe`) music catalog with Access MDBs (`Music.mdb` / variants). | VB6 | 2026-08-27 |
 | [Audio-Player](https://github.com/VaderConsulting/Audio-Player) | VB6 Audio Player (`Audio Player.exe`) with a playlist UI and Windows Media Player OCX (`msdxm.ocx`), plus a. | VB6 | 2026-08-27 |
 | [Audit](https://github.com/VaderConsulting/Audit) | Freelance VB6 PC Audit tool (Audit.exe) that records computer name, IP/MAC, OS, hotfixes, installed applications, local accounts, and services. | VB6 | 2026-08-27 |
@@ -530,7 +530,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [XNAEngine](https://github.com/VaderConsulting/XNAEngine) | Visual Studio 2008 VB.NET XNA 3.1 engine with camera, skybox, heightmap terrain, models, textures, XACT sound, and bitmap text. | VB.NET / .NET | 2009-07-12 |
 | [XP-Style](https://github.com/VaderConsulting/XP-Style) | VB6 XP Style helper (`XP Style.vbp`) that writes an application `.exe.manifest` so Windows XP+ draws common controls with visual styles. | VB6 | 2003-06-22 |
 | [xxxModelShredder](https://github.com/VaderConsulting/xxxModelShredder) | Johannes Rudolph's C# ModelShredder that turns IEnumerable objects into DataTables via IL emit. | C# | 2013-06-20 |
-| [Z32](https://github.com/VaderConsulting/Z32) | C# Nissan 300ZX (Z32) ECU serial diagnostics: Consult 9600 baud, live sensors, DTC read/clear, and WinForms hosts. | C# | 2020-09-02 |
+| [Z32](https://github.com/VaderConsulting/Z32) | C# Nissan 300ZX (Z32) ECU serial diagnostics: Consult protocol, live sensors, DTC read/clear. | C# | 2020-09-02 |
 | [Zed](https://github.com/VaderConsulting/Zed) | Nissan Consult I ECU library for .NET Framework 4.0 implementing the serial diagnostic protocol: real-time sensor streaming (RPM, MAF, coolant temp, O2, speed, battery, throttle), fault-code retrieval, and active actuator tests. | C# / .NET 4.0 | 2012-10-17 |
 | [Zephyr-Android](https://github.com/VaderConsulting/Zephyr-Android) | B4A (Basic4Android) test app that talks to a Zephyr Bluetooth heart-rate / fitness device over serial. | B4A | 2015-06-20 |
 | [Zeta-HTML-Edit-Control](https://github.com/VaderConsulting/Zeta-HTML-Edit-Control) | C# WinForms HTML editor from Zeta Software GmbH (Uwe Keim) wrapping the .NET WebBrowser control for rich HTML editing. | C# / .NET | 2013-08-23 |
