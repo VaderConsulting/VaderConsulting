@@ -68,7 +68,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [B4A](https://github.com/VaderConsulting/B4A) | B4A source from Dave Robinson's Historical Dev archive. | B4A | 2015-06-20 |
 | [B4A_2](https://github.com/VaderConsulting/B4A_2) | Loads and displays B4a Objects. Includes DocLoader, HtmlRichTextBox, CommunityLibrary, LibraryObjects, and TreeViewWalker projects. | C# / .NET 2.0-4.0 | 2013-03-09 |
 | [B4x](https://github.com/VaderConsulting/B4x) | Anywhere Software B4X additional libraries and tool projects (B4A, B4i, B4J, B4R) plus the b4xlib2XML converter. | - | 2021-10-01 |
-| [Balloon](https://github.com/VaderConsulting/Balloon) | VB.NET working copy of Balloon from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB.NET / .NET | 2026-08-27 |
+| [Balloon](https://github.com/VaderConsulting/Balloon) | VB.NET balloon tip / tray notification sample from Historical Dev VB/Old. | VB.NET / .NET | 2026-08-27 |
 | [BalloonTips](https://github.com/VaderConsulting/BalloonTips) | Class library and test project. Assembly metadata references Microsoft. | VB.NET / .NET 3.5 | 2010-02-05 |
 | [Bandwidth](https://github.com/VaderConsulting/Bandwidth) | VB6 systray and desktop bandwidth monitor (CS Bandwidth Monitor.exe) built on IP Helper / netstat wrappers (CIpHelper, interface classes) with settings, stats, and colour UI forms. | VB6 | 2026-08-27 |
 | [Barcodes](https://github.com/VaderConsulting/Barcodes) | Third-party Code 39 barcode generator by Allen Allegretto (Barcode.exe / BarcodeGenerator). | - | 2026-08-27 |
@@ -90,7 +90,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [ClientSvr](https://github.com/VaderConsulting/ClientSvr) | Royal Australian Navy VB6 Lee (`Lee.exe`) client/server lab tool over Winsock: server lists client. | VB6 | 2026-08-27 |
 | [Clipboard](https://github.com/VaderConsulting/Clipboard) | SP McMahon VB6 clipboard toolkit (`ptest.vbp`): `cCustomClipboard` for full Win32 clipboard open/clear/custom. | VB6 | 2026-08-27 |
 | [Cmc](https://github.com/VaderConsulting/Cmc) | Chips, Bits and Bytes VB6 CMC browser (`Project1.vbp` / `Form1`) over Jet Access `CMC.MDB`: ADO DataGrid plus. | VB6 | 2026-08-27 |
-| [Codeswap](https://github.com/VaderConsulting/Codeswap) | VB.NET working copy of Codeswap from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB.NET / .NET | 2026-08-27 |
+| [Codeswap](https://github.com/VaderConsulting/Codeswap) | Incomplete CodeSwap config and redacted VB.NET tray sample for shared Upload/Download folders. | VB.NET / .NET | 2026-08-27 |
 | [Collect](https://github.com/VaderConsulting/Collect) | CSC VB6 asset-collection launcher (`CSCCollect.exe` / `Collect.vbp`): shows a brief "Sending your computers. | VB6 | 2026-08-27 |
 | [Communication](https://github.com/VaderConsulting/Communication) | WCF communications with Client, Server, and WCFComms projects. Assembly company: Stratatel. | C# / .NET 3.5 | 2008-05-28 |
 | [ConfigLoader](https://github.com/VaderConsulting/ConfigLoader) | Windows configuration loader application. Assembly company: Stratatel. | VB.NET / .NET 3.5 | 2008-09-02 |
@@ -164,7 +164,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [GetUserbySID](https://github.com/VaderConsulting/GetUserbySID) | CSC VB6 Logon 3.2 background process that scans domain user SIDs via Active DS. | VB6 | 2026-08-27 |
 | [glib-sharp-master](https://github.com/VaderConsulting/glib-sharp-master) | GLibSharp is a C# wrapper for the GLib library, kept as a Dave Robinson working copy of third-party GtkSharp / glib-sharp sources. | C# | 2026-04-03 |
 | [GPS](https://github.com/VaderConsulting/GPS) | VB.NET 2005 WinForms sample (High-Precision GPS Application (VB.NET).sln, assembly CodeProject Examples for Part 2) whose Form1 (title High-Precision GPS Example) parses NMEA text or COM2 serial at 4800 baud. | VB.NET / .NET 2005 | 2006-07-03 |
-| [GroupMon-VB](https://github.com/VaderConsulting/GroupMon-VB) | Historical VB.NET tooling for monitoring Active Directory group membership changes. Multiple versioned snapshots (0.9-2.0) and service projects. | VB.NET | 2012-07-07 |
+| [GroupMon-VB](https://github.com/VaderConsulting/GroupMon-VB) | VB.NET Windows service that watches Active Directory group membership and emails alerts on changes. | VB.NET | 2012-07-07 |
 | [Gst](https://github.com/VaderConsulting/Gst) | Chips Bits Bytes VB6 GST Tool for product pricing with Australian GST markup calc. | VB6 | 2026-08-27 |
 | [GUID-Creator](https://github.com/VaderConsulting/GUID-Creator) | Small VB6 utility that generates GUIDs for scripts, COM wiring, installers, and config files that need a unique key. | VB6 | 2026-08-27 |
 | [Guiddll](https://github.com/VaderConsulting/Guiddll) | VB6 ActiveX DLL (`GUIDDLL.dll`) exposing a `GUID` class that wraps `CoCreateGuid` / `StringFromGUID2` and. | VB6 | 2026-08-27 |
@@ -199,7 +199,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Isadmin](https://github.com/VaderConsulting/Isadmin) | NRMA VB6 IsAdmin demo that checks Administrators group via access-token SIDs. | VB6 | 2026-08-27 |
 | [Keyboard](https://github.com/VaderConsulting/Keyboard) | Lets a USB-capable Arduino board act as a HID keyboard. | Arduino / C | 2021-11-04 |
 | [LabelPrinting](https://github.com/VaderConsulting/LabelPrinting) | C# Address Label Printing API for Windows (Peter John, 2007, LGPLv2.1) kept as a working copy. | C# | 2013-06-13 |
-| [Lasertag-VB6](https://github.com/VaderConsulting/Lasertag-VB6) | VB6 Lasertag-related utility preserved from Dave Robinson's OneDrive Historical Dev VB folder. | VB6 | 2026-08-27 |
+| [Lasertag-VB6](https://github.com/VaderConsulting/Lasertag-VB6) | Freelance VB6 Lasertag registration helper (Register Clan / Register Player). | VB6 | 2026-08-27 |
 | [LastLogon-VB](https://github.com/VaderConsulting/LastLogon-VB) | WinForms utility that queries Active Directory for the newest last-logon time across domain controllers. | VB.NET | 2007-08-20 |
 | [Launch](https://github.com/VaderConsulting/Launch) | CBB VB6 Launcher (v4.5.2) for NT4/Win95 with tabs, systray, printers, and admin page. | VB6 | 1998-06-01 |
 | [LCDProject](https://github.com/VaderConsulting/LCDProject) | VS 2008 VB.NET WinForms (.NET 3.5) working copy. | VB.NET / .NET | 2008-09-05 |
@@ -282,7 +282,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Ntinfo](https://github.com/VaderConsulting/Ntinfo) | Freelance VB6 NTInfo utility (`NTInfo.exe`) that on load reports Windows version (`GetVersionEx`), CPU class. | VB6 | 2026-08-27 |
 | [Ntsec](https://github.com/VaderConsulting/Ntsec) | ACN VB6 WinNtSecurity.exe: Advapi32 DACL add/list demo on a named file. | VB6 | 2026-08-27 |
 | [Nucleus](https://github.com/VaderConsulting/Nucleus) | CSC VB6 Nucleus: spawn collectors, zip C:\Nucleus, McAfee/DiskStats inventory. | VB6 | 2026-08-27 |
-| [Nuget](https://github.com/VaderConsulting/Nuget) | Multi-surface NuGet package auditing system (CLI, WPF workbench, VS extension). Discovers packages, enriches with nuget.org health data, calculates criticality scores, persists snapshots. | C# / .NET 10 | 2026-04-04 |
+| [Nuget](https://github.com/VaderConsulting/Nuget) | Multi-surface NuGet package auditing system (CLI, WPF workbench, VS extension) with health scoring and deltas. | C# / .NET 10 | 2026-04-04 |
 | [NWN-Constants](https://github.com/VaderConsulting/NWN-Constants) | VB6 utility: extract Neverwinter Nights NSS INT/FLOAT constants to CSV. | VB6 | 2026-08-27 |
 | [NWN-Include-Documenter](https://github.com/VaderConsulting/NWN-Include-Documenter) | VB6 NWScript documenter: parse NWSCRIPT.NSS into NWNFunctions2.xml. | VB6 | 2026-08-27 |
 | [Nwnrv](https://github.com/VaderConsulting/Nwnrv) | VB6 NWNRV.exe Neverwinter Nights resource viewer shell with byte-to-Long helper. | VB6 | 2026-08-27 |
@@ -448,7 +448,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Systray](https://github.com/VaderConsulting/Systray) | VB6 system tray bag: SysTray Icon OCX, a tray icon example, and the DOJ Marquee Settings tray app. | VB6 | 2001-08-23 |
 | [Tagger](https://github.com/VaderConsulting/Tagger) | VB.NET Pocket PC lasertag scoreboard with six team scores and two Start/Stop/Reset clocks. | VB.NET / .NET | 2004-10-05 |
 | [Tankwars](https://github.com/VaderConsulting/Tankwars) | VB6 3D Tank Wars game by Mark Burgess: mouse-drive a tank, click to fire, and play or build levels. | VB6 | 2001-05-06 |
-| [TaskbarApp](https://github.com/VaderConsulting/TaskbarApp) | VB.NET working copy of TaskbarApp from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB.NET / .NET | 2026-08-27 |
+| [TaskbarApp](https://github.com/VaderConsulting/TaskbarApp) | VB.NET taskbar / tray application sample from Historical Dev VB/Old. | VB.NET / .NET | 2026-08-27 |
 | [TaskManagerLibrary](https://github.com/VaderConsulting/TaskManagerLibrary) | C# WinForms UserControl that runs long-running tasks and reports status via a combo box and progress bar. | C# | 2018-02-22 |
 | [Tasks](https://github.com/VaderConsulting/Tasks) | VB6 BEAware task browser that lists and creates Task Scheduler jobs on selected target servers. | VB6 | 2001-01-11 |
 | [Tcp](https://github.com/VaderConsulting/Tcp) | VB6 ActiveX DLL wrapping the CSocket Winsock API class with a Peer server helper, as an alternative to the Winsock OCX. | VB6 | 2003-02-10 |
@@ -519,9 +519,9 @@ If you recognise code in any repository as your own work and it is not properly 
 | [WheelOfTime](https://github.com/VaderConsulting/WheelOfTime) | VB.NET Visual Studio 2008 WinForms MUD client that talks Telnet-style ASCII to a hardcoded game host on port 2222. | VB.NET / .NET | 2010-02-10 |
 | [WIN32-API-Constants](https://github.com/VaderConsulting/WIN32-API-Constants) | Standalone VB6 `API.bas` module of Win32 API constant and related declarations for reuse across VB6 projects. | VB6 | 2003-08-13 |
 | [WindowsApplication1](https://github.com/VaderConsulting/WindowsApplication1) | Visual Studio 2008 .NET 3.5 WinForms scratch: VB Form1 tries to reverse "abc123" on load; unused C# template sits beside it. | C# / .NET 3.5 | 2011-04-22 |
-| [WindowsService1](https://github.com/VaderConsulting/WindowsService1) | VB.NET working copy of WindowsService1 from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB.NET / .NET | 2026-08-27 |
+| [WindowsService1](https://github.com/VaderConsulting/WindowsService1) | VB.NET Windows service starter project from Historical Dev VB/Old. | VB.NET / .NET | 2026-08-27 |
 | [WindowsVBGame1](https://github.com/VaderConsulting/WindowsVBGame1) | Visual Studio 2008 VB.NET WinForms host that starts a stock XNA 3.1 Game1 on Button1. | VB.NET / .NET | 2009-07-12 |
-| [WinForms-Calc](https://github.com/VaderConsulting/WinForms-Calc) | VB.NET working copy of WinForms-Calc from Dave Robinson's OneDrive Historical Dev VB/Old folder. | VB.NET / .NET | 2026-08-27 |
+| [WinForms-Calc](https://github.com/VaderConsulting/WinForms-Calc) | VB.NET WinForms calculator sample from Historical Dev VB/Old. | VB.NET / .NET | 2026-08-27 |
 | [WinLogon-Notification](https://github.com/VaderConsulting/WinLogon-Notification) | VB6 ActiveX DLL (`Notification` / `drNotification`) that defines the Winlogon `WLX_NOTIFICATION_INFO` structure for Winlogon notification package work. | VB6 | 2003-10-24 |
 | [Wol](https://github.com/VaderConsulting/Wol) | VB6 Mini Discover (`MiniDisc.exe`) that loads `audit.xml` of WMI classes to query, runs discovery against a computer via WMI/ADSI/MSXML, and writes discovery output. | - | 2003-02-06 |
 | [Word](https://github.com/VaderConsulting/Word) | VB6 Word Property Search (`WordProp.exe` / `prjWordProperties`) that walks a folder for `*.doc` files and matches Word document property values. | VB6 | 2003-02-27 |
