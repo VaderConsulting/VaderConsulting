@@ -334,7 +334,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Quarantine-Exceptions](https://github.com/VaderConsulting/Quarantine-Exceptions) | CSC VB6 Quarantine Exemptions: parse Trend SMEX redalert.log and manage exemptions. | VB6 | 2026-08-27 |
 | [QueryTool](https://github.com/VaderConsulting/QueryTool) | Rio Tinto Policy Query Tool (QueryTool.vbp) - a VB6 WinForms utility for querying policy-related data. | VB6 | 2026-08-27 |
 | [quickevents](https://github.com/VaderConsulting/quickevents) | Italsys VB6 Event Viewer sample reading local/remote Application/Security/System logs. | VB6 | 2026-08-27 |
-| [RAppCreate](https://github.com/VaderConsulting/RAppCreate) | VB6 Remote Application Execution: WMI-based remote process create helper. | VB6 | 2026-08-27 |
+| [RAppCreate](https://github.com/VaderConsulting/RAppCreate) | VB6 Remote Application Execution (`RAppCreate.exe` / `Remote_App_Create`): WMI `Win32_Process.Create` against a remote host with domain credentials - enter hostname, user, password, and command, then. | VB6 | 2026-08-27 |
 | [RawInput](https://github.com/VaderConsulting/RawInput) | This is a C# WinForms working copy of a WM_INPUT keyboard library (RawInput_dll) plus a Keyboard demo host. | C# | 2017-03-21 |
 | [Readify](https://github.com/VaderConsulting/Readify) | C# practice work for a Readify competency screen. | C# | 2013-05-16 |
 | [Readify-Puzzles](https://github.com/VaderConsulting/Readify-Puzzles) | VB.NET class library with a Readify-style coding puzzle: Puzzle1.ElementFromLinkedList returns the nth item from the end of a LinkedList(Of Int32). | VB.NET / .NET | 2011-10-27 |
