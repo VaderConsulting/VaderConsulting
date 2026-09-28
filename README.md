@@ -92,11 +92,11 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Cmc](https://github.com/VaderConsulting/Cmc) | Chips, Bits and Bytes VB6 CMC browser (`Project1.vbp` / `Form1`) over Jet Access `CMC.MDB`: ADO DataGrid plus. | VB6 | 2026-08-27 |
 | [Codeswap](https://github.com/VaderConsulting/Codeswap) | Incomplete CodeSwap tree: `dnconfig.xml` points at shared Upload/Download folders for swapping code, plus a redacted VB.NET WinForms tray... | VB.NET / .NET | 2026-08-27 |
 | [Collect](https://github.com/VaderConsulting/Collect) | CSC VB6 asset-collection launcher (`CSCCollect.exe` / `Collect.vbp`): shows a brief "Sending your computers. | VB6 | 2026-08-27 |
-| [Communication](https://github.com/VaderConsulting/Communication) | Client Working copy from my Historical Dev folder. | C# / .NET 3.5 | 2008-05-28 |
-| [ConfigLoader](https://github.com/VaderConsulting/ConfigLoader) | WindowsApplication1 Working copy from my Historical Dev folder. | VB.NET / .NET 3.5 | 2008-09-02 |
+| [Communication](https://github.com/VaderConsulting/Communication) | C# WCF Client/Server sample with Stratatel IComms contract on .NET Framework 3.5. | C# / .NET 3.5 | 2008-05-28 |
+| [ConfigLoader](https://github.com/VaderConsulting/ConfigLoader) | VB.NET WinForms harness that reads hierarchical settings from AppConfig.xml. | VB.NET / .NET 3.5 | 2008-09-02 |
 | [Conmon](https://github.com/VaderConsulting/Conmon) | VB6 Connection Monitor (`ConMon.exe`) that polls `GetIfTable` (iphlpapi) once a second and shows LAN vs RAS. | VB6 | 2026-08-27 |
-| [Connected](https://github.com/VaderConsulting/Connected) | VB.NET Visual Studio project from the Historical Dev archive. Working copy from my Historical Dev folder. | VB.NET | 2004-08-17 |
-| [ConnectedUsers](https://github.com/VaderConsulting/ConnectedUsers) | VB.NET Visual Studio project from the Historical Dev archive. Working copy from my Historical Dev folder. | VB.NET / .NET | 2004-08-17 |
+| [Connected](https://github.com/VaderConsulting/Connected) | VB.NET WinForms tool that enumerates SMB sessions and open files on a file server. | VB.NET | 2004-08-17 |
+| [ConnectedUsers](https://github.com/VaderConsulting/ConnectedUsers) | VB.NET WinForms tool that enumerates SMB sessions and open files on a file server. | VB.NET | 2004-08-17 |
 | [Connection-Manager](https://github.com/VaderConsulting/Connection-Manager) | D. Robinson VB6 Connection Manager (`ConnManager.exe`, (c) 2001): tray app that stores named multi-domain drive. | VB6 | 2001-06-01 |
 | [Console](https://github.com/VaderConsulting/Console) | Chips, Bits and Bytes VB6 console demo (`VBConsole.exe` / `VBConsole.vbp`): Win32 `AllocConsole` /. | VB6 | 2026-08-27 |
 | [Consult_Protocol_and_Commands_Issue_6](https://github.com/VaderConsulting/Consult_Protocol_and_Commands_Issue_6) | Historical working folder for Nissan Consult ECU protocol research. The primary content is the Reference Info set of Consult Protocol and... | PDF / VB.NET | 2009-07-05 |
@@ -197,7 +197,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Integration](https://github.com/VaderConsulting/Integration) | VB6 DocsOpen / Hummingbird integration switcher (`Integration.exe`, Sub Main) that takes `on` or `off` from. | VB6 | 2026-08-27 |
 | [Irc-code](https://github.com/VaderConsulting/Irc-code) | 1996 IRCPre2 educational Winsock IRC preface client by Dann M. Daggett II. | VB6 | 1996-06-01 |
 | [Isadmin](https://github.com/VaderConsulting/Isadmin) | NRMA VB6 IsAdmin demo that checks Administrators group via access-token SIDs. | VB6 | 2026-08-27 |
-| [Keyboard](https://github.com/VaderConsulting/Keyboard) | Working copy of the Arduino Keyboard library (arduino-libraries/Keyboard). Lets an Arduino board with USB capabilities act as a HID keyboard for host machines. | Arduino / C | 2024-01-15 |
+| [Keyboard](https://github.com/VaderConsulting/Keyboard) | Arduino USB HID Keyboard library working copy (Arduino LLC / Peter Barrett), v1.0.3. | Arduino / C++ | 2021-11-04 |
 | [LabelPrinting](https://github.com/VaderConsulting/LabelPrinting) | C# Address Label Printing API for Windows (Peter John, 2007, LGPLv2.1) kept as a working copy. | C# | 2013-06-13 |
 | [Lasertag-VB6](https://github.com/VaderConsulting/Lasertag-VB6) | Freelance VB6 Lasertag registration helper (Register Clan / Register Player). | VB6 | 2026-08-27 |
 | [LastLogon-VB](https://github.com/VaderConsulting/LastLogon-VB) | VB.NET WinForms utility that queries Active Directory for the newest last-logon time across domain controllers. | VB.NET | 2007-08-20 |
