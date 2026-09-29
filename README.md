@@ -123,7 +123,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Diamond](https://github.com/VaderConsulting/Diamond) | VB6 MDI warranty desk for Access stock/warranty/suppliers with barcode scan and stepped repair flow. | VB6 | 2026-08-27 |
 | [DirectSoundDemo](https://github.com/VaderConsulting/DirectSoundDemo) | C# WinForms DirectSound player that loads a WAV, plays it, and exposes volume, pan, seek, device, and effect controls. It enumerates Dire... | C# | 2009-01-18 |
 | [Disksize](https://github.com/VaderConsulting/Disksize) | VB6 domain disk scanner that maps C$-K$ admin shares and can log capacity into SQL AdmDisk tables. | VB6 | 2026-08-27 |
-| [Dive.Scenarios](https://github.com/VaderConsulting/Dive.Scenarios) | **Source last updated:** 2026-07-06 | C# | 2026-07-06 |
+| [Dive.Scenarios](https://github.com/VaderConsulting/Dive.Scenarios) | C# adapter that maps Dive scenario schema v1.0 JSON into the Dive simulator canonical runtime model. | C# | 2026-07-06 |
 | [dockpanelsuite-master](https://github.com/VaderConsulting/dockpanelsuite-master) | Weifen Luo's DockPanel Suite (assembly WeifenLuo.WinFormsUI.Docking 2.8.0.0), a C# Windows Forms docking library with a DockSample demo. ... | C# | 2015-06-20 |
 | [DomainInfo](https://github.com/VaderConsulting/DomainInfo) | VB6 Domain Info utility (DomInfo.exe) for querying basic domain information from a simple WinForms host. | VB6 | 2026-08-27 |
 | [DOTNETCOM](https://github.com/VaderConsulting/DOTNETCOM) | VB.NET COM-visible class library whose `Hello` ComClass exposes `HelloWorld(strName)` returning `"Hello " & strName`. The assembly is sig... | VB.NET / .NET | 2007-09-09 |
