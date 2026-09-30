@@ -29,6 +29,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [ACL2](https://github.com/VaderConsulting/ACL2) | Freelance VB6 follow-on to ACL that writes a test access-control entry (ACE) while exercising ADSI security-descriptor APIs. | VB6 | 2026-08-27 |
 | [ACL3](https://github.com/VaderConsulting/ACL3) | Freelance VB6 utility that works with DACLs using Win32 memory APIs for lower-level ACL manipulation. | VB6 | 2026-08-27 |
 | [active-directory-ldap-tools](https://github.com/VaderConsulting/active-directory-ldap-tools) | C# LDAP helper library and ManageUsers WinForms host for Active Directory user lookup. | C# | 2013-10-22 |
+| [active-directory-user-membership](https://github.com/VaderConsulting/active-directory-user-membership) | VB.NET WinForms tool that looks up an AD user by sAMAccountName and shows account flags and group membership. | VB.NET / .NET 2.0 | 2008-02-18 |
 | [ActLog](https://github.com/VaderConsulting/ActLog) | VB.NET suite that tracks user logon and logoff events via broker services and a client UI. | VB.NET | 2009-01-17 |
 | [Adafruit_BusIO](https://github.com/VaderConsulting/Adafruit_BusIO) | Arduino library with I2C/SPI register read/write examples and address detection sketches. | Arduino / C | 2022-03-01 |
 | [Adafruit_Circuit_Playground](https://github.com/VaderConsulting/Adafruit_Circuit_Playground) | Arduino library that drives Adafruit Circuit Playground sensors, NeoPixels, buttons, and board peripherals. | Arduino / C | 2021-12-10 |
@@ -127,6 +128,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [dockpanelsuite-master](https://github.com/VaderConsulting/dockpanelsuite-master) | Weifen Luo's DockPanel Suite (assembly WeifenLuo.WinFormsUI.Docking 2.8.0.0), a C# Windows Forms docking library with a DockSample demo. ... | C# | 2015-06-20 |
 | [DomainInfo](https://github.com/VaderConsulting/DomainInfo) | VB6 Domain Info utility (DomInfo.exe) for querying basic domain information from a simple WinForms host. | VB6 | 2026-08-27 |
 | [DOTNETCOM](https://github.com/VaderConsulting/DOTNETCOM) | VB.NET COM-visible class library whose `Hello` ComClass exposes `HelloWorld(strName)` returning `"Hello " & strName`. The assembly is sig... | VB.NET / .NET | 2007-09-09 |
+| [DRPT](https://github.com/VaderConsulting/DRPT) | C# WinForms DR Planning Tool that maps applications, services and servers into disaster recovery plans from Orbus iServer inventory. | C# / .NET | 2016-02-03 |
 | [Embedded](https://github.com/VaderConsulting/Embedded) | C# .NET Micro Framework working copies: FEZ Panda II Application1 (Realtag watchdog, SD config, display/keypad), Panda Encoder (GHI FEZ r... | C# / .NET | 2012-11-10 |
 | [Encoder](https://github.com/VaderConsulting/Encoder) | Counts quadrature pulses from rotary and linear position encoders. | Arduino / C | 2020-11-13 |
 | [Enterprise-Management](https://github.com/VaderConsulting/Enterprise-Management) | VB6 Winsock logon client/server suite (port 1001) plus User Management for drive/printer mapping at logon. | VB6 | 2026-08-27 |
@@ -166,6 +168,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [GPS](https://github.com/VaderConsulting/GPS) | VB.NET 2005 WinForms sample (`High-Precision GPS Application (VB.NET).sln`, assembly CodeProject Examples for Part 2) whose Form1 (title High-Precision GPS Example) parses NMEA text or COM2 serial at. | VB.NET / .NET 2005 | 2006-07-03 |
 | [GroupMon-VB](https://github.com/VaderConsulting/GroupMon-VB) | VB.NET Windows service that watches Active Directory group membership and emails alerts when members are added or removed. | VB.NET | 2012-07-07 |
 | [Gst](https://github.com/VaderConsulting/Gst) | Chips Bits Bytes VB6 GST Tool for product pricing with Australian GST markup calc. | VB6 | 2026-08-27 |
+| [gstreamer-sharp-1.29.1](https://github.com/VaderConsulting/gstreamer-sharp-1.29.1) | .NET/Mono bindings for GStreamer (gstreamer-sharp 1.29.1 working copy) with C# samples and meson/MSBuild support. | C# / .NET / Mono | 2026-04-04 |
 | [GUID-Creator](https://github.com/VaderConsulting/GUID-Creator) | Small VB6 utility that generates GUIDs for scripts, COM wiring, installers, and config files that need a unique key. | VB6 | 2026-08-27 |
 | [Guiddll](https://github.com/VaderConsulting/Guiddll) | VB6 ActiveX DLL (`GUIDDLL.dll`) exposing a `GUID` class that wraps `CoCreateGuid` / `StringFromGUID2` and. | VB6 | 2026-08-27 |
 | [Haiku](https://github.com/VaderConsulting/Haiku) | VB.NET VS 2010 working copy of Stratatel Haiku Candy: VSTO Outlook 2007/2010 add-ins (assemblies Stratatel.HaikuCandy2007 / Stratatel.HaikuCandy2010) that set a new MailItem to HTML and inject the. | VB.NET / .NET 2.0, .NET 3.5, .NET 4.0 | 2011-07-05 |
@@ -197,12 +200,14 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Integration](https://github.com/VaderConsulting/Integration) | VB6 DocsOpen / Hummingbird integration switcher (`Integration.exe`, Sub Main) that takes `on` or `off` from. | VB6 | 2026-08-27 |
 | [Irc-code](https://github.com/VaderConsulting/Irc-code) | 1996 IRCPre2 educational Winsock IRC preface client by Dann M. Daggett II. | VB6 | 1996-06-01 |
 | [Isadmin](https://github.com/VaderConsulting/Isadmin) | NRMA VB6 IsAdmin demo that checks Administrators group via access-token SIDs. | VB6 | 2026-08-27 |
+| [Judo](https://github.com/VaderConsulting/Judo) | C# tools for judo events and clubs: UDP scoreboards, venue displays, kata scoring, membership and Revolutionise export. | C# / .NET | 2025-11-23 |
 | [Keyboard](https://github.com/VaderConsulting/Keyboard) | Arduino USB HID Keyboard library working copy (Arduino LLC / Peter Barrett), v1.0.3. | Arduino / C++ | 2021-11-04 |
 | [LabelPrinting](https://github.com/VaderConsulting/LabelPrinting) | C# Address Label Printing API for Windows (Peter John, 2007, LGPLv2.1) kept as a working copy. | C# | 2013-06-13 |
 | [Lasertag-VB6](https://github.com/VaderConsulting/Lasertag-VB6) | Freelance VB6 Lasertag registration helper (Register Clan / Register Player). | VB6 | 2026-08-27 |
 | [LastLogon-VB](https://github.com/VaderConsulting/LastLogon-VB) | VB.NET WinForms utility that queries Active Directory for the newest last-logon time across domain controllers. | VB.NET | 2007-08-20 |
 | [Launch](https://github.com/VaderConsulting/Launch) | CBB VB6 Launcher (v4.5.2) for NT4/Win95 with tabs, systray, printers, and admin page. | VB6 | 1998-06-01 |
 | [LCDProject](https://github.com/VaderConsulting/LCDProject) | VS 2008 VB.NET WinForms (.NET 3.5) working copy. Form1_Load calls InitialiseLCD (AxUSB_LCD1.WR_P0(1)) then ConnectToLCD (Find_USB_Device) and logs Connected to the console; Toggle_LCD_Enable_Line. | VB.NET / .NET | 2008-09-05 |
+| [Learning](https://github.com/VaderConsulting/Learning) | Small C# console app used to practise Git branching and merge workflows. | C# / .NET 6.0 | 2022-11-11 |
 | [LEDClock](https://github.com/VaderConsulting/LEDClock) | Arduino clock that shows time on a TM1637 4-digit display, keeps time with a DS1307 RTC (`RTClib`), and uses a notched-shaft encoder to set hours and minutes. | Arduino / C | 2021-02-01 |
 | [Linker](https://github.com/VaderConsulting/Linker) | VB6 Linker (`Linker.exe`) that expects a file path on the command line, strips quotes, and opens it with. | VB6 | 2026-08-27 |
 | [Linqkit](https://github.com/VaderConsulting/Linqkit) | Third-party LINQKit (Joseph Albahari, Tomas Petricek, MIT) working copy. PredicateBuilder.True/False/And/Or compose Expression<Func<T,bool>>; ExpandableQuery and ExpressionExpander let Invoke'd. | - | 2013-08-23 |
@@ -287,6 +292,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [NWN-Include-Documenter](https://github.com/VaderConsulting/NWN-Include-Documenter) | VB6 NWScript documenter: parse NWSCRIPT.NSS into NWNFunctions2.xml. | VB6 | 2026-08-27 |
 | [Nwnrv](https://github.com/VaderConsulting/Nwnrv) | VB6 NWNRV.exe Neverwinter Nights resource viewer shell with byte-to-Long helper. | VB6 | 2026-08-27 |
 | [OLEDClock](https://github.com/VaderConsulting/OLEDClock) | Arduino clock that draws time on a 128×32 SSD1306 OLED via Adafruit GFX/SSD1306, with a DS1307 RTC and a notched-shaft encoder to set hours and minutes. | Arduino / C++ | 2022-05-08 |
+| [onvifdm-code-r96-trunk](https://github.com/VaderConsulting/onvifdm-code-r96-trunk) | ONVIF Device Manager (ODM) Network Video Client for ONVIF IP cameras, encoders, storage and analytics. | C# / F# / C++ | 2019-10-10 |
 | [Openview](https://github.com/VaderConsulting/Openview) | CSC VB6 HPOVAlert.exe: HP OpenView node up/down log to SQL and Monitoring alerts. | VB6 | 2026-08-27 |
 | [Operator-Console](https://github.com/VaderConsulting/Operator-Console) | VS 2008 VB.NET WinForms (.NET 3.5) working copy of the Stratatel CADS Operator Console: OperatorConsole is an MDI WinExe that calls gFunctions.DoLogon then opens frmUserSearch against LDAP roots from. | VB.NET / .NET | 2008-12-02 |
 | [Outlook](https://github.com/VaderConsulting/Outlook) | CSC VB6 Outlook utilities: home/travel .prf switcher and CDO Public Folders analyzer. | VB6 | 2026-08-27 |
@@ -371,6 +377,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [RunRemote](https://github.com/VaderConsulting/RunRemote) | VB.NET Remoting.Common library: serve assemblies over .NET Remoting with zip payloads. | VB.NET / .NET | 2007-12-25 |
 | [RunRemote-VB6](https://github.com/VaderConsulting/RunRemote-VB6) | VB6 Run Remote: copy deployment packages to servers and WMI remote execute/kill. | VB6 | 2026-08-27 |
 | [SafeString](https://github.com/VaderConsulting/SafeString) | Static safe-string library for Arduino with non-blocking Serial I/O helpers. | Arduino / C | 2022-02-03 |
+| [Samples](https://github.com/VaderConsulting/Samples) | C# sample collection: CaptureManager SDK WPF demos, Flyleaf media player, and OpenCvSharp samples. | C# / .NET | 2022-05-22 |
 | [Savemor](https://github.com/VaderConsulting/Savemor) | C# ASP.NET website for Savemor Pharmacy: catalogue, search, cart, and related products. | C# / .NET | 2014-01-23 |
 | [Savemor-Test](https://github.com/VaderConsulting/Savemor-Test) | C# ASP.NET MVC 4 test website for Savemor Pharmacy: category home page, product listing, cart, and store pages. | C# / .NET | 2013-06-09 |
 | [Scanner](https://github.com/VaderConsulting/Scanner) | VB6 barcode scanner interface: DAO form that adds or queries wedge-scanner barcodes against Access tables. | VB6 | 2026-08-27 |
@@ -433,6 +440,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [SpecGroups](https://github.com/VaderConsulting/SpecGroups) | VB6 Group Monitor that loads ADO group names and enumerates WinNT ADSI members into list boxes. | VB6 | 2026-08-27 |
 | [SqlBulkUpsert](https://github.com/VaderConsulting/SqlBulkUpsert) | C# SqlBulkCopy plus MERGE wrapper that bulk-upserts rows and returns inserted identities. | C# | 2013-08-13 |
 | [Sqlenum](https://github.com/VaderConsulting/Sqlenum) | VB6 SQL Server enumerator that lists network SQL Servers via NetServerEnum SV_TYPE_SQLSERVER. | VB6 | 2026-08-27 |
+| [SSRS](https://github.com/VaderConsulting/SSRS) | SQL Server Reporting Services report project that lists users from a UserAccounts database. | SSRS / RDL | 2019-02-08 |
 | [Stopwatch](https://github.com/VaderConsulting/Stopwatch) | Pocket PC WinForms stopwatch with three row timers plus a main timer, each with Start, Stop, and Reset. | VB.NET / .NET CF | 2004-08-12 |
 | [Stretch](https://github.com/VaderConsulting/Stretch) | VB6 StretchBlt demo that scales and copies a source picture or icon into a destination PictureBox. | VB6 | 1998-01-24 |
 | [Stub](https://github.com/VaderConsulting/Stub) | VB6 installer stub that reads Stub.ini beside the exe, then copies and registers the listed files. | VB6 | 2001-07-28 |
