@@ -33,7 +33,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [ActLog](https://github.com/VaderConsulting/ActLog) | VB.NET suite that tracks user logon and logoff events via broker services and a client UI. | VB.NET | 2009-01-17 |
 | [Adafruit_BusIO](https://github.com/VaderConsulting/Adafruit_BusIO) | Arduino library with I2C/SPI register read/write examples and address detection sketches. | Arduino / C | 2022-03-01 |
 | [Adafruit_Circuit_Playground](https://github.com/VaderConsulting/Adafruit_Circuit_Playground) | Arduino library that drives Adafruit Circuit Playground sensors, NeoPixels, buttons, and board peripherals. | Arduino / C | 2021-12-10 |
-| [Adafruit_GFX_Library](https://github.com/VaderConsulting/Adafruit_GFX_Library) | Core Adafruit GFX graphics class that other Adafruit display libraries build on. | Arduino / C | 2022-01-25 |
+| [Adafruit_GFX_Library](https://github.com/VaderConsulting/Adafruit_GFX_Library) | Core Adafruit GFX graphics class that other Adafruit display libraries build on. | Arduino / C | 2016-12-11 |
 | [Adafruit_GPS_Library](https://github.com/VaderConsulting/Adafruit_GPS_Library) | Interrupt-based Arduino GPS library for Adafruit GPS modules with ready-parsed NMEA data. | Arduino / C | 2022-02-11 |
 | [Adafruit_HMC5883_Unified](https://github.com/VaderConsulting/Adafruit_HMC5883_Unified) | Arduino driver for the HMC5883L 3-axis magnetometer via Adafruit's Unified Sensor API. | Arduino / C | 2019-05-23 |
 | [Adafruit_ILI9341](https://github.com/VaderConsulting/Adafruit_ILI9341) | Arduino graphics driver for Adafruit ILI9341 TFT LCD displays. | Arduino / C | 2021-11-03 |
