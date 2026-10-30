@@ -544,7 +544,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Zephyr-Android](https://github.com/VaderConsulting/Zephyr-Android) | B4A (Basic4Android) test app that talks to a Zephyr Bluetooth heart-rate / fitness device over serial. | B4A | 2015-06-20 |
 | [Zeta-HTML-Edit-Control](https://github.com/VaderConsulting/Zeta-HTML-Edit-Control) | C# WinForms HTML editor from Zeta Software GmbH (Uwe Keim) wrapping the .NET WebBrowser control for rich HTML editing. | C# / .NET | 2013-08-23 |
 
-*This listing includes 514 public repositories. Last updated: 2026-09-05 23:50 AWST (UTC+8).*
+*This listing includes 523 public repositories. Last updated: 2026-10-31 00:20 AWST (UTC+8).*
 
 ---
 
