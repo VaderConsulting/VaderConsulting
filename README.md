@@ -228,7 +228,6 @@ If you recognise code in any repository as your own work and it is not properly 
 | [ManagedWiFi](https://github.com/VaderConsulting/ManagedWiFi) | Third-party Native Wifi API wrapper (Monfort Software Engineering / CodePlex ManagedWifi). | - | 2016-03-08 |
 | [Mapstuff](https://github.com/VaderConsulting/Mapstuff) | CSC VB6 MapInfo .tab corner extractor that lists NW/NE/SE/SW coords and writes CSV. | VB6 | 2026-08-27 |
 | [Mapview](https://github.com/VaderConsulting/Mapview) | CSC VB6 map browser over Access MAP.mdb via MSADODC with colour/B&W images. | VB6 | 2026-08-27 |
-| [MarkdownToDocX](https://github.com/VaderConsulting/MarkdownToDocX) | .NET library and CLI for converting Markdown to Word `.docx`, including Mermaid diagram recognition and rendering. | C# / .NET 10 | 2026-10-29 |
 | [Mcafee](https://github.com/VaderConsulting/Mcafee) | CSC VB6 McInfo inventory reporter for McAfee VirusScan registry, service, and scans. | VB6 | 2026-08-27 |
 | [Message-Viewer](https://github.com/VaderConsulting/Message-Viewer) | CSC + D. Robinson VB6 Logon Status Message Viewer for KiXtart logs and charts. | VB6 | 2000-06-01 |
 | [Messages](https://github.com/VaderConsulting/Messages) | CSC VB6 Messages browser for domain netlogon broadcast message files. | VB6 | 2026-08-27 |
@@ -544,7 +543,7 @@ If you recognise code in any repository as your own work and it is not properly 
 | [Zephyr-Android](https://github.com/VaderConsulting/Zephyr-Android) | B4A (Basic4Android) test app that talks to a Zephyr Bluetooth heart-rate / fitness device over serial. | B4A | 2015-06-20 |
 | [Zeta-HTML-Edit-Control](https://github.com/VaderConsulting/Zeta-HTML-Edit-Control) | C# WinForms HTML editor from Zeta Software GmbH (Uwe Keim) wrapping the .NET WebBrowser control for rich HTML editing. | C# / .NET | 2013-08-23 |
 
-*This listing includes 523 public repositories. Last updated: 2026-10-31 00:20 AWST (UTC+8).*
+*This listing includes 522 public repositories. Last updated: 2026-11-06 00:25 AWST (UTC+8).*
 
 ---
 
